@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.1)  1 OCT 2022 14:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.1)  1 OCT 2022 16:05
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
 **Main.tex
 (./Main.tex
 LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-09-28> (./content/Packete_und_Deklarationen.tex
+L3 programming layer <2022-08-23> (./content/Packete_und_Deklarationen.tex
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/size10.clo
@@ -51,7 +51,7 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@dimlist=\toks17
 )
 (/opt/texlive/texdir/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2022/09/17 3.80 The Babel package
+Package: babel 2022/08/29 3.79 The Babel package
 \babel@savecnt=\count197
 \U@D=\dimen147
 \l@unhyphenated=\language87
@@ -76,10 +76,10 @@ Package babel Info: Importing font and identification data for ngerman
 (/opt/texlive/texdir/texmf-dist/tex/latex/lipsum/lipsum.sty
 (/opt/texlive/texdir/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 (/opt/texlive/texdir/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-09-28 L3 programming layer (loader) 
+Package: expl3 2022-08-23 L3 programming layer (loader) 
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2022-08-23 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count199
 \l__pdf_internal_box=\box51
 ))
@@ -125,15 +125,13 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
-\stockwidth=\dimen148
-\stockheight=\dimen149
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen150
-\Gin@req@width=\dimen151
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2022-09-22 v7.00t Hypertext links for LaTeX
+Package: hyperref 2022-06-20 v7.00s Hypertext links for LaTeX
 
 (/opt/texlive/texdir/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
@@ -172,11 +170,11 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count270
 )
-\@linkdim=\dimen152
+\@linkdim=\dimen150
 \Hy@linkcounter=\count271
 \Hy@pagecounter=\count272
 (/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2022-09-22 v7.00t Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2022-06-20 v7.00s Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
@@ -189,7 +187,7 @@ Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 \Hy@SavedSpaceFactor=\count273
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2022-09-22 v7.00t Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2022-06-20 v7.00s Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
@@ -200,15 +198,15 @@ Package hyperref Info: Hyper index ON on input line 4170.
 Package hyperref Info: Plain pages OFF on input line 4177.
 Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4410.
+Package hyperref Info: Bookmarks ON on input line 4408.
 \c@Hy@tempcnt=\count274
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4748.
-\XeTeXLinkMargin=\dimen153
+LaTeX Info: Redefining \url on input line 4746.
+\XeTeXLinkMargin=\dimen151
 
 (/opt/texlive/texdir/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -218,15 +216,15 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
 \Fld@menulength=\count275
-\Field@Width=\dimen154
-\Fld@charsize=\dimen155
-Package hyperref Info: Hyper figures OFF on input line 6027.
-Package hyperref Info: Link nesting OFF on input line 6032.
-Package hyperref Info: Hyper index ON on input line 6035.
-Package hyperref Info: backreferencing OFF on input line 6042.
-Package hyperref Info: Link coloring ON on input line 6045.
-Package hyperref Info: Link coloring with OCG OFF on input line 6052.
-Package hyperref Info: PDF/A mode OFF on input line 6057.
+\Field@Width=\dimen152
+\Fld@charsize=\dimen153
+Package hyperref Info: Hyper figures OFF on input line 6024.
+Package hyperref Info: Link nesting OFF on input line 6029.
+Package hyperref Info: Hyper index ON on input line 6032.
+Package hyperref Info: backreferencing OFF on input line 6039.
+Package hyperref Info: Link coloring ON on input line 6042.
+Package hyperref Info: Link coloring with OCG OFF on input line 6049.
+Package hyperref Info: PDF/A mode OFF on input line 6054.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
@@ -239,7 +237,7 @@ package with kernel methods
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2022-09-22 v7.00t Hyperref driver for pdfTeX
+File: hpdftex.def 2022-06-20 v7.00s Hyperref driver for pdfTeX
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
@@ -274,8 +272,8 @@ Package: tcolorbox 2022/06/24 version 5.1.1 text color boxes
 (/opt/texlive/texdir/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks18
-\pgfutil@tempdima=\dimen156
-\pgfutil@tempdimb=\dimen157
+\pgfutil@tempdima=\dimen154
+\pgfutil@tempdimb=\dimen155
 
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.
 tex))
@@ -301,16 +299,16 @@ Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 tex
 \pgfkeys@tmptoks=\toks21
 ))
-\pgf@x=\dimen158
-\pgf@y=\dimen159
-\pgf@xa=\dimen160
-\pgf@ya=\dimen161
-\pgf@xb=\dimen162
-\pgf@yb=\dimen163
-\pgf@xc=\dimen164
-\pgf@yc=\dimen165
-\pgf@xd=\dimen166
-\pgf@yd=\dimen167
+\pgf@x=\dimen156
+\pgf@y=\dimen157
+\pgf@xa=\dimen158
+\pgf@ya=\dimen159
+\pgf@xb=\dimen160
+\pgf@yb=\dimen161
+\pgf@xc=\dimen162
+\pgf@yc=\dimen163
+\pgf@xd=\dimen164
+\pgf@yd=\dimen165
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
 \c@pgf@counta=\count281
@@ -368,7 +366,7 @@ Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen168
+\pgfmath@dimen=\dimen166
 \pgfmath@count=\count288
 \pgfmath@box=\box53
 \pgfmath@toks=\toks25
@@ -399,32 +397,32 @@ ithmetics.code.tex)))
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.t
 ex
 File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@picminx=\dimen169
-\pgf@picmaxx=\dimen170
-\pgf@picminy=\dimen171
-\pgf@picmaxy=\dimen172
-\pgf@pathminx=\dimen173
-\pgf@pathmaxx=\dimen174
-\pgf@pathminy=\dimen175
-\pgf@pathmaxy=\dimen176
-\pgf@xx=\dimen177
-\pgf@xy=\dimen178
-\pgf@yx=\dimen179
-\pgf@yy=\dimen180
-\pgf@zx=\dimen181
-\pgf@zy=\dimen182
+\pgf@picminx=\dimen167
+\pgf@picmaxx=\dimen168
+\pgf@picminy=\dimen169
+\pgf@picmaxy=\dimen170
+\pgf@pathminx=\dimen171
+\pgf@pathmaxx=\dimen172
+\pgf@pathminy=\dimen173
+\pgf@pathmaxy=\dimen174
+\pgf@xx=\dimen175
+\pgf@xy=\dimen176
+\pgf@yx=\dimen177
+\pgf@yy=\dimen178
+\pgf@zx=\dimen179
+\pgf@zy=\dimen180
 )
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct
 .code.tex
 File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@path@lastx=\dimen183
-\pgf@path@lasty=\dimen184
+\pgf@path@lastx=\dimen181
+\pgf@path@lasty=\dimen182
 )
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.cod
 e.tex
 File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@shorten@end@additional=\dimen185
-\pgf@shorten@start@additional=\dimen186
+\pgf@shorten@end@additional=\dimen183
+\pgf@shorten@start@additional=\dimen184
 )
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.t
 ex
@@ -437,14 +435,14 @@ File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.
 code.tex
 File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgflinewidth=\dimen187
+\pgflinewidth=\dimen185
 )
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformatio
 ns.code.tex
 File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@pt@x=\dimen188
-\pgf@pt@y=\dimen189
-\pgf@pt@temp=\dimen190
+\pgf@pt@x=\dimen186
+\pgf@pt@y=\dimen187
+\pgf@pt@temp=\dimen188
 )
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.te
 x
@@ -461,12 +459,12 @@ File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.t
 ex
 File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfarrowsep=\dimen191
+\pgfarrowsep=\dimen189
 )
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.te
 x
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@max=\dimen192
+\pgf@max=\dimen190
 \pgf@sys@shading@range@num=\count291
 \pgf@shadingcount=\count292
 )
@@ -505,8 +503,8 @@ File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (/opt/texlive/texdir/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-6
 5.sty
 Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@nodesepstart=\dimen193
-\pgf@nodesepend=\dimen194
+\pgf@nodesepstart=\dimen191
+\pgf@nodesepend=\dimen192
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-1
 8.sty
@@ -547,8 +545,8 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen195
-\pgffor@skip=\dimen196
+\pgffor@iter=\dimen193
+\pgffor@skip=\dimen194
 \pgffor@stack=\toks31
 \pgffor@toks=\toks32
 ))
@@ -560,16 +558,16 @@ Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
 s.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@plot@mark@count=\count296
-\pgfplotmarksize=\dimen197
+\pgfplotmarksize=\dimen195
 )
-\tikz@lastx=\dimen198
-\tikz@lasty=\dimen199
-\tikz@lastxsaved=\dimen256
-\tikz@lastysaved=\dimen257
-\tikz@lastmovetox=\dimen258
-\tikz@lastmovetoy=\dimen259
-\tikzleveldistance=\dimen260
-\tikzsiblingdistance=\dimen261
+\tikz@lastx=\dimen196
+\tikz@lasty=\dimen197
+\tikz@lastxsaved=\dimen198
+\tikz@lastysaved=\dimen199
+\tikz@lastmovetox=\dimen256
+\tikz@lastmovetoy=\dimen257
+\tikzleveldistance=\dimen258
+\tikzsiblingdistance=\dimen259
 \tikz@figbox=\box67
 \tikz@figbox@bg=\box68
 \tikz@tempbox=\box69
@@ -595,10 +593,10 @@ File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta
 .code.tex
 File: pgflibraryarrows.meta.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfarrowinset=\dimen262
-\pgfarrowlength=\dimen263
-\pgfarrowwidth=\dimen264
-\pgfarrowlinewidth=\dimen265
+\pgfarrowinset=\dimen260
+\pgfarrowlength=\dimen261
+\pgfarrowwidth=\dimen262
+\pgfarrowlinewidth=\dimen263
 )
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/ti
 kzlibrarypositioning.code.tex
@@ -617,8 +615,8 @@ Library (tcolorbox): 'tcbskins.code.tex' version '5.1.1'
 Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '5.1.1'
 )) (/opt/texlive/texdir/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
 Library (tcolorbox): 'tcbbreakable.code.tex' version '5.1.1'
-(/opt/texlive/texdir/texmf-dist/tex/latex/pdfcol/pdfcol.sty
-Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
+(/opt/texlive/texdir/texmf-dist/tex/generic/oberdiek/pdfcol.sty
+Package: pdfcol 2019/12/29 v1.6 Handle new color stacks for pdfTeX (HO)
 )
 Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
 \tcb@testbox=\box72
@@ -654,11 +652,11 @@ Package: amstext 2021/08/26 v2.01 AMS text
 (/opt/texlive/texdir/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks33
-\ex@=\dimen266
+\ex@=\dimen264
 ))
 (/opt/texlive/texdir/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen267
+\pmbraise@=\dimen265
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
@@ -680,7 +678,7 @@ LaTeX Info: Redefining \big on input line 722.
 LaTeX Info: Redefining \Big on input line 723.
 LaTeX Info: Redefining \bigg on input line 724.
 LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen268
+\big@size=\dimen266
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \macc@depth=\count312
@@ -698,12 +696,12 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \column@=\count317
 \maxfields@=\count318
 \andhelp@=\toks35
-\eqnshift@=\dimen269
-\alignsep@=\dimen270
-\tagshift@=\dimen271
-\tagwidth@=\dimen272
-\totwidth@=\dimen273
-\lineht@=\dimen274
+\eqnshift@=\dimen267
+\alignsep@=\dimen268
+\tagshift@=\dimen269
+\tagwidth@=\dimen270
+\totwidth@=\dimen271
+\lineht@=\dimen272
 \@envbody=\toks36
 \multlinegap=\skip51
 \multlinetaggap=\skip52
@@ -718,14 +716,14 @@ Library (tcolorbox): 'tcblistings.code.tex' version '5.1.1'
 \lst@gtempboxa=\box77
 \lst@token=\toks38
 \lst@length=\count320
-\lst@currlwidth=\dimen275
+\lst@currlwidth=\dimen273
 \lst@column=\count321
 \lst@pos=\count322
-\lst@lostspace=\dimen276
-\lst@width=\dimen277
+\lst@lostspace=\dimen274
+\lst@width=\dimen275
 \lst@newlines=\count323
 \lst@lineno=\count324
-\lst@maxwidth=\dimen278
+\lst@maxwidth=\dimen276
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
@@ -777,16 +775,16 @@ Package: lineno 2005/11/02 line numbers on paragraphs v4.41
 \linenopenalty=\count331
 \output=\toks39
 \linenoprevgraf=\count332
-\linenumbersep=\dimen279
-\linenumberwidth=\dimen280
+\linenumbersep=\dimen277
+\linenumberwidth=\dimen278
 \c@linenumber=\count333
 \c@pagewiselinenumber=\count334
 \c@LN@truepage=\count335
 \c@internallinenumber=\count336
 \c@internallinenumbers=\count337
-\quotelinenumbersep=\dimen281
-\bframerule=\dimen282
-\bframesep=\dimen283
+\quotelinenumbersep=\dimen279
+\bframerule=\dimen280
+\bframesep=\dimen281
 \bframebox=\box80
 LaTeX Info: Redefining \\ on input line 3056.
 )
@@ -798,27 +796,27 @@ LaTeX Info: Redefining \\ on input line 3056.
 \c@FV@HighlightLinesStop=\count341
 \FV@LoopCount=\count342
 \FV@NCharsBox=\box82
-\FV@BreakIndent=\dimen284
+\FV@BreakIndent=\dimen282
 \FV@BreakIndentNChars=\count343
-\FV@BreakSymbolSepLeft=\dimen285
+\FV@BreakSymbolSepLeft=\dimen283
 \FV@BreakSymbolSepLeftNChars=\count344
-\FV@BreakSymbolSepRight=\dimen286
+\FV@BreakSymbolSepRight=\dimen284
 \FV@BreakSymbolSepRightNChars=\count345
-\FV@BreakSymbolIndentLeft=\dimen287
+\FV@BreakSymbolIndentLeft=\dimen285
 \FV@BreakSymbolIndentLeftNChars=\count346
-\FV@BreakSymbolIndentRight=\dimen288
+\FV@BreakSymbolIndentRight=\dimen286
 \FV@BreakSymbolIndentRightNChars=\count347
 \c@FancyVerbLineBreakLast=\count348
 \FV@LineBox=\box83
 \FV@LineIndentBox=\box84
-\FV@LineWidth=\dimen289
+\FV@LineWidth=\dimen287
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count349
 \calc@Bcount=\count350
-\calc@Adimen=\dimen290
-\calc@Bdimen=\dimen291
+\calc@Adimen=\dimen288
+\calc@Bdimen=\dimen289
 \calc@Askip=\skip54
 \calc@Bskip=\skip55
 LaTeX Info: Redefining \setlength on input line 80.
@@ -851,10 +849,10 @@ Package: xstring 2021/07/21 v1.84 String manipulations (CT)
 (/opt/texlive/texdir/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \OuterFrameSep=\skip57
-\fb@frw=\dimen292
-\fb@frh=\dimen293
-\FrameRule=\dimen294
-\FrameSep=\dimen295
+\fb@frw=\dimen290
+\fb@frh=\dimen291
+\FrameRule=\dimen292
+\FrameSep=\dimen293
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
@@ -1109,7 +1107,7 @@ File: biblatex.cfg
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 Package biblatex Info: ... and expl3
-(biblatex)             2022-09-28 L3 programming layer (loader) 
+(biblatex)             2022-08-23 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
@@ -1125,12 +1123,12 @@ Package: pdfpages 2022/05/22 v0.5v Insert pages of external PDF documents (AM)
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
-\ESO@tempdima=\dimen296
-\ESO@tempdimb=\dimen297
+\ESO@tempdima=\dimen294
+\ESO@tempdimb=\dimen295
 )
-\AM@pagewidth=\dimen298
-\AM@pageheight=\dimen299
-\AM@fboxrule=\dimen300
+\AM@pagewidth=\dimen296
+\AM@pageheight=\dimen297
+\AM@fboxrule=\dimen298
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/pdfpages/pppdftex.def
 File: pppdftex.def 2022/05/22 v0.5v Pdfpages driver for pdfTeX (AM)
@@ -1145,33 +1143,32 @@ File: pppdftex.def 2022/05/22 v0.5v Pdfpages driver for pdfTeX (AM)
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen301
-\lightrulewidth=\dimen302
-\cmidrulewidth=\dimen303
-\belowrulesep=\dimen304
-\belowbottomsep=\dimen305
-\aboverulesep=\dimen306
-\abovetopsep=\dimen307
-\cmidrulesep=\dimen308
-\cmidrulekern=\dimen309
-\defaultaddspace=\dimen310
+\heavyrulewidth=\dimen299
+\lightrulewidth=\dimen300
+\cmidrulewidth=\dimen301
+\belowrulesep=\dimen302
+\belowbottomsep=\dimen303
+\aboverulesep=\dimen304
+\abovetopsep=\dimen305
+\cmidrulesep=\dimen306
+\cmidrulekern=\dimen307
+\defaultaddspace=\dimen308
 \@cmidla=\count487
 \@cmidlb=\count488
-\@aboverulesep=\dimen311
-\@belowrulesep=\dimen312
+\@aboverulesep=\dimen309
+\@belowrulesep=\dimen310
 \@thisruleclass=\count489
 \@lastruleclass=\count490
-\@thisrulewidth=\dimen313
+\@thisrulewidth=\dimen311
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/nicematrix/nicematrix.sty
-Package: nicematrix 2022/09/17 v6.13a Enhanced arrays with the help of PGF/TikZ
-
+Package: nicematrix 2022/08/24 v6.13 Enhanced arrays with the help of PGF/TikZ
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/tools/array.sty
 Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
-\col@sep=\dimen314
+\col@sep=\dimen312
 \ar@mcellbox=\box90
-\extrarowheight=\dimen315
+\extrarowheight=\dimen313
 \NC@list=\toks45
 \extratabsurround=\skip80
 \backup@length=\skip81
@@ -1180,70 +1177,70 @@ Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
 \g__nicematrix_env_int=\count491
 \g__nicematrix_NiceMatrixBlock_int=\count492
 \l__nicematrix_note_in_caption_int=\count493
-\l__nicematrix_columns_width_dim=\dimen316
-\l__nicematrix_col_width_dim=\dimen317
+\l__nicematrix_columns_width_dim=\dimen314
+\l__nicematrix_col_width_dim=\dimen315
 \g__nicematrix_row_total_int=\count494
 \g__nicematrix_col_total_int=\count495
 \g__nicematrix_last_row_node_int=\count496
 \l__nicematrix_key_nb_rows_int=\count497
-\g__nicematrix_blocks_wd_dim=\dimen318
-\g__nicematrix_blocks_ht_dim=\dimen319
-\g__nicematrix_blocks_dp_dim=\dimen320
-\l__nicematrix_width_dim=\dimen321
-\l__nicematrix_tabular_width_dim=\dimen322
-\l__nicematrix_rule_width_dim=\dimen323
+\g__nicematrix_blocks_wd_dim=\dimen316
+\g__nicematrix_blocks_ht_dim=\dimen317
+\g__nicematrix_blocks_dp_dim=\dimen318
+\l__nicematrix_width_dim=\dimen319
+\l__nicematrix_tabular_width_dim=\dimen320
+\l__nicematrix_rule_width_dim=\dimen321
 \l__nicematrix_old_iRow_int=\count498
 \l__nicematrix_old_jCol_int=\count499
 \g__nicematrix_total_X_weight_int=\count500
-\l__nicematrix_X_columns_dim=\dimen324
-\l__nicematrix_x_initial_dim=\dimen325
-\l__nicematrix_y_initial_dim=\dimen326
-\l__nicematrix_x_final_dim=\dimen327
-\l__nicematrix_y_final_dim=\dimen328
-\l__nicematrix_tmpc_dim=\dimen329
-\l__nicematrix_tmpd_dim=\dimen330
-\g__nicematrix_width_last_col_dim=\dimen331
-\g__nicematrix_width_first_col_dim=\dimen332
+\l__nicematrix_X_columns_dim=\dimen322
+\l__nicematrix_x_initial_dim=\dimen323
+\l__nicematrix_y_initial_dim=\dimen324
+\l__nicematrix_x_final_dim=\dimen325
+\l__nicematrix_y_final_dim=\dimen326
+\l__nicematrix_tmpc_dim=\dimen327
+\l__nicematrix_tmpd_dim=\dimen328
+\g__nicematrix_width_last_col_dim=\dimen329
+\g__nicematrix_width_first_col_dim=\dimen330
 \l__nicematrix_row_min_int=\count501
 \l__nicematrix_row_max_int=\count502
 \l__nicematrix_col_min_int=\count503
 \l__nicematrix_col_max_int=\count504
 \g__nicematrix_static_num_of_col_int=\count505
-\l__nicematrix_rounded_corners_dim=\dimen333
-\l__nicematrix_line_width_dim=\dimen334
+\l__nicematrix_rounded_corners_dim=\dimen331
+\l__nicematrix_line_width_dim=\dimen332
 \g__nicematrix_block_box_int=\count506
-\l__nicematrix_submatrix_extra_height_dim=\dimen335
-\l__nicematrix_submatrix_left_xshift_dim=\dimen336
-\l__nicematrix_submatrix_right_xshift_dim=\dimen337
+\l__nicematrix_submatrix_extra_height_dim=\dimen333
+\l__nicematrix_submatrix_left_xshift_dim=\dimen334
+\l__nicematrix_submatrix_right_xshift_dim=\dimen335
 \l__nicematrix_first_row_int=\count507
 \l__nicematrix_first_col_int=\count508
 \l__nicematrix_last_row_int=\count509
 \l__nicematrix_last_col_int=\count510
 \c@tabularnote=\count511
 \c@nicematrix_draft=\count512
-\l__nicematrix_cell_space_top_limit_dim=\dimen338
-\l__nicematrix_cell_space_bottom_limit_dim=\dimen339
-\l__nicematrix_xdots_inter_dim=\dimen340
-\l__nicematrix_xdots_shorten_start_dim=\dimen341
-\l__nicematrix_xdots_shorten_end_dim=\dimen342
-\l__nicematrix_xdots_radius_dim=\dimen343
-\l__nicematrix_notes_above_space_dim=\dimen344
-\l__nicematrix_left_margin_dim=\dimen345
-\l__nicematrix_right_margin_dim=\dimen346
-\l__nicematrix_extra_left_margin_dim=\dimen347
-\l__nicematrix_extra_right_margin_dim=\dimen348
-\c__nicematrix_max_l_dim=\dimen349
+\l__nicematrix_cell_space_top_limit_dim=\dimen336
+\l__nicematrix_cell_space_bottom_limit_dim=\dimen337
+\l__nicematrix_xdots_inter_dim=\dimen338
+\l__nicematrix_xdots_shorten_start_dim=\dimen339
+\l__nicematrix_xdots_shorten_end_dim=\dimen340
+\l__nicematrix_xdots_radius_dim=\dimen341
+\l__nicematrix_notes_above_space_dim=\dimen342
+\l__nicematrix_left_margin_dim=\dimen343
+\l__nicematrix_right_margin_dim=\dimen344
+\l__nicematrix_extra_left_margin_dim=\dimen345
+\l__nicematrix_extra_right_margin_dim=\dimen346
+\c__nicematrix_max_l_dim=\dimen347
 \l__nicematrix_position_int=\count513
 \l__nicematrix_start_int=\count514
 \l__nicematrix_multiplicity_int=\count515
-\l__nicematrix_brace_yshift_dim=\dimen350
+\l__nicematrix_brace_yshift_dim=\dimen348
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip82
 \multirow@cntb=\count516
 \multirow@dima=\skip83
-\bigstrutjot=\dimen351
+\bigstrutjot=\dimen349
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
@@ -1259,8 +1256,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (/opt/texlive/texdir/texmf-dist/tex/latex/footmisc/footmisc.sty
 Package: footmisc 2022/03/08 v6.0d a miscellany of footnote facilities
 \FN@temptoken=\toks46
-\footnotemargin=\dimen352
-\@outputbox@depth=\dimen353
+\footnotemargin=\dimen350
+\@outputbox@depth=\dimen351
 Package footmisc Info: Declaring symbol style bringhurst on input line 695.
 Package footmisc Info: Declaring symbol style chicago on input line 703.
 Package footmisc Info: Declaring symbol style wiley on input line 712.
@@ -1292,12 +1289,12 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box92
 \beforetitleunit=\skip93
 \aftertitleunit=\skip94
-\ttl@plus=\dimen354
-\ttl@minus=\dimen355
+\ttl@plus=\dimen352
+\ttl@minus=\dimen353
 \ttl@toksa=\toks47
-\titlewidth=\dimen356
-\titlewidthlast=\dimen357
-\titlewidthfirst=\dimen358
+\titlewidth=\dimen354
+\titlewidthlast=\dimen355
+\titlewidthfirst=\dimen356
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
@@ -1317,7 +1314,7 @@ Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
 (/opt/texlive/texdir/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip95
-\enit@outerparindent=\dimen359
+\enit@outerparindent=\dimen357
 \enit@toks=\toks48
 \enit@inbox=\box93
 \enit@count@id=\count517
@@ -1332,7 +1329,7 @@ LaTeX Info: Redefining \noprotrusionifhmode on input line 1045.
 LaTeX Info: Redefining \leftprotrusion on input line 1046.
 LaTeX Info: Redefining \rightprotrusion on input line 1056.
 LaTeX Info: Redefining \textls on input line 1234.
-\MT@outer@kern=\dimen360
+\MT@outer@kern=\dimen358
 LaTeX Info: Redefining \textmicrotypecontext on input line 1858.
 \MT@listname@count=\count520
 
@@ -1356,14 +1353,14 @@ Package: caption 2022/03/01 v3.6b Customizing captions (AR)
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
-\caption@tempdima=\dimen361
-\captionmargin=\dimen362
-\caption@leftmargin=\dimen363
-\caption@rightmargin=\dimen364
-\caption@width=\dimen365
-\caption@indent=\dimen366
-\caption@parindent=\dimen367
-\caption@hangindent=\dimen368
+\caption@tempdima=\dimen359
+\captionmargin=\dimen360
+\caption@leftmargin=\dimen361
+\caption@rightmargin=\dimen362
+\caption@width=\dimen363
+\caption@indent=\dimen364
+\caption@parindent=\dimen365
+\caption@hangindent=\dimen366
 Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count521
@@ -1374,7 +1371,7 @@ Package caption Info: listings package is loaded.
 )
 \c@KVtest=\count523
 \sf@farskip=\skip97
-\sf@captopadj=\dimen369
+\sf@captopadj=\dimen367
 \sf@capskip=\skip98
 \sf@nearskip=\skip99
 \c@subfigure=\count524
@@ -1454,16 +1451,16 @@ Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
 \g_MT_multlinerow_int=\count536
-\l_MT_multwidth_dim=\dimen370
+\l_MT_multwidth_dim=\dimen368
 \origjot=\skip103
-\l_MT_shortvdotswithinadjustabove_dim=\dimen371
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen372
-\l_MT_above_intertext_sep=\dimen373
-\l_MT_below_intertext_sep=\dimen374
-\l_MT_above_shortintertext_sep=\dimen375
-\l_MT_below_shortintertext_sep=\dimen376
+\l_MT_shortvdotswithinadjustabove_dim=\dimen369
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen370
+\l_MT_above_intertext_sep=\dimen371
+\l_MT_below_intertext_sep=\dimen372
+\l_MT_above_shortintertext_sep=\dimen373
+\l_MT_below_shortintertext_sep=\dimen374
 \xmathstrut@box=\box95
-\xmathstrut@dim=\dimen377
+\xmathstrut@dim=\dimen375
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/breqn/breqn.sty
 Package: breqn 2021/10/28 v0.98l Breaking equations
@@ -1509,15 +1506,15 @@ LaTeX Info: Redefining \genfrac on input line 149.
 ))
 \inf@bad=\count537
 \maxint=\count538
-\listwidth=\dimen378
-\eqnumsep=\dimen379
-\eqmargin=\dimen380
+\listwidth=\dimen376
+\eqnumsep=\dimen377
+\eqmargin=\dimen378
 \eqlinespacing=\skip104
 \eqlineskip=\skip105
-\eqlineskiplimit=\dimen381
+\eqlineskiplimit=\dimen379
 \eqbinoffset=\muskip22
 \eqdelimoffset=\muskip23
-\eqindentstep=\dimen382
+\eqindentstep=\dimen380
 \eqstyle=\toks53
 \eqbreakdepth=\count539
 \eqinterlinepenalty=\count540
@@ -1534,31 +1531,31 @@ LaTeX Info: Redefining \genfrac on input line 149.
 \EQ@box=\box96
 \EQ@copy=\box97
 \EQ@numbox=\box98
-\eq@wdNum=\dimen383
+\eq@wdNum=\dimen381
 \GRP@numbox=\box99
-\grp@wdNum=\dimen384
+\grp@wdNum=\dimen382
 \eq@lines=\count544
 \eq@curline=\count545
 \eq@badness=\count546
 \EQ@vims=\count547
-\eq@dp=\dimen385
-\eq@wdL=\dimen386
-\eq@wdT=\dimen387
-\eq@wdMin=\dimen388
-\grp@wdL=\dimen389
-\grp@wdR=\dimen390
-\grp@wdT=\dimen391
-\eq@wdRmax=\dimen392
-\eq@firstht=\dimen393
-\eq@wdCond=\dimen394
-\eq@indentstep=\dimen395
-\eq@linewidth=\dimen396
-\grp@linewidth=\dimen397
-\eq@hshift=\dimen398
-\eq@given@sidespace=\dimen399
-\mathindent=\dimen400
+\eq@dp=\dimen383
+\eq@wdL=\dimen384
+\eq@wdT=\dimen385
+\eq@wdMin=\dimen386
+\grp@wdL=\dimen387
+\grp@wdR=\dimen388
+\grp@wdT=\dimen389
+\eq@wdRmax=\dimen390
+\eq@firstht=\dimen391
+\eq@wdCond=\dimen392
+\eq@indentstep=\dimen393
+\eq@linewidth=\dimen394
+\grp@linewidth=\dimen395
+\eq@hshift=\dimen396
+\eq@given@sidespace=\dimen397
+\mathindent=\dimen398
 \eq@final@linecount=\count548
-\eq@wdR=\dimen401
+\eq@wdR=\dimen399
 \EQ@continue=\toks54
 \lr@level=\count549
 \GRP@queue=\toks55
@@ -1592,7 +1589,7 @@ File: tikzlibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code
 .tex
 File: pgflibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\arrowsize=\dimen402
+\arrowsize=\dimen400
 ))
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/ti
 kzlibrarydecorations.pathmorphing.code.tex
@@ -1600,14 +1597,14 @@ kzlibrarydecorations.pathmorphing.code.tex
 kzlibrarydecorations.code.tex
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.co
 de.tex
-\pgfdecoratedcompleteddistance=\dimen403
-\pgfdecoratedremainingdistance=\dimen404
-\pgfdecoratedinputsegmentcompleteddistance=\dimen405
-\pgfdecoratedinputsegmentremainingdistance=\dimen406
-\pgf@decorate@distancetomove=\dimen407
+\pgfdecoratedcompleteddistance=\dimen401
+\pgfdecoratedremainingdistance=\dimen402
+\pgfdecoratedinputsegmentcompleteddistance=\dimen403
+\pgfdecoratedinputsegmentremainingdistance=\dimen404
+\pgf@decorate@distancetomove=\dimen405
 \pgf@decorate@repeatstate=\count552
-\pgfdecorationsegmentamplitude=\dimen408
-\pgfdecorationsegmentlength=\dimen409
+\pgfdecorationsegmentamplitude=\dimen406
+\pgfdecorationsegmentlength=\dimen407
 )
 \tikz@lib@dec@box=\box102
 )
@@ -1617,7 +1614,7 @@ ydecorations.pathmorphing.code.tex))
 kzlibrarytrees.code.tex
 File: tikzlibrarytrees.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-\l__tikzsymbols_Moai_thickness_dim=\dimen410
+\l__tikzsymbols_Moai_thickness_dim=\dimen408
 \l__tikzsymbols_Kochtopf_nr_arguments_int=\count553
 \l__tikzsymbols_Bratpfanne_nr_arguments_int=\count554
 \l__tikzsymbols_Schneebesen_nr_arguments_int=\count555
@@ -1720,12 +1717,12 @@ Package: relsize 2013/03/29 ver 4.1
 \skiplength=\skip118
 \algomargin=\skip119
 \skipalgocfslide=\skip120
-\algowidth=\dimen411
-\inoutsize=\dimen412
-\inoutindent=\dimen413
-\interspacetitleruled=\dimen414
-\interspacealgoruled=\dimen415
-\interspacetitleboxruled=\dimen416
+\algowidth=\dimen409
+\inoutsize=\dimen410
+\inoutindent=\dimen411
+\interspacetitleruled=\dimen412
+\interspacealgoruled=\dimen413
+\interspacetitleboxruled=\dimen414
 \algocf@ruledwidth=\skip121
 \algocf@inoutbox=\box103
 \algocf@inputbox=\box104
@@ -1753,7 +1750,7 @@ Package: titleref 2001/04/05 v3.1  Cross-references with titles.
 LaTeX Info: Redefining \TR@nestwarn on input line 135.
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/csquotes/csquotes.sty
-Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
+Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
 \csq@reset=\count639
 \csq@gtype=\count640
 \csq@glevel=\count641
@@ -1763,7 +1760,7 @@ Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
 \csq@ltx@everypar=\toks56
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/csquotes/csquotes.def
-File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
+File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
@@ -1780,8 +1777,13 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
-
-No file Main.aux.
+ (./Main.aux (./content/Motivation.aux)
+(./content/Einführung.aux) (./content/Implementierung1_Tables_DT_AST.aux)
+(./content/Implementierung2_Pntr_Array.aux)
+(./content/Implementierung3_Struct_Derived.aux)
+(./content/Implementierung4_Fun.aux)
+(./content/Implementierung5_Fehlermeldungen.aux)
+(./content/Ergebnisse_und_Ausblick.aux) (./content/Appendix.aux))
 \openout1 = `Main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -1802,6 +1804,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1839,13 +1842,13 @@ LaTeX Font Info:    ... okay on input line 16.
 (/opt/texlive/texdir/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count645
-\scratchdimen=\dimen417
+\scratchdimen=\dimen415
 \scratchbox=\box111
 \nofMPsegments=\count646
 \nofMParguments=\count647
 \everyMPshowfont=\toks57
 \MPscratchCnt=\count648
-\MPscratchDim=\dimen418
+\MPscratchDim=\dimen416
 \MPnumerator=\count649
 \makeMPintoPDFobject=\count650
 \everyMPtoPDFconversion=\toks58
@@ -1859,6 +1862,8 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 Package hyperref Info: Link coloring ON on input line 16.
+
+(./Main.out) (./Main.out)
 \@outlinefile=\write7
 \openout7 = `Main.out'.
 
@@ -1890,30 +1895,17 @@ Package biblatex Info: Automatic encoding selection.
 \openout6 = `Main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'Main.bbl' not found.
-
-No file Main.bbl.
+Package biblatex Info: ... file 'Main.bbl' found.
+ (./Main.bbl)
 Package biblatex Info: Reference section=0 on input line 16.
 Package biblatex Info: Reference segment=0 on input line 16.
-(/opt/texlive/texdir/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+ (/opt/texlive/texdir/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 16.
-
-
-(/opt/texlive/texdir/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 16.
-
-
-(/opt/texlive/texdir/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 \c@tabularnotesi=\count652
 \enitdp@tabularnotes=\count653
@@ -1945,7 +1937,25 @@ Package caption Info: End \AtBeginDocument code.
 Package newfloat Info: Trying Plan B...
 Package newfloat Info: `float' package detected.
 
-(./content/Titlepage.tex [1
+(./content/Titlepage.tex
+LaTeX Font Info:    Trying to load font information for U+msa on input line 42.
+
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 42.
+
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+) [1
 
 {/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
 *geometry* verbose mode - [ newgeometry ] result:
@@ -1980,56 +1990,72 @@ Package newfloat Info: `float' package detected.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-No file Main.toc.
-\tf@toc=\write8
-\openout8 = `Main.toc'.
-
-
+ (./Main.toc
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.38   \clearpage
-                  [1
+l.43 ...erer Bedeutung}{74}{subsubsection.3.2.5.3}
+                                                  % [1
 
 
-]
-No file Main.lof.
+] [2])
+\tf@toc=\write8
+\openout8 = `Main.toc'.
+
+ [3] (./Main.lof)
 \tf@lof=\write9
 \openout9 = `Main.lof'.
+
 
 [1
 
 
-]
-No file Main.locodecaption.
+] (./Main.locodecaption [2
+
+] [3]
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+)
 \tf@locodecaption=\write10
 \openout10 = `Main.locodecaption'.
 
-[2
-
-]
-No file Main.lot.
+ [4] (./Main.lot)
 \tf@lot=\write11
 \openout11 = `Main.lot'.
 
-[3
+ [5
 
-]
-No file Main.theorem_list.
+] (./Main.theorem_list
+[6
+
+])
 \tf@theorem_list=\write12
 \openout12 = `Main.theorem_list'.
 
-[4
+ [7] (./Main.lofloatgrammar
+Overfull \hbox (2.55557pt too wide) detected at line 17
+\OT1/cmr/m/n/10 3.2.10 
+ []
 
-]
-No file Main.lofloatgrammar.
+
+Overfull \hbox (2.55557pt too wide) detected at line 27
+\OT1/cmr/m/n/10 3.3.10 
+ []
+
+
+Overfull \hbox (2.55557pt too wide) detected at line 28
+\OT1/cmr/m/n/10 3.3.11 
+ []
+
+)
 \tf@lofloatgrammar=\write13
 \openout13 = `Main.lofloatgrammar'.
 
 \c@tcb@cnt@Definition=\count656
-[5
+ [8
 
 ]
 \openout2 = `./content/Motivation.aux'.
@@ -2038,56 +2064,21 @@ No file Main.lofloatgrammar.
 Kapitel 1.
 Package newfloat Info: Setting Plan B file extension to `lof'... on input line 
 13.
-(/opt/texlive/texdir/texmf-dist/tex/latex/microtype/mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-(/opt/texlive/texdir/texmf-dist/tex/latex/microtype/mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
-<./figures/lupe.png, id=49, 177.13235pt x 223.8953pt>
+<./figures/lupe.png, id=1192, 177.13235pt x 223.8953pt>
 File: ./figures/lupe.png Graphic file (type png)
 <use ./figures/lupe.png>
 Package pdftex.def Info: ./figures/lupe.png  used on input line 20.
 (pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
-
-
-LaTeX Warning: Citation 'noauthor_gcc_nodate' on page 1 undefined on input line
- 24.
-
-
-LaTeX Warning: Citation 'noauthor_clang_nodate' on page 1 undefined on input li
-ne 24.
-
-
-LaTeX Warning: Reference `def:maschienensprache' on page 1 undefined on input l
-ine 24.
-
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `cmtt' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
 Package pdfrender Info: New color stack `TextRenderingMode' = 2 on input line 2
 6.
 Package pdfrender Info: New color stack `LineWidth' = 3 on input line 26.
-
-LaTeX Warning: Reference `def:objectcode' on page 1 undefined on input line 26.
-
-
-
-LaTeX Warning: Reference `fig:ausfuhren_eines_programs_gcc' on page 1 undefined
- on input line 26.
-
-<./figures/compiler_black_box_code.png, id=55, 497.2176pt x 71.11368pt>
+<./figures/compiler_black_box_code.png, id=1203, 497.2176pt x 71.11368pt>
 File: ./figures/compiler_black_box_code.png Graphic file (type png)
 <use ./figures/compiler_black_box_code.png>
 Package pdftex.def Info: ./figures/compiler_black_box_code.png  used on input l
 ine 30.
 (pdftex.def)             Requested size: 283.22162pt x 40.50916pt.
-
-LaTeX Warning: Reference `fig:ausfuhren_eines_programs' on page 1 undefined on 
-input line 35.
-
-<./figures/compiler_black_box.png, id=56, 435.35448pt x 73.42632pt>
+<./figures/compiler_black_box.png, id=1205, 435.35448pt x 73.42632pt>
 File: ./figures/compiler_black_box.png Graphic file (type png)
 <use ./figures/compiler_black_box.png>
 Package pdftex.def Info: ./figures/compiler_black_box.png  used on input line 3
@@ -2104,295 +2095,56 @@ l.43
 
 
  <./figures/lupe.png> <./figures/compiler_black_box_code.png>]
-
-LaTeX Warning: Reference `fig:ausfuhren_eines_programs' on page 2 undefined on 
-input line 44.
-
-
-LaTeX Warning: Reference `ch:motivation' on page 2 undefined on input line 50.
-
-
-LaTeX Warning: Reference `sec:reti_architektur' on page 2 undefined on input li
-ne 50.
-
-
-LaTeX Warning: Reference `sec:picoc' on page 2 undefined on input line 50.
-
-
-LaTeX Warning: Reference `sec:eigenheiten_der_sprachen_c_und_picoc' on page 2 u
-ndefined on input line 50.
-
-
-LaTeX Warning: Reference `sec:selbst_gestellte_schwerpunktsetzungen' on page 2 
-undefined on input line 50.
-
-
-LaTeX Warning: Reference `sec:still_der_arbeit' on page 2 undefined on input li
-ne 50.
-
-
-LaTeX Warning: Citation 'scholl_betriebssysteme_2020' on page 2 undefined on in
-put line 55.
-
-
-LaTeX Warning: Citation 'scholl_technische_2022' on page 2 undefined on input l
-ine 55.
-
-
-LaTeX Warning: Citation 'scholl_technische_2022' on page 2 undefined on input l
-ine 55.
-
-
-LaTeX Warning: Citation 'scholl_betriebssysteme_2020' on page 2 undefined on in
-put line 55.
-
-
-LaTeX Warning: Citation 'scholl_betriebssysteme_2020' on page 2 undefined on in
-put line 57.
-
-
-LaTeX Warning: Citation 'scholl_technische_2022' on page 2 undefined on input l
-ine 57.
-
-
-LaTeX Warning: Citation 'scholl_betriebssysteme_2020' on page 2 undefined on in
-put line 57.
-
 File: ./figures/lupe.png Graphic file (type png)
 <use ./figures/lupe.png>
 Package pdftex.def Info: ./figures/lupe.png  used on input line 59.
 (pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
 
-LaTeX Warning: Citation 'scholl_betriebssysteme_2020' on page 2 undefined on in
-put line 60.
-
-
-Underfull \hbox (badness 2856) in paragraph at lines 60--61
-[]\OT1/cmr/m/n/10 (+20) In die-ser []\OT1/cmr/bx/n/10 (+20) Ba-che-lor-ar-beit[
-] \OT1/cmr/m/n/10 (+20) wird []\OT1/cmr/bx/n/10 (+20) im Fol-gen-den[] \OT1/cmr
-/m/n/10 (+20) bei der []\OT1/cmr/bx/n/10 (+20) Ma-schi-nen-spra-che[] $\OML/cmm
-/m/it/10 L[]$ \OT1/cmr/m/n/10 (+20) im-
- []
-
-
-Underfull \hbox (badness 1910) in paragraph at lines 60--61
-\OT1/cmr/m/n/10 (+20) mer von der Va-ri-an-te aus-ge-gan-gen, wel-che durch die
- []\OT1/cmr/bx/n/10 (+20) RETI-Architektur[] \OT1/cmr/m/n/10 (+20) aus der Vor-
-le-
- []
-
-
-LaTeX Warning: Reference `tab:register_der_reti_architektur' on page 2 undefine
-d on input line 65.
-
-
-LaTeX Warning: Reference `ch:appendix' on page 2 undefined on input line 65.
-
-
-LaTeX Warning: Reference `gr:konkrette_syntax_l_reti_lexer' on page 2 undefined
- on input line 65.
-
-
-LaTeX Warning: Reference `gr:konkrette_syntax_l_reti_parser' on page 2 undefine
-d on input line 65.
-
-[2 <./figures/compiler_black_box.png>]
-\g__nicematrix_max_cell_width_dim=\dimen419
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.66 
+      [2 <./figures/compiler_black_box.png>]
+\g__nicematrix_max_cell_width_dim=\dimen417
 \c@iRow=\count657
 \c@jCol=\count658
+\l__nicematrix_color_int=\count659
+\l__nicematrix_tmpc_int=\count660
 \l__nicematrix_cell_box=\box112
 \l__nicematrix_the_array_box=\box113
-\l__nicematrix_left_delim_dim=\dimen420
-\l__nicematrix_right_delim_dim=\dimen421
-\l__nicematrix_weight_int=\count659
-\g__nicematrix_dp_row_zero_dim=\dimen422
-\g__nicematrix_ht_row_zero_dim=\dimen423
-\g__nicematrix_ht_row_one_dim=\dimen424
-\g__nicematrix_dp_ante_last_row_dim=\dimen425
-\g__nicematrix_ht_last_row_dim=\dimen426
-\g__nicematrix_dp_last_row_dim=\dimen427
-
-Underfull \hbox (badness 1460) in paragraph at lines 90--90
-\OT1/cmr/bx/n/10 (+20) Spei-cher-zel-le[] \OT1/cmr/m/n/10 (+20) am []\OT1/cmr/b
-x/n/10 (+20) En-de[] \OT1/cmr/m/n/10 (+20) des
- []
-
-
-Underfull \hbox (badness 3503) in paragraph at lines 91--91
-\OT1/cmr/bx/n/10 (+20) fra-mes[] \OT1/cmr/m/n/10 (+20) der ak-tu-ell []\OT1/cmr
-/bx/n/10 (+20) ak-ti-ven
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
-[]\OT1/cmr/m/n/10 (+20) Wird
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
-\OT1/cmr/m/n/10 (+20) noch
- []
-
-
-Overfull \hbox (9.6505pt too wide) in paragraph at lines 95--95
-\OT1/cmr/m/n/10 (-20) erl[]autert. 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
-[]
- []
-
-
-Overfull \hbox (8.97186pt too wide) in paragraph at lines 95--95
-[]\OT1/cmr/bx/n/8 (-20) EPROM[]\OT1/cmr/m/n/8 (-20) ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
-\OT1/cmr/m/n/8 (+20) und
- []
-
-
-Overfull \hbox (1.28497pt too wide) in paragraph at lines 95--95
-[]\OT1/cmr/bx/n/8 (-20) SRAM[]\OT1/cmr/m/n/8 (-20) . 
- []
-
-
-Underfull \hbox (badness 1308) in paragraph at lines 95--95
-[]\OT1/cmr/m/n/8 (+20) Da die
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
-[]\OT1/cmr/bx/n/8 (+20) Me-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
-\OT1/cmr/bx/n/8 (+20) mo-ry
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
-\OT1/cmr/bx/n/8 (+20) Map[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
-\OT1/cmr/m/n/8 (+20) zum
- []
-
-
-Overfull \hbox (14.13019pt too wide) in paragraph at lines 95--95
-\OT1/cmr/m/n/8 (-20) Verst[]andnis
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
-\OT1/cmr/m/n/8 (+20) che-lor-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
-\OT1/cmr/m/n/8 (+20) ar-beit
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
-[]\OT1/cmr/bx/n/8 (+20) nicht
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
-\OT1/cmr/bx/n/8 (+20) wich-
- []
-
-
-Underfull \hbox (badness 1097) in paragraph at lines 95--95
-\OT1/cmr/bx/n/8 (+20) tig[] \OT1/cmr/m/n/8 (+20) ist,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
-\OT1/cmr/m/n/8 (+20) wird
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
-\OT1/cmr/m/n/8 (+20) die-se
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
-[]\OT1/cmr/bx/n/8 (+20) nicht[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
-\OT1/cmr/m/n/8 (+20) mehr
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
-\OT1/cmr/m/n/8 (+20) als
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
-\OT1/cmr/m/n/8 (+20) n[]otig
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
-\OT1/cmr/m/n/8 (+20) te-ren
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
-\OT1/cmr/m/n/8 (+20) Ver-lauf
- []
-
-
-Overfull \hbox (10.98372pt too wide) in paragraph at lines 95--95
-[]\OT1/cmr/bx/n/8 (-20) erl[]autert[]\OT1/cmr/m/n/8 (-20) .| 
- []
-
-\g__nicematrix_ddots_int=\count660
-\g__nicematrix_iddots_int=\count661
-\g__nicematrix_delta_x_one_dim=\dimen428
-\g__nicematrix_delta_y_one_dim=\dimen429
-\g__nicematrix_delta_x_two_dim=\dimen430
-\g__nicematrix_delta_y_two_dim=\dimen431
-\l__nicematrix_initial_i_int=\count662
-\l__nicematrix_initial_j_int=\count663
-\l__nicematrix_final_i_int=\count664
-\l__nicematrix_final_j_int=\count665
-
-LaTeX Warning: Reference `fig:speicherorganisation' on page 3 undefined on inpu
-t line 100.
-
-
-LaTeX Warning: Reference `tab:register_der_reti_architektur' on page 3 undefine
-d on input line 100.
-
-[3]
-<./figures/speicherorganisation.png, id=97, 672.768pt x 213.8535pt>
+\l__nicematrix_left_delim_dim=\dimen418
+\l__nicematrix_right_delim_dim=\dimen419
+\l__nicematrix_weight_int=\count661
+\g__nicematrix_dp_row_zero_dim=\dimen420
+\g__nicematrix_ht_row_zero_dim=\dimen421
+\g__nicematrix_ht_row_one_dim=\dimen422
+\g__nicematrix_dp_ante_last_row_dim=\dimen423
+\g__nicematrix_ht_last_row_dim=\dimen424
+\g__nicematrix_dp_last_row_dim=\dimen425
+\g__nicematrix_ddots_int=\count662
+\g__nicematrix_iddots_int=\count663
+\g__nicematrix_delta_x_one_dim=\dimen426
+\g__nicematrix_delta_y_one_dim=\dimen427
+\g__nicematrix_delta_x_two_dim=\dimen428
+\g__nicematrix_delta_y_two_dim=\dimen429
+\l__nicematrix_initial_i_int=\count664
+\l__nicematrix_initial_j_int=\count665
+\l__nicematrix_final_i_int=\count666
+\l__nicematrix_final_j_int=\count667
+<./figures/speicherorganisation.png, id=1256, 672.768pt x 213.8535pt>
 File: ./figures/speicherorganisation.png Graphic file (type png)
 <use ./figures/speicherorganisation.png>
 Package pdftex.def Info: ./figures/speicherorganisation.png  used on input line
  105.
 (pdftex.def)             Requested size: 472.03123pt x 150.04558pt.
 
-
-LaTeX Warning: Reference `fig:datenpfade_der_reti_architecture' on page 4 undef
-ined on input line 110.
-
-
-LaTeX Warning: Reference `fig:datenpfade_der_reti_architecture' on page 4 undef
-ined on input line 114.
-
-[4 <./figures/speicherorganisation.png>]
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.109 
+       [3] [4 <./figures/speicherorganisation.png>]
 LaTeX Font Info:    Trying to load font information for OMS+cmtt on input line 
 126.
 LaTeX Font Info:    No file OMScmtt.fd. on input line 126.
@@ -2402,713 +2154,123 @@ LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
 (Font)              for symbol `textbraceleft' on input line 126.
 
-
-LaTeX Warning: Reference `gr:concrete_syntax_lex_teil_1' on page 5 undefined on
- input line 145.
-
-
-LaTeX Warning: Reference `gr:concrete_syntax_parser' on page 5 undefined on inp
-ut line 145.
-
-
-LaTeX Warning: Reference `ch:implementierung' on page 5 undefined on input line
- 157.
-
-[5]
 File: ./figures/lupe.png Graphic file (type png)
 <use ./figures/lupe.png>
 Package pdftex.def Info: ./figures/lupe.png  used on input line 159.
 (pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
-
-
-LaTeX Warning: Reference `def:imperative_programmierung' on page 6 undefined on
- input line 163.
-
-
-LaTeX Warning: Reference `def:strukturierte_programmierung' on page 6 undefined
- on input line 163.
-
-
-LaTeX Warning: Reference `def:prozedurale_programmierung' on page 6 undefined o
-n input line 163.
-
-
-LaTeX Warning: Reference `ch:implementierung' on page 6 undefined on input line
- 165.
-
-
-LaTeX Warning: Reference `def:bezeichner' on page 6 undefined on input line 165
-.
-
-
-LaTeX Warning: Reference `def:label' on page 6 undefined on input line 165.
-
+[5]
 Package hyperref Info: bookmark level for unknown tcolorbox defaults to 0 on in
 put line 172.
-<./figures/note.png, id=141, 210.24pt x 216.81pt>
+<./figures/note.png, id=1319, 210.24pt x 216.81pt>
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 172.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Warning: Citation 'thiemann_einfuhrung_2018' on page 6 undefined on input
- line 173.
-
-
-LaTeX Warning: Citation 'noauthor_imperative_2022' on page 6 undefined on input
- line 173.
-
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 176.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
 
+
 LaTeX Font Warning: Font shape `OMS/cmtt/m/it' undefined
 (Font)              using `OMS/cmtt/m/n' instead
 (Font)              for symbol `textbraceleft' on input line 177.
-
-
-LaTeX Warning: Citation 'thiemann_einfuhrung_2018' on page 6 undefined on input
- line 177.
-
-
-LaTeX Warning: Citation 'noauthor_strukturierte_2021' on page 6 undefined on in
-put line 177.
 
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 180.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Warning: Citation 'thiemann_einfuhrung_2018' on page 6 undefined on input
- line 181.
-
-
-LaTeX Warning: Citation 'noauthor_prozedurale_2021' on page 6 undefined on inpu
-t line 181.
-
 [6 <./figures/note.png>]
-
-LaTeX Warning: Citation 'noauthor_clockwisespiral_nodate' on page 7 undefined o
-n input line 186.
-
-
-LaTeX Warning: Reference `code:beispiel_für_spiralregel' on page 7 undefined o
-n input line 188.
-
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <9> not available
 (Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 188.
-
-LaTeX Warning: Reference `code:beispiel_für_spiralregel' on page 7 undefined o
-n input line 188.
-
-
-LaTeX Warning: Reference `code:beispiel_für_spiralregel' on page 7 undefined o
-n input line 188.
-
-
-LaTeX Warning: Reference `code:beispiel_für_spiralregel_ausgabe' on page 7 und
-efined on input line 188.
-
-runsystem(pygmentize -S colorful -f latex -P commandprefix=PYG > _minted-Main/c
-olorful.pygstyle)...executed.
-
-(./_minted-Main/colorful.pygstyle)
-runsystem(which python3 && touch Main.aex)...executed.
-
-runsystem(rm Main.aex)...executed.
-
-runsystem(python3 -c "import sys; import os; import textwrap; from io import op
-en; fname = os.path.expanduser(os.path.expandvars(\"./code_examples/example_spi
-ral_rule.picoc\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile
-(fname) else None; t = f.readlines() if f is not None else None; t_opt = t if t
- is not None else []; f.close() if f is not None else None; tmpfname = os.path.
-expanduser(os.path.expandvars(\"Main.pyg\")); f = open(tmpfname, \"w\", encodin
-g=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = -1; s = max
-(0, fvstartnum-1); e = min(s, fvstopnum if fvstopnum > 0 else len(t_opt)); [f.w
-rite(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e:]
-) if x and t is not None]; f.close() if t is not None else os.remove(tmpfname);
-")...executed.
-
-runsystem(pygmentize -l c -f latex -P commandprefix=PYG -F tokenmerge -P stripn
-l=False -P "escapeinside=||" -o _minted-Main/0D0E3F474F3B7AE78C1763F603D104405C
-0D58D1519BACF29A5C888521899FEB.pygtex Main.pyg)...executed.
-
-
+ (./_minted-Main/colorful.pygstyle)
 (./_minted-Main/0D0E3F474F3B7AE78C1763F603D104405C0D58D1519BACF29A5C888521899FE
 B.pygtex)
 Package hyperref Info: bookmark level for unknown codecaption defaults to 0 on 
 input line 195.
-runsystem(python3 -c "import sys; import os; import textwrap; from io import op
-en; fname = os.path.expanduser(os.path.expandvars(\"./code_examples/example_spi
-ral_rule.out\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(f
-name) else None; t = f.readlines() if f is not None else None; t_opt = t if t i
-s not None else []; f.close() if f is not None else None; tmpfname = os.path.ex
-panduser(os.path.expandvars(\"Main.pyg\")); f = open(tmpfname, \"w\", encoding=
-\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = -1; s = max(0
-, fvstartnum-1); e = min(s, fvstopnum if fvstopnum > 0 else len(t_opt)); [f.wri
-te(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e:]) 
-if x and t is not None]; f.close() if t is not None else os.remove(tmpfname);")
-...executed.
-
-runsystem(pygmentize -l text -f latex -P commandprefix=PYG -F tokenmerge -P str
-ipnl=False -P "escapeinside=||" -o _minted-Main/50A2FABFDD276F573FF97ACE8B11C5F
-47A37B929E778A1FFDA741533DD22D716.pygtex Main.pyg)...executed.
-
 
 (./_minted-Main/50A2FABFDD276F573FF97ACE8B11C5F47A37B929E778A1FFDA741533DD22D71
 6.pygtex)
-
-LaTeX Warning: Reference `code:beispiel_unterschiedliche_ausführung' on page 7
- undefined on input line 208.
-
-[7]
-
-LaTeX Warning: Reference `code:beispiel_unterschiedliche_ausführung_ausgabe' o
-n page 8 undefined on input line 210.
-
-runsystem(python3 -c "import sys; import os; import textwrap; from io import op
-en; fname = os.path.expanduser(os.path.expandvars(\"./code_examples/example_dif
-ferent_execution.picoc\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.pat
-h.isfile(fname) else None; t = f.readlines() if f is not None else None; t_opt 
-= t if t is not None else []; f.close() if f is not None else None; tmpfname = 
-os.path.expanduser(os.path.expandvars(\"Main.pyg\")); f = open(tmpfname, \"w\",
- encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = -1;
- s = max(0, fvstartnum-1); e = min(s, fvstopnum if fvstopnum > 0 else len(t_opt
-)); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t
-_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(tm
-pfname);")...executed.
-
-runsystem(pygmentize -l c -f latex -P commandprefix=PYG -F tokenmerge -P stripn
-l=False -P "escapeinside=||" -o _minted-Main/BF86F7C6739D85F0611E6990A0D8A4915C
-0D58D1519BACF29A5C888521899FEB.pygtex Main.pyg)...executed.
-
-
 (./_minted-Main/BF86F7C6739D85F0611E6990A0D8A4915C0D58D1519BACF29A5C888521899FE
-B.pygtex)
-runsystem(python3 -c "import sys; import os; import textwrap; from io import op
-en; fname = os.path.expanduser(os.path.expandvars(\"./code_examples/example_dif
-ferent_execution.out\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.
-isfile(fname) else None; t = f.readlines() if f is not None else None; t_opt = 
-t if t is not None else []; f.close() if f is not None else None; tmpfname = os
-.path.expanduser(os.path.expandvars(\"Main.pyg\")); f = open(tmpfname, \"w\", e
-ncoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = -1; s
- = max(0, fvstartnum-1); e = min(s, fvstopnum if fvstopnum > 0 else len(t_opt))
-; [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_o
-pt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(tmpf
-name);")...executed.
-
-runsystem(pygmentize -l text -f latex -P commandprefix=PYG -F tokenmerge -P str
-ipnl=False -P "escapeinside=||" -o _minted-Main/8FC89A45FF5174B7CCCC76728A6093A
-F7A37B929E778A1FFDA741533DD22D716.pygtex Main.pyg)...executed.
-
-
+B.pygtex) [7]
 (./_minted-Main/8FC89A45FF5174B7CCCC76728A6093AF7A37B929E778A1FFDA741533DD22D71
 6.pygtex)
-
-LaTeX Warning: Reference `code:beispiel_unterschiedliche_ausführung' on page 8
- undefined on input line 226.
-
-
-LaTeX Warning: Reference `code:beispiel_mit_dereferenzierungsoperator' on page 
-8 undefined on input line 226.
-
-
-LaTeX Warning: Reference `code:beispiel_unterschiedliche_ausführung_ausgabe' o
-n page 8 undefined on input line 226.
-
-
-LaTeX Warning: Reference `code:beispiel_mit_dereferenzierungsoperator_ausgabe' 
-on page 8 undefined on input line 226.
-
-runsystem(python3 -c "import sys; import os; import textwrap; from io import op
-en; fname = os.path.expanduser(os.path.expandvars(\"./code_examples/example_dif
-ferent_execution_pntr.picoc\")); f = open(fname, \"r\", encoding=\"UTF8\") if o
-s.path.isfile(fname) else None; t = f.readlines() if f is not None else None; t
-_opt = t if t is not None else []; f.close() if f is not None else None; tmpfna
-me = os.path.expanduser(os.path.expandvars(\"Main.pyg\")); f = open(tmpfname, \
-"w\", encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum 
-= -1; s = max(0, fvstartnum-1); e = min(s, fvstopnum if fvstopnum > 0 else len(
-t_opt)); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:
-e], t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remo
-ve(tmpfname);")...executed.
-
-runsystem(pygmentize -l c -f latex -P commandprefix=PYG -F tokenmerge -P stripn
-l=False -P "escapeinside=||" -o _minted-Main/384543B74CAB64F3437009815C5D21465C
-0D58D1519BACF29A5C888521899FEB.pygtex Main.pyg)...executed.
-
-
 (./_minted-Main/384543B74CAB64F3437009815C5D21465C0D58D1519BACF29A5C888521899FE
 B.pygtex)
 (./_minted-Main/8FC89A45FF5174B7CCCC76728A6093AF7A37B929E778A1FFDA741533DD22D71
 6.pygtex)
-
-LaTeX Warning: Reference `def:call_by_value' on page 8 undefined on input line 
-254.
-
-
-LaTeX Warning: Reference `code:beispiel_dafür,_dass_struct_kopiert_wird' on pa
-ge 8 undefined on input line 254.
-
-
-LaTeX Warning: Reference `code:beispiel_dafür,_dass_struct_kopiert_wird' on pa
-ge 8 undefined on input line 256.
-
-[8]
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 258.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-
-LaTeX Warning: Citation 'bast_programmieren_2020' on page 9 undefined on input 
-line 261.
-
-
-LaTeX Warning: Citation 'noauthor_evaluation_2022' on page 9 undefined on input
- line 261.
-
-runsystem(python3 -c "import sys; import os; import textwrap; from io import op
-en; fname = os.path.expanduser(os.path.expandvars(\"./code_examples/example_cal
-l_by_value_struct.picoc\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.pa
-th.isfile(fname) else None; t = f.readlines() if f is not None else None; t_opt
- = t if t is not None else []; f.close() if f is not None else None; tmpfname =
- os.path.expanduser(os.path.expandvars(\"Main.pyg\")); f = open(tmpfname, \"w\"
-, encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = -1
-; s = max(0, fvstartnum-1); e = min(s, fvstopnum if fvstopnum > 0 else len(t_op
-t)); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], 
-t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(t
-mpfname);")...executed.
-
-runsystem(pygmentize -l c -f latex -P commandprefix=PYG -F tokenmerge -P stripn
-l=False -P "escapeinside=||" -o _minted-Main/9BF9F62D32D37E46974E4EBFD3EFF9545C
-0D58D1519BACF29A5C888521899FEB.pygtex Main.pyg)...executed.
-
-
+ [8]
 (./_minted-Main/9BF9F62D32D37E46974E4EBFD3EFF9545C0D58D1519BACF29A5C888521899FE
 B.pygtex)
-runsystem(python3 -c "import sys; import os; import textwrap; from io import op
-en; fname = os.path.expanduser(os.path.expandvars(\"./code_examples/example_cal
-l_by_value_struct.out\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path
-.isfile(fname) else None; t = f.readlines() if f is not None else None; t_opt =
- t if t is not None else []; f.close() if f is not None else None; tmpfname = o
-s.path.expanduser(os.path.expandvars(\"Main.pyg\")); f = open(tmpfname, \"w\", 
-encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = -1; 
-s = max(0, fvstartnum-1); e = min(s, fvstopnum if fvstopnum > 0 else len(t_opt)
-); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_
-opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(tmp
-fname);")...executed.
-
-runsystem(pygmentize -l c -f latex -P commandprefix=PYG -F tokenmerge -P stripn
-l=False -P "escapeinside=||" -o _minted-Main/3E5CE23DA3E2C1BCD8C504177C4924D05C
-0D58D1519BACF29A5C888521899FEB.pygtex Main.pyg)...executed.
-
-
 (./_minted-Main/3E5CE23DA3E2C1BCD8C504177C4924D05C0D58D1519BACF29A5C888521899FE
 B.pygtex)
-
-LaTeX Warning: Reference `def:call_by_reference' on page 9 undefined on input l
-ine 282.
-
-
-LaTeX Warning: Reference `code:beispiel_für_deklaration_und_definition' on pag
-e 9 undefined on input line 282.
-
-
-LaTeX Warning: Reference `code:beispiel_dafür,_dass_zeiger_auf_feld_übergeben
-_wird' on page 9 undefined on input line 284.
-
-
-LaTeX Warning: Reference `code:ausgabe_von_beispiel_dafür,_dass_zeiger_auf_fel
-d_übergeben_wird' on page 9 undefined on input line 284.
-
-
-LaTeX Warning: Reference `code:beispiel_dafür,_dass_struct_kopiert_wird' on pa
-ge 9 undefined on input line 286.
-
-[9]
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 288.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-
-LaTeX Warning: Citation 'bast_programmieren_2020' on page 10 undefined on input
- line 291.
-
-
-LaTeX Warning: Citation 'noauthor_evaluation_2022' on page 10 undefined on inpu
-t line 291.
-
-runsystem(python3 -c "import sys; import os; import textwrap; from io import op
-en; fname = os.path.expanduser(os.path.expandvars(\"./code_examples/example_cal
-l_by_sharing_array.picoc\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.p
-ath.isfile(fname) else None; t = f.readlines() if f is not None else None; t_op
-t = t if t is not None else []; f.close() if f is not None else None; tmpfname 
-= os.path.expanduser(os.path.expandvars(\"Main.pyg\")); f = open(tmpfname, \"w\
-", encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = -
-1; s = max(0, fvstartnum-1); e = min(s, fvstopnum if fvstopnum > 0 else len(t_o
-pt)); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e],
- t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(
-tmpfname);")...executed.
-
-runsystem(pygmentize -l c -f latex -P commandprefix=PYG -F tokenmerge -P stripn
-l=False -P "escapeinside=||" -o _minted-Main/B945A73CC47DD188EF240AE36D41F3775C
-0D58D1519BACF29A5C888521899FEB.pygtex Main.pyg)...executed.
-
-
+ [9]
 (./_minted-Main/B945A73CC47DD188EF240AE36D41F3775C0D58D1519BACF29A5C888521899FE
 B.pygtex)
-runsystem(python3 -c "import sys; import os; import textwrap; from io import op
-en; fname = os.path.expanduser(os.path.expandvars(\"./code_examples/example_cal
-l_by_sharing_array.out\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.pat
-h.isfile(fname) else None; t = f.readlines() if f is not None else None; t_opt 
-= t if t is not None else []; f.close() if f is not None else None; tmpfname = 
-os.path.expanduser(os.path.expandvars(\"Main.pyg\")); f = open(tmpfname, \"w\",
- encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = -1;
- s = max(0, fvstartnum-1); e = min(s, fvstopnum if fvstopnum > 0 else len(t_opt
-)); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t
-_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(tm
-pfname);")...executed.
-
-runsystem(pygmentize -l c -f latex -P commandprefix=PYG -F tokenmerge -P stripn
-l=False -P "escapeinside=||" -o _minted-Main/4320875E3F8F7CC318F4F4CD927DE5C35C
-0D58D1519BACF29A5C888521899FEB.pygtex Main.pyg)...executed.
-
-
 (./_minted-Main/4320875E3F8F7CC318F4F4CD927DE5C35C0D58D1519BACF29A5C888521899FE
 B.pygtex)
-
-LaTeX Warning: Reference `def:definition' on page 10 undefined on input line 31
-1.
-
-
-LaTeX Warning: Reference `def:funktionsprototyp' on page 10 undefined on input 
-line 311.
-
-
-LaTeX Warning: Reference `def:deklaration' on page 10 undefined on input line 3
-13.
-
-
-LaTeX Warning: Reference `code:beispiel_für_deklaration_und_definition' on pag
-e 10 undefined on input line 313.
-
-
-LaTeX Warning: Reference `code:beispiel_für_deklaration_und_definition_ausgabe
-' on page 10 undefined on input line 313.
-
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 315.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Warning: Citation 'noauthor_what_nodate-4' on page 10 undefined on input 
-line 316.
-
-
-LaTeX Warning: Citation 'noauthor_funktionsprototyp_2020' on page 10 undefined 
-on input line 316.
-
-[10]
+ [10]
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 319.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-
-LaTeX Warning: Citation 'noauthor_variablen_nodate' on page 11 undefined on inp
-ut line 320.
-
-
-LaTeX Warning: Citation 'scholl_einfuhrung_2021' on page 11 undefined on input 
-line 320.
-
-
-LaTeX Warning: Citation 'noauthor_deklaration_2022' on page 11 undefined on inp
-ut line 320.
-
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 323.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
 
-LaTeX Warning: Citation 'scholl_einfuhrung_2021' on page 11 undefined on input 
-line 324.
-
-runsystem(python3 -c "import sys; import os; import textwrap; from io import op
-en; fname = os.path.expanduser(os.path.expandvars(\"./code_examples/example_dec
-laration_definition.picoc\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.
-path.isfile(fname) else None; t = f.readlines() if f is not None else None; t_o
-pt = t if t is not None else []; f.close() if f is not None else None; tmpfname
- = os.path.expanduser(os.path.expandvars(\"Main.pyg\")); f = open(tmpfname, \"w
-\", encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 
--1; s = max(0, fvstartnum-1); e = min(s, fvstopnum if fvstopnum > 0 else len(t_
-opt)); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e]
-, t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove
-(tmpfname);")...executed.
-
-runsystem(pygmentize -l c -f latex -P commandprefix=PYG -F tokenmerge -P stripn
-l=False -P "escapeinside=||" -o _minted-Main/C372199A7522D4EC6C41EF115D9772F05C
-0D58D1519BACF29A5C888521899FEB.pygtex Main.pyg)...executed.
-
-
 (./_minted-Main/C372199A7522D4EC6C41EF115D9772F05C0D58D1519BACF29A5C888521899FE
 B.pygtex)
-runsystem(python3 -c "import sys; import os; import textwrap; from io import op
-en; fname = os.path.expanduser(os.path.expandvars(\"./code_examples/example_dec
-laration_definition.out\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.pa
-th.isfile(fname) else None; t = f.readlines() if f is not None else None; t_opt
- = t if t is not None else []; f.close() if f is not None else None; tmpfname =
- os.path.expanduser(os.path.expandvars(\"Main.pyg\")); f = open(tmpfname, \"w\"
-, encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = -1
-; s = max(0, fvstartnum-1); e = min(s, fvstopnum if fvstopnum > 0 else len(t_op
-t)); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], 
-t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(t
-mpfname);")...executed.
-
-runsystem(pygmentize -l c -f latex -P commandprefix=PYG -F tokenmerge -P stripn
-l=False -P "escapeinside=||" -o _minted-Main/50A2FABFDD276F573FF97ACE8B11C5F45C
-0D58D1519BACF29A5C888521899FEB.pygtex Main.pyg)...executed.
-
-
 (./_minted-Main/50A2FABFDD276F573FF97ACE8B11C5F45C0D58D1519BACF29A5C888521899FE
 B.pygtex) [11]
-
-LaTeX Warning: Reference `def:scope' on page 12 undefined on input line 342.
-
-
-LaTeX Warning: Reference `code:beispiel_scope' on page 12 undefined on input li
-ne 344.
-
-
-LaTeX Warning: Reference `code:beispiel_scope' on page 12 undefined on input li
-ne 344.
-
-
-LaTeX Warning: Reference `code:beispiel_scope_ausgabe' on page 12 undefined on 
-input line 344.
-
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 346.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
 
-LaTeX Warning: Citation 'thiemann_einfuhrung_2018' on page 12 undefined on inpu
-t line 347.
-
-
-LaTeX Warning: Citation 'noauthor_variable_2022' on page 12 undefined on input 
-line 347.
-
-runsystem(python3 -c "import sys; import os; import textwrap; from io import op
-en; fname = os.path.expanduser(os.path.expandvars(\"./code_examples/example_sco
-pe.picoc\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname
-) else None; t = f.readlines() if f is not None else None; t_opt = t if t is no
-t None else []; f.close() if f is not None else None; tmpfname = os.path.expand
-user(os.path.expandvars(\"Main.pyg\")); f = open(tmpfname, \"w\", encoding=\"UT
-F8\") if t is not None else None; fvstartnum = 0; fvstopnum = -1; s = max(0, fv
-startnum-1); e = min(s, fvstopnum if fvstopnum > 0 else len(t_opt)); [f.write(t
-extwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e:]) if x
- and t is not None]; f.close() if t is not None else os.remove(tmpfname);")...e
-xecuted.
-
-runsystem(pygmentize -l c -f latex -P commandprefix=PYG -F tokenmerge -P stripn
-l=False -P "escapeinside=||" -o _minted-Main/750615282D9B8EBB1C8B67780DD57AE75C
-0D58D1519BACF29A5C888521899FEB.pygtex Main.pyg)...executed.
-
-
 (./_minted-Main/750615282D9B8EBB1C8B67780DD57AE75C0D58D1519BACF29A5C888521899FE
 B.pygtex)
-runsystem(python3 -c "import sys; import os; import textwrap; from io import op
-en; fname = os.path.expanduser(os.path.expandvars(\"./code_examples/example_sco
-pe.out\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname) 
-else None; t = f.readlines() if f is not None else None; t_opt = t if t is not 
-None else []; f.close() if f is not None else None; tmpfname = os.path.expandus
-er(os.path.expandvars(\"Main.pyg\")); f = open(tmpfname, \"w\", encoding=\"UTF8
-\") if t is not None else None; fvstartnum = 0; fvstopnum = -1; s = max(0, fvst
-artnum-1); e = min(s, fvstopnum if fvstopnum > 0 else len(t_opt)); [f.write(tex
-twrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e:]) if x a
-nd t is not None]; f.close() if t is not None else os.remove(tmpfname);")...exe
-cuted.
-
-runsystem(pygmentize -l c -f latex -P commandprefix=PYG -F tokenmerge -P stripn
-l=False -P "escapeinside=||" -o _minted-Main/94453CE5F0961757339D0D0433C32C735C
-0D58D1519BACF29A5C888521899FEB.pygtex Main.pyg)...executed.
-
-
 (./_minted-Main/94453CE5F0961757339D0D0433C32C735C0D58D1519BACF29A5C888521899FE
-B.pygtex)
-
-LaTeX Warning: Citation 'scholl_betriebssysteme_2020' on page 12 undefined on i
-nput line 395.
-
-[12]
-
-LaTeX Warning: Reference `fig:picoc_c_compiler_github_repo' on page 13 undefine
-d on input line 406.
-
-<./figures/picoc_c_compiler_github_repo.png, id=264, 751.30687pt x 458.46281pt>
-
+B.pygtex) [12]
+<./figures/picoc_c_compiler_github_repo.png, id=1479, 751.30687pt x 458.46281pt
+>
 File: ./figures/picoc_c_compiler_github_repo.png Graphic file (type png)
 <use ./figures/picoc_c_compiler_github_repo.png>
 Package pdftex.def Info: ./figures/picoc_c_compiler_github_repo.png  used on in
 put line 410.
 (pdftex.def)             Requested size: 377.62642pt x 230.44107pt.
-
-LaTeX Warning: Citation 'nemec_copy_file_to_another_repo_action_2022' on page 1
-3 undefined on input line 415.
-
-
-LaTeX Warning: Citation 'ueda_makefile_2022' on page 13 undefined on input line
- 415.
-
-
-LaTeX Warning: Citation 'developers_draw_nodate' on page 13 undefined on input 
-line 417.
-
-[13 <./figures/picoc_c_compiler_github_repo.png (PNG copy)>]
-
-LaTeX Warning: Reference `ch:motivation' on page 14 undefined on input line 422
-.
-
-
-LaTeX Warning: Reference `ch:implementierung' on page 14 undefined on input lin
-e 422.
-
-
-LaTeX Warning: Citation 'lefever_art_2012' on page 14 undefined on input line 4
-30.
-
-[14]
-
-LaTeX Warning: Reference `def:abstrakte_syntax_tree' on page 15 undefined on in
-put line 440.
-
-
-LaTeX Warning: Reference `ch:motivation' on page 15 undefined on input line 450
-.
-
-
-LaTeX Warning: Reference `ch:einführung' on page 15 undefined on input line 45
-0.
-
-
-LaTeX Warning: Reference `ch:implementierung' on page 15 undefined on input lin
-e 450.
-
-
-LaTeX Warning: Reference `ch:ergebnisse_und_ausblick' on page 15 undefined on i
-nput line 450.
-
-
-LaTeX Warning: Reference `ch:appendix' on page 15 undefined on input line 450.
-
-
-LaTeX Warning: Reference `ch:motivation' on page 15 undefined on input line 453
-.
-
-
-LaTeX Warning: Reference `ch:einführung' on page 15 undefined on input line 45
-7.
-
-
-LaTeX Warning: Reference `ch:implementierung' on page 15 undefined on input lin
-e 465.
-
-
-LaTeX Warning: Reference `ch:ergebnisse_und_ausblick' on page 15 undefined on i
-nput line 469.
-
-
-LaTeX Warning: Reference `ch:appendix' on page 15 undefined on input line 471.
-
-[15]
-
-LaTeX Warning: Reference `ch:appendix' on page 16 undefined on input line 473.
-
-
-LaTeX Warning: Reference `def:liveness_analyse' on page 16 undefined on input l
-ine 473.
-
-
-LaTeX Warning: Citation 'scholl_betriebssysteme_2020' on page 16 undefined on i
-nput line 473.
-
-) [16]
+ [13 <./figures/picoc_c_compiler_github_repo.png (PNG copy)>]
+[14] [15]) [16]
 \openout2 = `./content/Einführung.aux'.
 
  (./content/Einführung.tex
 Kapitel 2.
-
-LaTeX Warning: Reference `ch:implementierung' on page 17 undefined on input lin
-e 16.
-
-
-LaTeX Warning: Reference `sec:compiler_und_interpreter' on page 17 undefined on
- input line 16.
-
-
-LaTeX Warning: Reference `sec:formale_sprachen' on page 17 undefined on input l
-ine 16.
-
-
-LaTeX Warning: Reference `def:pipe_architektur' on page 17 undefined on input l
-ine 16.
-
-
-LaTeX Warning: Reference `sec:lexikalische_analyse' on page 17 undefined on inp
-ut line 16.
-
-
-LaTeX Warning: Reference `sec:syntaktische_analyse' on page 17 undefined on inp
-ut line 16.
-
-
-LaTeX Warning: Reference `sec:code_generierung' on page 17 undefined on input l
-ine 16.
-
-
-LaTeX Warning: Reference `sec:einfuehrung_fehlermeldungen' on page 17 undefined
- on input line 16.
-
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 18.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Warning: Citation 'westphal_softwaretechnik_2021' on page 17 undefined on
- input line 23.
-
-
-LaTeX Warning: Citation 'noauthor_pipes_2021' on page 17 undefined on input lin
-e 23.
-
-<./figures/pipe_architecture.png, id=327, 521.69907pt x 67.0003pt>
+<./figures/pipe_architecture.png, id=1573, 521.69907pt x 67.0003pt>
 File: ./figures/pipe_architecture.png Graphic file (type png)
 <use ./figures/pipe_architecture.png>
 Package pdftex.def Info: ./figures/pipe_architecture.png  used on input line 27
 .
 (pdftex.def)             Requested size: 292.76346pt x 37.59862pt.
-
-LaTeX Warning: Reference `def:compiler' on page 17 undefined on input line 35.
-
-
-LaTeX Warning: Reference `def:interpreter' on page 17 undefined on input line 3
-5.
-
 File: ./figures/lupe.png Graphic file (type png)
 <use ./figures/lupe.png>
 Package pdftex.def Info: ./figures/lupe.png  used on input line 37.
 (pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
-
-LaTeX Warning: Reference `eq:compiler_beziehungen' on page 17 undefined on inpu
-t line 38.
-
-
-LaTeX Warning: Reference `sec:qualitätssicherung' on page 17 undefined on inpu
-t line 38.
-
 [17
 
 
@@ -3119,139 +2281,33 @@ File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 41.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-
-LaTeX Warning: Reference `def:abstrakte_syntax_tree' on page 18 undefined on in
-put line 44.
-
-
-LaTeX Warning: Citation 'g_siek_essentials_2022' on page 18 undefined on input 
-line 44.
-
-
-LaTeX Warning: Citation 'noauthor_interpreter_2022' on page 18 undefined on inp
-ut line 44.
-
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 48.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Warning: Reference `eq:compiler_beziehungen' on page 18 undefined on inpu
-t line 51.
-
-
-LaTeX Warning: Reference `def:semantik' on page 18 undefined on input line 51.
-
-
-LaTeX Warning: Reference `def:syntax' on page 18 undefined on input line 51.
-
-
-LaTeX Warning: Citation 'g_siek_essentials_2022' on page 18 undefined on input 
-line 51.
-
-
-LaTeX Warning: Citation 'noauthor_compiler_2022' on page 18 undefined on input 
-line 51.
-
-
-LaTeX Warning: Reference `def:maschienensprache' on page 18 undefined on input 
-line 71.
-
-
-LaTeX Warning: Reference `def:transpiler' on page 18 undefined on input line 71
-.
-
-
-LaTeX Warning: Reference `ch:appendix' on page 18 undefined on input line 71.
-
-
-LaTeX Warning: Reference `def:cross_compiler' on page 18 undefined on input lin
-e 71.
-
-
-LaTeX Warning: Reference `def:assemblersprache' on page 18 undefined on input l
-ine 71.
-
-
-LaTeX Warning: Reference `ch:appendix' on page 18 undefined on input line 71.
-
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 73.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Warning: Reference `def:immediate' on page 18 undefined on input line 78.
-
-
-
-LaTeX Warning: Citation 'scholl_betriebssysteme_2020' on page 18 undefined on i
-nput line 81.
-
-
-LaTeX Warning: Citation 'noauthor_maschinensprache_2022' on page 18 undefined o
-n input line 81.
-
-[18]
+ [18]
 File: ./figures/lupe.png Graphic file (type png)
 <use ./figures/lupe.png>
 Package pdftex.def Info: ./figures/lupe.png  used on input line 86.
 (pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
-
-
-LaTeX Warning: Reference `def:immediate' on page 19 undefined on input line 87.
-
-
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 90.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Warning: Citation 'ljohhuh_what_2018' on page 19 undefined on input line 
-91.
-
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 94.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Warning: Citation 'earley_formalism_1970' on page 19 undefined on input l
-ine 95.
-
-
-LaTeX Warning: Citation 'noauthor_cross_2022' on page 19 undefined on input lin
-e 95.
-
-[19]
-
-LaTeX Warning: Citation 'earley_formalism_1970' on page 20 undefined on input l
-ine 105.
-
-
-LaTeX Warning: Reference `def:t_diagram_program' on page 20 undefined on input 
-line 107.
-
-
-LaTeX Warning: Reference `def:t_diagram_übersetzer' on page 20 undefined on in
-put line 107.
-
-
-LaTeX Warning: Reference `def:t_diagram_interpreter' on page 20 undefined on in
-put line 107.
-
-
-LaTeX Warning: Reference `def:t_diagram_maschiene' on page 20 undefined on inpu
-t line 107.
-
+ [19]
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 109.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Warning: Citation 'earley_formalism_1970' on page 20 undefined on input l
-ine 110.
-
-<./figures/programm.png, id=391, 60.97781pt x 99.37125pt>
+<./figures/programm.png, id=1669, 60.97781pt x 99.37125pt>
 File: ./figures/programm.png Graphic file (type png)
 <use ./figures/programm.png>
 Package pdftex.def Info: ./figures/programm.png  used on input line 113.
@@ -3260,53 +2316,25 @@ File: ./figures/lupe.png Graphic file (type png)
 <use ./figures/lupe.png>
 Package pdftex.def Info: ./figures/lupe.png  used on input line 117.
 (pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
-
-LaTeX Warning: Reference `def:t_diagram_program' on page 20 undefined on input 
-line 118.
-
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 121.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Warning: Reference `eq:compiler_beziehungen' on page 20 undefined on inpu
-t line 125.
-
-
-LaTeX Warning: Citation 'earley_formalism_1970' on page 20 undefined on input l
-ine 125.
-
-<./figures/uerbersetzer.png, id=393, 148.30406pt x 99.37125pt>
+<./figures/uerbersetzer.png, id=1674, 148.30406pt x 99.37125pt>
 File: ./figures/uerbersetzer.png Graphic file (type png)
 <use ./figures/uerbersetzer.png>
 Package pdftex.def Info: ./figures/uerbersetzer.png  used on input line 128.
 (pdftex.def)             Requested size: 127.39415pt x 85.35826pt.
-[20 <./figures/programm.png> <./figures/uerbersetzer.png>]
+ [20 <./figures/programm.png> <./figures/uerbersetzer.png>]
 File: ./figures/lupe.png Graphic file (type png)
 <use ./figures/lupe.png>
 Package pdftex.def Info: ./figures/lupe.png  used on input line 132.
 (pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
-
-
-LaTeX Warning: Reference `def:semantik' on page 21 undefined on input line 135.
-
-
-
-LaTeX Warning: Reference `eq:compiler_beziehungen' on page 21 undefined on inpu
-t line 135.
-
-
-LaTeX Warning: Reference `def:pass' on page 21 undefined on input line 135.
-
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 142.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Warning: Citation 'earley_formalism_1970' on page 21 undefined on input l
-ine 143.
-
-<./figures/interpreter.png, id=411, 49.68562pt x 99.37125pt>
+<./figures/interpreter.png, id=1695, 49.68562pt x 99.37125pt>
 File: ./figures/interpreter.png Graphic file (type png)
 <use ./figures/interpreter.png>
 Package pdftex.def Info: ./figures/interpreter.png  used on input line 146.
@@ -3315,228 +2343,76 @@ File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 150.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Warning: Citation 'earley_formalism_1970' on page 21 undefined on input l
-ine 151.
-
-<./figures/machiene.png, id=414, 49.68562pt x 42.91031pt>
+<./figures/machiene.png, id=1699, 49.68562pt x 42.91031pt>
 File: ./figures/machiene.png Graphic file (type png)
 <use ./figures/machiene.png>
 Package pdftex.def Info: ./figures/machiene.png  used on input line 154.
 (pdftex.def)             Requested size: 49.41788pt x 42.67912pt.
-
-LaTeX Warning: Reference `fig:t_diagram_horinzontal_zusammenfassen' on page 21 
-undefined on input line 160.
-
-<./figures/summarize_compiler.png, id=415, 455.45157pt x 347.79938pt>
+<./figures/summarize_compiler.png, id=1701, 455.45157pt x 347.79938pt>
 File: ./figures/summarize_compiler.png Graphic file (type png)
 <use ./figures/summarize_compiler.png>
 Package pdftex.def Info: ./figures/summarize_compiler.png  used on input line 1
 67.
 (pdftex.def)             Requested size: 311.54234pt x 237.90678pt.
-[21 <./figures/interpreter.png> <./figures/machiene.png>]
-
-LaTeX Warning: Reference `def:formale_sprache' on page 22 undefined on input li
-ne 184.
-
-
-LaTeX Warning: Reference `def:symbol' on page 22 undefined on input line 184.
-
-
-LaTeX Warning: Reference `def:alphabet' on page 22 undefined on input line 184.
-
-
-
-LaTeX Warning: Reference `def:wort' on page 22 undefined on input line 184.
-
+ [21 <./figures/interpreter.png> <./figures/machiene.png>]
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 186.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Warning: Citation 'nebel_theoretische_2020' on page 22 undefined on input
- line 187.
-
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 190.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Warning: Reference `def:symbol' on page 22 undefined on input line 191.
-
-
-LaTeX Warning: Citation 'nebel_theoretische_2020' on page 22 undefined on input
- line 191.
-
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 194.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Warning: Citation 'nebel_theoretische_2020' on page 22 undefined on input
- line 201.
-
-[22 <./figures/summarize_compiler.png>]
+ [22 <./figures/summarize_compiler.png>]
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 204.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-
-LaTeX Warning: Reference `def:wort' on page 23 undefined on input line 205.
-
-
-LaTeX Warning: Reference `def:alphabet' on page 23 undefined on input line 205.
-
-
-
-LaTeX Warning: Citation 'nebel_theoretische_2020' on page 23 undefined on input
- line 205.
-
-
-LaTeX Warning: Reference `def:semantik' on page 23 undefined on input line 210.
-
-
-
-LaTeX Warning: Reference `def:grammatik' on page 23 undefined on input line 210
-.
-
-
-LaTeX Warning: Reference `def:syntax' on page 23 undefined on input line 210.
-
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 212.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Warning: Reference `def:konkrette_syntax' on page 23 undefined on input l
-ine 214.
-
-
-LaTeX Warning: Reference `def:abstrakte_syntax' on page 23 undefined on input l
-ine 214.
-
-
-LaTeX Warning: Citation 'thiemann_einfuhrung_2018' on page 23 undefined on inpu
-t line 214.
-
-
-LaTeX Warning: Citation 'noauthor_syntax_2022' on page 23 undefined on input li
-ne 214.
-
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 217.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Warning: Citation 'thiemann_einfuhrung_2018' on page 23 undefined on inpu
-t line 219.
-
-
-LaTeX Warning: Citation 'noauthor_semantik_2022' on page 23 undefined on input 
-line 219.
-
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 222.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Warning: Citation 'nebel_theoretische_2020' on page 23 undefined on input
- line 240.
-
-[23]
-
-LaTeX Warning: Reference `def:chromsky_hierarchie' on page 24 undefined on inpu
-t line 245.
-
+ [23]
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 247.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Warning: Reference `fig:chromsky_hierarchie_veranschaulicht' on page 24 u
-ndefined on input line 252.
-
-
-LaTeX Warning: Citation 'nebel_theoretische_2020' on page 24 undefined on input
- line 252.
-
-
-LaTeX Warning: Citation 'noauthor_chomsky-hierarchie_2022' on page 24 undefined
- on input line 252.
-
-
-LaTeX Warning: Reference `def:reguläre_grammatik' on page 24 undefined on inpu
-t line 280.
-
-
-LaTeX Warning: Reference `def:kontextfreie_grammatik' on page 24 undefined on i
-nput line 280.
-
-[24]
+ [24]
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 282.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-
-LaTeX Warning: Citation 'nebel_theoretische_2020' on page 25 undefined on input
- line 288.
-
-
-LaTeX Warning: Citation 'noauthor_regulare_2021' on page 25 undefined on input 
-line 288.
-
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 291.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Warning: Citation 'nebel_theoretische_2020' on page 25 undefined on input
- line 297.
-
-
-LaTeX Warning: Citation 'noauthor_kontextfreie_2021' on page 25 undefined on in
-put line 297.
-
-
-LaTeX Warning: Reference `def:wortproblem' on page 25 undefined on input line 3
-00.
-
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 302.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Warning: Citation 'nebel_theoretische_2020' on page 25 undefined on input
- line 305.
-
-
-LaTeX Warning: Citation 'noauthor_wortproblem_2022' on page 25 undefined on inp
-ut line 305.
-
 LaTeX Font Info:    Trying to load font information for U+bbm on input line 307
 .
+
 (/opt/texlive/texdir/texmf-dist/tex/latex/bbm-macros/ubbm.fd
 File: ubbm.fd 1999/03/15 V 1.2 Font definition for bbm font - TH
 )
-
-LaTeX Warning: Reference `def:ein_schritt_ableitungrelation' on page 25 undefin
-ed on input line 319.
-
-
-LaTeX Warning: Reference `def:ableitungslation' on page 25 undefined on input l
-ine 319.
-
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 321.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Warning: Citation 'nebel_theoretische_2020' on page 25 undefined on input
- line 324.
-
-[25]
+ [25]
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 327.
@@ -3550,91 +2426,1437 @@ n-si-ti-ve Ab-schluss[] \OT1/cmr/m/it/10 (+20) der []\OT1/cmr/bx/it/10 (+20) 1-
 Schritt-
  []
 
-
-LaTeX Warning: Citation 'nebel_theoretische_2020' on page 26 undefined on input
- line 330.
-
-
-LaTeX Warning: Reference `def:links_rechtsableitung' on page 26 undefined on in
-put line 333.
-
-
-LaTeX Warning: Reference `sec:syntaktische_analyse' on page 26 undefined on inp
-ut line 333.
-
-
-LaTeX Warning: Reference `sec:umsetzung_von_präzidenz' on page 26 undefined on
- input line 333.
-
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 335.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Warning: Citation 'nebel_theoretische_2020' on page 26 undefined on input
- line 338.
-
-
-LaTeX Warning: Reference `def:mehrdeutige_grammatik' on page 26 undefined on in
-put line 341.
-
-
-LaTeX Warning: Reference `def:formaler_ableitungsbaum' on page 26 undefined on 
-input line 341.
-
-
-LaTeX Warning: Reference `sec:syntaktische_analyse' on page 26 undefined on inp
-ut line 341.
-
-
-LaTeX Warning: Reference `def:derivation_tree' on page 26 undefined on input li
-ne 341.
-
 File: ./figures/note.png Graphic file (type png)
 <use ./figures/note.png>
 Package pdftex.def Info: ./figures/note.png  used on input line 343.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Warning: Reference `def:grammatik' on page 26 undefined on input line 348
-.
-
-
-LaTeX Warning: Citation 'nebel_theoretische_2020' on page 26 undefined on input
- line 348.
-
-
-LaTeX Warning: Citation 'noauthor_syntaxbaum_2022' on page 26 undefined on inpu
-t line 348.
-
 [26]
+Package hyperref Info: bookmark level for unknown floatgrammar defaults to 0 on
+ input line 359.
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 361.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+ [27]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 406.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 414.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
 
-LaTeX Warning: Reference `eq:ableitungsbaum' on page 27 undefined on input line
- 351.
+(./_minted-Main/CCC41EDB1CF58F3A115EAEFC6206BC01F835F37FFE770B306DFB4B26D2CE0FF
+D.pygtex)
+(./_minted-Main/AD6109C09FCE0D232D98148BFE363124F835F37FFE770B306DFB4B26D2CE0FF
+D.pygtex)
+(./_minted-Main/9FF258E492AE2A8DF0DB9B538C85D5A2F835F37FFE770B306DFB4B26D2CE0FF
+D.pygtex)
+(./_minted-Main/2CC077468E622795CC684F32B998C235F835F37FFE770B306DFB4B26D2CE0FF
+D.pygtex) [28]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 447.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+(./_minted-Main/6A93EBCB7117C7F8C33C80E1ADA27FD4F835F37FFE770B306DFB4B26D2CE0FF
+D.pygtex)
+(./_minted-Main/000B5DCBD189790D7E2B860F29C324D9F835F37FFE770B306DFB4B26D2CE0FF
+D.pygtex)
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 479.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+ [29]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 486.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 490.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 503.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+ [30]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 551.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+<./figures/literal.png, id=1994, 177.0442pt x 199.52052pt>
+File: ./figures/literal.png Graphic file (type png)
+<use ./figures/literal.png>
+Package pdftex.def Info: ./figures/literal.png  used on input line 555.
+(pdftex.def)             Requested size: 146.38173pt x 164.97482pt.
+ [31 <./figures/literal.png>]
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 563.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+
+(./_minted-Main/5E60998849207A276F5BDA693ABCD534C14351EFF72AC032B196993BD90DF0E
+4.pygtex)
+(./_minted-Main/82336E18CA6372446EE400D2965761E06963D76A566161EB3C2E84B968A74C2
+3.pygtex)
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 583.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+ [32]
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 593.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 610.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+ [33]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 622.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 627.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 639.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 643.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+ [34]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 657.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 663.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+ [35]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 689.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+ [36]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 693.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 699.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 707.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 713.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+ [37]
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 719.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+ [38]
+Overfull \hbox (73.67343pt too wide) in paragraph at lines 766--767
+ [][] 
+ []
+
+[39]
+(./_minted-Main/9F17BDF385C58AF38789E7C1C8B7BB5D6963D76A566161EB3C2E84B968A74C2
+3.pygtex)
+(./_minted-Main/82336E18CA6372446EE400D2965761E06963D76A566161EB3C2E84B968A74C2
+3.pygtex)
+(./_minted-Main/D50F0125DCD3FDE3406DB4EE1EE42DD969F456DE0F78E004E761D0F17EDF706
+0.pygtex)
+(./_minted-Main/8C04CDA230D97A45C6AAC4DD6E13887B69F456DE0F78E004E761D0F17EDF706
+0.pygtex) [40] [41]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 830.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 860.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+ [42]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 866.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 876.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 883.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 891.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+ [43]
+(./_minted-Main/00D0EE31F5FC16A6C2F14AEF3BD2B1AEF835F37FFE770B306DFB4B26D2CE0FF
+D.pygtex)
+(./_minted-Main/255A91A7BC508BE4DAA57149A0ACA97CF835F37FFE770B306DFB4B26D2CE0FF
+D.pygtex) [44]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 926.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 936.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 951.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+ [45]
+<./figures/komplex_atomar_rein_unrein.png, id=2335, 276.13612pt x 266.96754pt>
+File: ./figures/komplex_atomar_rein_unrein.png Graphic file (type png)
+<use ./figures/komplex_atomar_rein_unrein.png>
+Package pdftex.def Info: ./figures/komplex_atomar_rein_unrein.png  used on inpu
+t line 962.
+(pdftex.def)             Requested size: 236.01561pt x 228.18628pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 973.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+ [46 <./figures/komplex_atomar_rein_unrein.png>]
+(./_minted-Main/C463327B6A17C25FA528E326FF021748F835F37FFE770B306DFB4B26D2CE0FF
+D.pygtex)
+(./_minted-Main/087C71B7C0C3F94A24972DCB8687ED19F835F37FFE770B306DFB4B26D2CE0FF
+D.pygtex) [47] [48]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 1055.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+) [49]
+\openout2 = `./content/Implementierung1_Tables_DT_AST.aux'.
+
+ (./content/Implementierung1_Tables_DT_AST.tex
+Kapitel 3.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 23.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 27.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 31.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+[50
 
 
-LaTeX Warning: Reference `eq:ableitung_des_ableitungsbaums' on page 27 undefine
-d on input line 351.
 
 
-LaTeX Warning: Reference `def:dialekt_der_ebnf_aus_lark' on page 27 undefined o
-n input line 351.
+]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 44.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+ [51]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 81.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+ [52] [53]
+(./_minted-Main/A43F6CC7A5C663701638976423A3ECF85C0D58D1519BACF29A5C888521899FE
+B.pygtex) [54]
+(./_minted-Main/232F2435D638A2B68466967A1C7F04357A37B929E778A1FFDA741533DD22D71
+6.pygtex)
+Overfull \hbox (31.98933pt too wide) in paragraph at lines 247--247
+ []|[]\OT1/cmr/bx/n/10 (-20) Pr[]azedenzstufe[]| 
+ []
+
+\g__nicematrix_block_box_1_box=\box114
+\g__nicematrix_block_box_2_box=\box115
+\g__nicematrix_block_box_3_box=\box116
+[55] [56] [57]
+Overfull \hbox (1.14049pt too wide) in paragraph at lines 406--408
+ [][] 
+ []
+
+[58]
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 417.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+
+Overfull \hbox (3.6149pt too wide) in paragraph at lines 431--458
+ [][] 
+ []
+
+[59]
+
+Package biblatex Warning: Nested notes on input line 468.
 
 
-LaTeX Warning: Reference `gr:grammatik_des_ableitungsbaums' on page 27 undefine
-d on input line 351.
+Package biblatex Warning: Nested notes on input line 468.
 
-! Undefined control sequence.
-\@BTswitch ->{\CT@arc@ 
-                       \hrule \@height \@thisrulewidth }\futurenonspacelet \...
-l.355   \examplegrammarfirst
-                             
+
+Underfull \hbox (badness 2181) in paragraph at lines 470--471
+[]\OT1/cmr/m/n/10 (+20) In der Kon-kre-ten Gram-ma-tik [][]3.2.8[][] f[]ur die 
+[]\OT1/cmr/bx/n/10 (+20) Syn-tak-ti-sche Ana-ly-se[] \OT1/cmr/m/n/10 (+20) wer-
+den ei-ni-ge der []\OT1/cmr/bx/n/10 (+20) Nicht-
+ []
+
+[60]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 5
+35.
+ (/opt/texlive/texdir/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 535.
+ [61]
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 584.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 598.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+ [62]
+(./_minted-Main/47D4CAAC903B9F74BC39FDCE85818F017A37B929E778A1FFDA741533DD22D71
+6.pygtex) [63]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 635.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+(./_minted-Main/C543CCA457A0D3B4711D25B4696F4022C14351EFF72AC032B196993BD90DF0E
+4.pygtex)
+(./_minted-Main/2240B400BCF40E81F2AB4A3103BCC61769F456DE0F78E004E761D0F17EDF706
+0.pygtex) [64]
+(./_minted-Main/2240B400BCF40E81F2AB4A3103BCC61769F456DE0F78E004E761D0F17EDF706
+0.pygtex)
+(./_minted-Main/B5A7901F5D7784761EC67A690DC1833D69F456DE0F78E004E761D0F17EDF706
+0.pygtex) [65]
+(./_minted-Main/24397343EF4184CCF16A15548DB814BC7A37B929E778A1FFDA741533DD22D71
+6.pygtex) [66]
+(./_minted-Main/B5A7901F5D7784761EC67A690DC1833D69F456DE0F78E004E761D0F17EDF706
+0.pygtex)
+(./_minted-Main/CEBD4F6E7943FEE8FE7D5EC919CC993F69F456DE0F78E004E761D0F17EDF706
+0.pygtex) [67]
+(./_minted-Main/B5A7901F5D7784761EC67A690DC1833D69F456DE0F78E004E761D0F17EDF706
+0.pygtex)
+(./_minted-Main/C8B69D6F76842119AC5A0AF4C411876E69F456DE0F78E004E761D0F17EDF706
+0.pygtex) [68]
+Underfull \hbox (badness 10000) in paragraph at lines 760--760
+[]|\OT1/cmtt/m/n/9 Minus(), Not(), DerefOp(), RefOp(),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 761--761
+[]|\OT1/cmtt/m/n/9 Add(), Sub(), Mul(), Div(), Mod(),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 761--761
+\OT1/cmtt/m/n/9 LShift(), RShift(), Xor(), And(), Or(),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 761--761
+\OT1/cmtt/m/n/9 / b, a % b, a << b, a >> b, a $\OMS/cmtt/m/it/9 ^$ \OT1/cmtt/m/
+n/9 b, a & b, a $\OMS/cmtt/m/it/9 j$ \OT1/cmtt/m/n/9 b, a && b,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 785--785
+[]|\OT1/cmtt/m/n/9 Alloc(type[]qual, datatype, name,
+ []
+
+
+Underfull \hbox (badness 2941) in paragraph at lines 785--785
+[]|\OT1/cmr/m/n/10 (+20) Container f[]ur ei-ne []\OT1/cmr/bx/n/10 (+20) Al-lo-k
+a-ti-on[] \OT1/cmtt/m/n/9 <type[]qual> <datatype>
+ []
+
+[69]
+Underfull \hbox (badness 2644) in paragraph at lines 817--817
+[]|\OT1/cmr/m/n/10 (+20) Container f[]ur ei-ne []\OT1/cmr/bx/n/10 (+20) While-A
+nweisung[] \OT1/cmtt/m/n/9 while(<exp>) \OMS/cmtt/m/it/9 f
+ []
+
+[70]
+Overfull \vbox (20.81598pt too high) has occurred while \output is active []
+
+
+[71]
+Underfull \hbox (badness 2865) in paragraph at lines 835--835
+[]|\OT1/cmr/m/n/10 (+20) Container f[]ur ei-ne []\OT1/cmr/bx/n/10 (+20) Funk-ti
+-ons-de-kla-ra-ti-on[] \OT1/cmtt/m/n/9 <datatype>
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--836
+[]|\OT1/cmtt/m/n/9 FunDef(datatype, name, allocs,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--836
+[]|\OT1/cmr/m/n/10 (+20) Container f[]ur ei-ne []\OT1/cmr/bx/n/10 (+20) Funk-ti
+-ons-de-fi-ni-ti-on[] \OT1/cmtt/m/n/9 <datatype>
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 838--838
+[]|\OT1/cmtt/m/n/9 NewStackframe(fun[]name,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 841--841
+[]|\OT1/cmtt/m/n/9 Block(name, stmts[]instrs, []instrs[]before[],
+ []
+
+
+Overfull \vbox (19.81598pt too high) has occurred while \output is active []
+
+
+[72]
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 864.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+
+Underfull \hbox (badness 3068) in paragraph at lines 883--883
+[]|\OT1/cmr/m/n/10 (+20) Container der ein Pro-gramm re-pr[]asentiert: \OT1/cmt
+t/m/n/9 <name>
+ []
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{tabularnote.1
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.887 ...note{\cite{scholl_betriebssysteme_2020}} 
+                                                  \colorbold{nicht deklarier...
+
+pdfTeX warning (ext4): destination with the same identifier (name{tabularnote.1
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.905 ...note{\cite{scholl_betriebssysteme_2020}} 
+                                                  \colorbold{nicht deklarier...
+
+Underfull \hbox (badness 10000) in paragraph at lines 908--908
+[]|\OT1/cmtt/m/n/9 Add(), Sub(), Mult(), Div(), Mod(), Xor(),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 909--909
+[]|\OT1/cmtt/m/n/9 Addi(), Subi(), Multi(), Divi(), Modi(),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 912--912
+[]|\OT1/cmtt/m/n/9 Lt(), LtE(), Gt(), GtE(), Eq(), NEq(),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 914--914
+[]|\OT1/cmtt/m/n/9 Pc(), In1(), In2(), Acc(), Sp(), Baf(),
+ []
+
+[73]
+Underfull \hbox (badness 10000) in paragraph at lines 938--938
+[]|\OT1/cmtt/m/n/9 Ref(Subscr(Stack(Num('addr1')),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 954--954
+[]|\OT1/cmtt/m/n/9 Ref(Attr(Stack(Num('addr1')),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 955--955
+[]|\OT1/cmtt/m/n/9 Assign(Stack(Num('size'))),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 956--956
+[]|\OT1/cmtt/m/n/9 Assign(Stack(Num('size')),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 956--956
+[]|\OT1/cmr/m/n/10 (+20) Schreibt \OT1/cmtt/m/n/9 N u m ( ' s i z e ' ) \OT1/cm
+r/m/n/10 (+20) vie-le []\OT1/cmr/bx/n/10 (+20) Spei-cher-zel-len[]\OT1/cmr/m/n/
+10 (+20) , die
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 957--957
+[]|\OT1/cmtt/m/n/9 Assign(Stack(Num('addr1')),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 958--958
+[]|\OT1/cmtt/m/n/9 Assign(Global(Num('addr')),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 959--959
+[]|\OT1/cmtt/m/n/9 Assign(Stackframe(Num('addr')),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 965--965
+[]|\OT1/cmtt/m/n/9 Instr(Loadi(), [Reg(reg),
+ []
+
+[74]
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 972.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+ [75] [76]
+(./_minted-Main/4CB009DF7E17BD757D65C82108AFB89A7A37B929E778A1FFDA741533DD22D71
+6.pygtex) [77]
+<./figures/picoc_compiler_simple.png, id=2795, 258.21469pt x 148.30406pt>
+File: ./figures/picoc_compiler_simple.png Graphic file (type png)
+<use ./figures/picoc_compiler_simple.png>
+Package pdftex.def Info: ./figures/picoc_compiler_simple.png  used on input lin
+e 1074.
+(pdftex.def)             Requested size: 155.77116pt x 89.46964pt.
+ [78 <./figures/picoc_compiler_simple.png>]
+<./figures/passes.png, id=2810, 746.03719pt x 333.49594pt>
+File: ./figures/passes.png Graphic file (type png)
+<use ./figures/passes.png>
+Package pdftex.def Info: ./figures/passes.png  used on input line 1089.
+(pdftex.def)             Requested size: 472.03123pt x 211.00934pt.
+ [79 <./figures/passes.png>] [80]
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 1149.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+
+(./_minted-Main/5F0D8B67F1DA2A85113E087CE059EBE55C0D58D1519BACF29A5C888521899FE
+B.pygtex) [81]
+(./_minted-Main/82FB5CA90737594360FD9507430EABC17A37B929E778A1FFDA741533DD22D71
+6.pygtex) [82]
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Underfull \hbox (badness 1286) in paragraph at lines 1193--1194
+\OT1/cmr/m/n/10 (+20) um die Kno-ten zu er-wei-tern, die am An-fang die-ses Un-
+ter-ka-pi-tels erw[]ahnt wur-den. Die Kno-ten
+ []
+
+[83]
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 1227.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+ [84]
+(./_minted-Main/96350732049C8973D639FDF93430BE827A37B929E778A1FFDA741533DD22D71
+6.pygtex) [85]
+Underfull \hbox (badness 1968) in paragraph at lines 1262--1262
+[]|[]\OT1/cmr/bx/n/10 (+20) Bezeichnung des
+ []
+
+[86]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 1275.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+ [87]
+Overfull \hbox (33.19756pt too wide) in paragraph at lines 1299--1324
+ [][] 
+ []
+
+[88] [89]
+(./_minted-Main/4080B436E8956ED053043DCC29FDB1687A37B929E778A1FFDA741533DD22D71
+6.pygtex) [90]
+(./_minted-Main/759CF1E956A424835CA4AF01EF6E62BD7A37B929E778A1FFDA741533DD22D71
+6.pygtex) [91] [92]
+(./_minted-Main/BB3E52FE2C2ABE4274BC85DF3060FC287A37B929E778A1FFDA741533DD22D71
+6.pygtex) [93] [94] [95]
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 1396.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+ [96]
+(./_minted-Main/73E19C805B445C35CD507DAEDE990D017A37B929E778A1FFDA741533DD22D71
+6.pygtex) [97] [98] [99] [100]
+Underfull \hbox (badness 10000) in paragraph at lines 1448--1449
+[]\OT1/cmr/m/n/10 (+20) Des Wei-te-ren wer-den die \OT1/cmtt/m/n/9 GoTo(Name(st
+r))\OT1/cmr/m/n/10 (+20) -Knoten in den den Kno-ten \OT1/cmtt/m/n/9 Instr(Loadi
+(), [reg,
+ []
+
+
+Underfull \hbox (badness 1859) in paragraph at lines 1448--1449
+\OT1/cmtt/m/n/9 GoTo(Name(str))])\OT1/cmr/m/n/10 (+20) , \OT1/cmtt/m/n/9 Jump(E
+q(), GoTo(Name(str))) \OT1/cmr/m/n/10 (+20) und \OT1/cmtt/m/n/9 Exp(GoTo(Name(s
+tr))) \OT1/cmr/m/n/10 (+20) durch einen []\OT1/cmr/bx/n/10 (+20) Im-me-dia-te[]
+
+ []
+
+[101]
+Underfull \hbox (badness 1178) in paragraph at lines 1505--1506
+[]\OT1/cmr/m/n/10 (+20) Die letz-ten []\OT1/cmr/bx/n/10 (+20) PicoC-Knoten[] \O
+T1/cmr/m/n/10 (+20) und []\OT1/cmr/bx/n/10 (+20) RETI-Befehle[]\OT1/cmr/m/n/10 
+(+20) , die []\OT1/cmr/bx/n/10 (+20) nicht[] \OT1/cmr/m/n/10 (+20) aus-chlie^^Y
+-lich aus []\OT1/cmr/bx/n/10 (+20) RETI-Knoten[] \OT1/cmr/m/n/10 (+20) be-
+ []
+
+
+(./_minted-Main/26A833FC1830104B326F0347A97FA9EC7A37B929E778A1FFDA741533DD22D71
+6.pygtex) [102] [103] [104]) [105]
+\openout2 = `./content/Implementierung2_Pntr_Array.aux'.
+
+ (./content/Implementierung2_Pntr_Array.tex
+(./_minted-Main/7DAC885B0BD146F0CF3CB478E8FB1D995C0D58D1519BACF29A5C888521899FE
+B.pygtex)
+(./_minted-Main/F95DDFAB91A73A40813367E23C348F7A7A37B929E778A1FFDA741533DD22D71
+6.pygtex)
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 41.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+
+Underfull \hbox (badness 4156) in paragraph at lines 42--43
+[]\OT1/cmr/m/n/10 (+20) Die []\OT1/cmr/bx/n/10 (+20) An-zahl Spei-cher-zel-len[
+][][][][][]\OT1/cmr/m/n/10 (+20) , die ein Zei-ger[][][][][] \OT1/cmtt/m/n/9 da
+tatype *pntr \OT1/cmr/m/n/10 (+20) be-legt ist da-bei im-mer[][][][][]:
+ []
+
+[106
+
+
+
+]
+(./_minted-Main/D7747F8AD38EBCB437E6DFFA191F98797A37B929E778A1FFDA741533DD22D71
+6.pygtex)
+(./_minted-Main/CBCC9FC6DB9DA9D57A02935506EE8B997A37B929E778A1FFDA741533DD22D71
+6.pygtex) [107]
+(./_minted-Main/917D7A50E116A174D272EAB0305CE4157A37B929E778A1FFDA741533DD22D71
+6.pygtex) [108]
+(./_minted-Main/7FCE8075F618DA40D0142E0745560A515C0D58D1519BACF29A5C888521899FE
+B.pygtex)
+(./_minted-Main/BB36AC4B1ACDB9E8621781D2431036217A37B929E778A1FFDA741533DD22D71
+6.pygtex)
+(./_minted-Main/194DB1C4F6C9AE9583BF4A7DE5E434647A37B929E778A1FFDA741533DD22D71
+6.pygtex) [109]
+(./_minted-Main/FF63C18FDE502FD10EC752840D13E8B05C0D58D1519BACF29A5C888521899FE
+B.pygtex)
+(./_minted-Main/4502CB01CAECEF2312F2D597614F78D27A37B929E778A1FFDA741533DD22D71
+6.pygtex) [110]
+Overfull \hbox (2.3207pt too wide) in paragraph at lines 138--138
+ []|[]\OT1/cmr/bx/n/10 (-20) Relativ- 
+ []
+
+
+Overfull \hbox (5.8146pt too wide) in paragraph at lines 138--138
+ []|[]\OT1/cmr/bx/n/10 (-20) Register[]| 
+ []
+
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 156.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+[111]
+(./_minted-Main/97C21373006C067EE356F9D0767A358C7A37B929E778A1FFDA741533DD22D71
+6.pygtex) [112]
+Overfull \hbox (2.3207pt too wide) in paragraph at lines 181--181
+ []|[]\OT1/cmr/bx/n/10 (-20) Relativ- 
+ []
+
+
+Overfull \hbox (5.8146pt too wide) in paragraph at lines 181--181
+ []|[]\OT1/cmr/bx/n/10 (-20) Register[]| 
+ []
+
+
+Overfull \hbox (2.3207pt too wide) in paragraph at lines 204--204
+ []|[]\OT1/cmr/bx/n/10 (-20) Relativ- 
+ []
+
+
+Overfull \hbox (5.8146pt too wide) in paragraph at lines 204--204
+ []|[]\OT1/cmr/bx/n/10 (-20) Register[]| 
+ []
+
+[113]
+(./_minted-Main/ACC4F1BD48C1CDA46F937B2054A927FF7A37B929E778A1FFDA741533DD22D71
+6.pygtex)
+(./_minted-Main/F5B052EC2482FDDBC5516D1329B2F8EF7A37B929E778A1FFDA741533DD22D71
+6.pygtex) [114] [115]
+(./_minted-Main/A5EC2E238CF6A4A61A913B5FE17BF82B5C0D58D1519BACF29A5C888521899FE
+B.pygtex)
+(./_minted-Main/FED2D0BBCFF830C38B80DDEE001A6C627A37B929E778A1FFDA741533DD22D71
+6.pygtex) [116]
+Underfull \hbox (badness 3428) in paragraph at lines 304--305
+\OT1/cmtt/m/n/9 Num('1')), Num('1'))\OT1/cmr/m/n/10 (+20) ) ist es not-wen-dig 
+meh-re-re []\OT1/cmr/bx/n/10 (+20) Adress-be-rech-nungs-schrit-te f[]ur den In-
+dex[]
+ []
+
+[117]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 336.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 342.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 360--361
+[]\OT1/cmr/m/n/10 (+20) Die Kno-ten \OT1/cmtt/m/n/9 Exp(Stack(Num('1'))) \OT1/c
+mr/m/n/10 (+20) re-pr[]asentieren da-bei das Le-sen des []\OT1/cmr/bx/n/10 (+20
+) In-halts[]
+ []
+
+[118]
+(./_minted-Main/F3BD14F9C5C906C0322AA48463F4761E7A37B929E778A1FFDA741533DD22D71
+6.pygtex)
+(./_minted-Main/31F17E33715EB9720489D5CEB364E3E97A37B929E778A1FFDA741533DD22D71
+6.pygtex) [119] [120]
+(./_minted-Main/32D0BB7102B73AAAEE038D0291B324895C0D58D1519BACF29A5C888521899FE
+B.pygtex) [121]
+(./_minted-Main/DA7EC2B58D928CF970FDE0275666C1207A37B929E778A1FFDA741533DD22D71
+6.pygtex) [122]
+(./_minted-Main/F74EDEFC98296F96A4545D6C9D77AED37A37B929E778A1FFDA741533DD22D71
+6.pygtex) [123]
+(./_minted-Main/E0DD9471B3BAB52D452F0F2EB87BF58E7A37B929E778A1FFDA741533DD22D71
+6.pygtex)) [124]
+\openout2 = `./content/Implementierung3_Struct_Derived.aux'.
+
+ (./content/Implementierung3_Struct_Derived.tex
+(./_minted-Main/D2A4DF6EEEE4B54173E76F16A33C20025C0D58D1519BACF29A5C888521899FE
+B.pygtex)
+(./_minted-Main/9D25E497BF11D28D11C47DE5D85CCF5D7A37B929E778A1FFDA741533DD22D71
+6.pygtex) [125
+
+
+
+]
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 52.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+
+(./_minted-Main/6E4760B5FC7585549A2553C8B49AAAF37A37B929E778A1FFDA741533DD22D71
+6.pygtex) [126]
+(./_minted-Main/1B1E5D63E12090BB2A5E5FF0A735426C5C0D58D1519BACF29A5C888521899FE
+B.pygtex) [127]
+(./_minted-Main/C641AE0FDED4E18F45F9658C784801B47A37B929E778A1FFDA741533DD22D71
+6.pygtex) [128]
+(./_minted-Main/093716825B47A0861B854E36B10BE32F7A37B929E778A1FFDA741533DD22D71
+6.pygtex)
+(./_minted-Main/6D904517665F43A5A483C97BA536111F7A37B929E778A1FFDA741533DD22D71
+6.pygtex) [129]
+(./_minted-Main/9AD91D98ADA0F1E1F7F914921EA255C35C0D58D1519BACF29A5C888521899FE
+B.pygtex)
+(./_minted-Main/5B9C914A2EC338F9B88A3CDA7D7650727A37B929E778A1FFDA741533DD22D71
+6.pygtex) [130]
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 141.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+
+(./_minted-Main/BCCB96249CC105F86CC7DAFA1FA96F247A37B929E778A1FFDA741533DD22D71
+6.pygtex) [131]
+(./_minted-Main/91D2C3D9EACA5D227B02341E53EBEB127A37B929E778A1FFDA741533DD22D71
+6.pygtex) [132]
+(./_minted-Main/37328ADDDDB624D85E8B6C0CC5FF14F25C0D58D1519BACF29A5C888521899FE
+B.pygtex)
+(./_minted-Main/B4A502E701CF1544A2CDD07A4D7CECF77A37B929E778A1FFDA741533DD22D71
+6.pygtex) [133]
+(./_minted-Main/3CC1589650F33E98A6F8806AE95338E87A37B929E778A1FFDA741533DD22D71
+6.pygtex)
+(./_minted-Main/8D3A0641F0C4B2BEF73586C6DB3E6CDE7A37B929E778A1FFDA741533DD22D71
+6.pygtex) [134]
+(./_minted-Main/52D8989B0E843D46DF5C3C41266E69756963D76A566161EB3C2E84B968A74C2
+3.pygtex)
+(./_minted-Main/523CD4862D80FD30FC6C9FBAB275434E6963D76A566161EB3C2E84B968A74C2
+3.pygtex)
+(./_minted-Main/3BEA7C90FBEC846973AFCB9BC377852E6963D76A566161EB3C2E84B968A74C2
+3.pygtex
+<./figures/form2.png, id=3329, 418.56375pt x 59.47218pt>
+File: ./figures/form2.png Graphic file (type png)
+<use ./figures/form2.png>
+Package pdftex.def Info: ./figures/form2.png  used on input line 9.
+(pdftex.def)             Requested size: 100.12523pt x 14.22636pt.
+File: ./figures/form2.png Graphic file (type png)
+<use ./figures/form2.png>
+Package pdftex.def Info: ./figures/form2.png  used on input line 9.
+(pdftex.def)             Requested size: 100.12523pt x 14.22636pt.
+)
+(./_minted-Main/F2570B4A27E3C64F15931605961179716963D76A566161EB3C2E84B968A74C2
+3.pygtex
+File: ./figures/form2.png Graphic file (type png)
+<use ./figures/form2.png>
+Package pdftex.def Info: ./figures/form2.png  used on input line 10.
+(pdftex.def)             Requested size: 100.12523pt x 14.22636pt.
+File: ./figures/form2.png Graphic file (type png)
+<use ./figures/form2.png>
+Package pdftex.def Info: ./figures/form2.png  used on input line 10.
+(pdftex.def)             Requested size: 100.12523pt x 14.22636pt.
+)
+(./_minted-Main/0F3AB2B33A92731B89403F334623334E6963D76A566161EB3C2E84B968A74C2
+3.pygtex
+<./figures/form1.png, id=3330, 243.91125pt x 30.1125pt>
+File: ./figures/form1.png Graphic file (type png)
+<use ./figures/form1.png>
+Package pdftex.def Info: ./figures/form1.png  used on input line 4.
+(pdftex.def)             Requested size: 80.66216pt x 9.95845pt.
+File: ./figures/form1.png Graphic file (type png)
+<use ./figures/form1.png>
+Package pdftex.def Info: ./figures/form1.png  used on input line 4.
+(pdftex.def)             Requested size: 80.66216pt x 9.95845pt.
+)
+(./_minted-Main/009F8C3F4700D33DBDB6975D53FA72466963D76A566161EB3C2E84B968A74C2
+3.pygtex)
+(./_minted-Main/677FF5AC13A666B065DFF3863163F2216963D76A566161EB3C2E84B968A74C2
+3.pygtex)
+
+LaTeX Warning: Float too large for page by 49.8679pt on input line 255.
+
+[135] [136 <./figures/form2.png> <./figures/form1.png (PNG copy)>]
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 276.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+ [137
+pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.321
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.303 
+      ]
+(./_minted-Main/3F69C0AB554F31ED495C566018E885F95C0D58D1519BACF29A5C888521899FE
+B.pygtex)
+(./_minted-Main/274CEFE6645E6DD185953177065D05527A37B929E778A1FFDA741533DD22D71
+6.pygtex) [138]
+(./_minted-Main/A2BF0492925C1B384999D7227085DB7E7A37B929E778A1FFDA741533DD22D71
+6.pygtex)
+(./_minted-Main/94278DAE9084180C377032EE144F40EB7A37B929E778A1FFDA741533DD22D71
+6.pygtex) [139]
+(./_minted-Main/3AE67B0ED3C20AEBCE3FFB91067DF7E05C0D58D1519BACF29A5C888521899FE
+B.pygtex)
+(./_minted-Main/10D42B25E9249EF74DD2133C4E787D027A37B929E778A1FFDA741533DD22D71
+6.pygtex) [140]
+(./_minted-Main/56DEDC5812865B5AA52BF8F7A18DA8F07A37B929E778A1FFDA741533DD22D71
+6.pygtex)
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 376.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+
+Underfull \hbox (badness 4518) in paragraph at lines 382--385
+[]\OT1/cmr/m/n/10 (+20) Sei $[]$ das []\OT1/cmr/bx/n/10 (+20) Ele-ment / At-tri
+-but[] \OT1/cmr/m/n/10 (+20) des []\OT1/cmr/bx/n/10 (+20) Da-ten-typs[] $[]$ \O
+T1/cmr/m/n/10 (+20) f[]ur das gilt:
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 422--423
+[]\OT1/cmr/m/n/10 (+20) Die [][]\OT1/cmr/bx/n/10 (+20) au^^Yere Schlei-fe[] \OT
+1/cmr/m/n/10 (+20) ite-riert nach-ein-an-der []uber die Fol-ge von []\OT1/cmr/b
+x/n/10 (+20) At-tri-bu-ten[] \OT1/cmr/m/n/10 (+20) / []\OT1/cmr/bx/n/10 (+20) E
+le-men-ten[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--435
+[]\OT1/cmr/m/n/10 (+20) Die Kno-ten \OT1/cmtt/m/n/9 Exp(Stack(Num('1'))) \OT1/c
+mr/m/n/10 (+20) re-pr[]asentieren da-bei das Le-sen des []\OT1/cmr/bx/n/10 (+20
+) In-halts[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--435
+\OML/cmm/m/it/10 M []$ \OT1/cmr/m/n/10 (+20) der Spei-cher-zel-le an der fi-na-
+len []\OT1/cmr/bx/n/10 (+20) Adres-se[]
+ []
+
+[141] [142]
+(./_minted-Main/8085F763145928EAD8BD14E78E6E83707A37B929E778A1FFDA741533DD22D71
+6.pygtex) [143]
+(./_minted-Main/34F1F49FEB517A9C7D2C68254A938F2F7A37B929E778A1FFDA741533DD22D71
+6.pygtex) [144]
+(./_minted-Main/AA26DA4B6B98EFA1AF29D8ED529AFD215C0D58D1519BACF29A5C888521899FE
+B.pygtex) [145]
+(./_minted-Main/78756B563FEB729483E3A3730019CA8D7A37B929E778A1FFDA741533DD22D71
+6.pygtex)
+(./_minted-Main/F0B90CE11868699693F63842074E6B457A37B929E778A1FFDA741533DD22D71
+6.pygtex) [146]
+(./_minted-Main/C5D05BA927FB22EC32F140B0114EE5047A37B929E778A1FFDA741533DD22D71
+6.pygtex) [147] [148]) [149]
+\openout2 = `./content/Implementierung4_Fun.aux'.
+
+ (./content/Implementierung4_Fun.tex
+(./_minted-Main/5156D122826F47B52695C2581D70D94A5C0D58D1519BACF29A5C888521899FE
+B.pygtex)
+(./_minted-Main/2161E57C017ED0DCA4FE9B5D6912C2527A37B929E778A1FFDA741533DD22D71
+6.pygtex) [150
+
+
+
+]
+(./_minted-Main/CE394245A04B3FE4F7BBC2A2FEA63CC07A37B929E778A1FFDA741533DD22D71
+6.pygtex) [151] [152]
+(./_minted-Main/177293B0BBB419F574C2F7C0FABADF907A37B929E778A1FFDA741533DD22D71
+6.pygtex) [153]
+(./_minted-Main/CB84F7D0F67BA35B912F167847BD64427A37B929E778A1FFDA741533DD22D71
+6.pygtex) [154]
+(./_minted-Main/4B72958461EB6F37A279211AB1FB9CCA5C0D58D1519BACF29A5C888521899FE
+B.pygtex)
+(./_minted-Main/C7642D251F07E7284E03EECA93C1FD987A37B929E778A1FFDA741533DD22D71
+6.pygtex) [155]
+(./_minted-Main/2D872219BC21760FA1674C9D7CFD8E727A37B929E778A1FFDA741533DD22D71
+6.pygtex) [156]
+(./_minted-Main/C9D3B92C7E56CF52039D58C97855C0F67A37B929E778A1FFDA741533DD22D71
+6.pygtex) [157]
+(./_minted-Main/73A5327908D8834053B0E4BB28089CCC5C0D58D1519BACF29A5C888521899FE
+B.pygtex) [158]
+(./_minted-Main/38635FC9562137D1909F485A797176167A37B929E778A1FFDA741533DD22D71
+6.pygtex) [159]
+(./_minted-Main/D91530A209A6E7CC5F1626828689CB015C0D58D1519BACF29A5C888521899FE
+B.pygtex) [160]
+(./_minted-Main/D741F762FE7905A3AE53987A89304A307A37B929E778A1FFDA741533DD22D71
+6.pygtex) [161]
+\l__nicematrix_end_int=\count668
+\l__nicematrix_local_start_int=\count669
+\l__nicematrix_local_end_int=\count670
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 242.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+[]\OT1/cmr/m/it/10 (+20) Als []\OT1/cmr/bx/it/10 (+20) zwei-tes[] \OT1/cmr/m/it
+/10 (+20) steht in ei-nem Stack-fra-me []ublicherweise die []\OT1/cmr/bx/it/10 
+(+20) R[]ucksprungadresse[]\OT1/cmr/m/it/10 (+20) . Die
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 266--267
+[]\OT1/cmr/bx/it/10 (+20) R[]ucksprungadresse[] \OT1/cmr/m/it/10 (+20) ist die 
+Adres-se []\OT1/cmr/bx/it/10 (+20) re-la-tiv[] \OT1/cmr/m/it/10 (+20) zum An-fa
+ng des []\OT1/cmr/bx/it/10 (+20) Co-de-seg-ments[]\OT1/cmr/m/it/10 (+20) , an w
+el-cher
+ []
+
+[162]
+(./_minted-Main/8CCA620A2B0D9CC96CE3D6527CD956D47A37B929E778A1FFDA741533DD22D71
+6.pygtex) [163]
+Underfull \hbox (badness 10000) in paragraph at lines 289--289
+[]|\OT1/cmtt/m/n/9 NewStackframe(fun[]name,
+ []
+
+[164]
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
+[]|\OT1/cmtt/m/n/9 Instr(Loadi(), [Reg(reg),
+ []
+
+
+(./_minted-Main/DDF4E26D0C8BFB6D2AB438103BE25C1A7A37B929E778A1FFDA741533DD22D71
+6.pygtex) [165]
+(./_minted-Main/7DC995DE469691BD8C749A7F48E294D67A37B929E778A1FFDA741533DD22D71
+6.pygtex) [166]
+Underfull \hbox (badness 3849) in paragraph at lines 340--342
+\OT1/cmr/m/n/10 (+20) Attributes des []\OT1/cmr/bx/n/10 (+20) ak-tu-el-len Bloc
+ks[] \OT1/cmtt/m/n/9 Block(name, stmts[]instrs, []instrs[]before[], []num[]inst
+rs[], []param[]size[],
+ []
+
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 343.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{equation.3.3.
+1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.345 \begin{equation}
+                      
+pdfTeX warning (ext4): destination with the same identifier (name{equation.3.3.
+2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.359   \begin{equation}
+                        
+Underfull \hbox (badness 1688) in paragraph at lines 374--374
+[][][]\OT1/cmr/m/n/8 (+20) Die []\OT1/cmr/bx/n/8 (+20) Kon-stel-la-tio-nen[] $\
+OT1/cmr/m/n/8 (+20) #\OML/cmm/m/it/8 Bef[] > \OT1/cmr/m/n/8 (+20) #\OML/cmm/m/i
+t/8 Bef[]$\OT1/cmr/m/n/8 (+20) , $#\OML/cmm/m/it/8 Bef[] < \OT1/cmr/m/n/8 (+20)
+ #\OML/cmm/m/it/8 Bef[]$ \OT1/cmr/m/n/8 (+20) sind im Fall
+ []
+
+<./figures/distanzberechnung.png, id=3669, 442.65375pt x 195.73125pt>
+File: ./figures/distanzberechnung.png Graphic file (type png)
+<use ./figures/distanzberechnung.png>
+Package pdftex.def Info: ./figures/distanzberechnung.png  used on input line 37
+8.
+(pdftex.def)             Requested size: 354.8642pt x 156.9197pt.
+[167] [168]
+(./_minted-Main/BE2C8F04B2BE1F56830622CE06A573697A37B929E778A1FFDA741533DD22D71
+6.pygtex) [169 <./figures/distanzberechnung.png>]
+(./_minted-Main/8E45944F8B6F6ADA73004D3B835583E05C0D58D1519BACF29A5C888521899FE
+B.pygtex)
+(./_minted-Main/3416FFE2BEFC9C0FD7F969E90A3156517A37B929E778A1FFDA741533DD22D71
+6.pygtex) [170]
+Underfull \hbox (badness 2073) in paragraph at lines 415--416
+[]\OT1/cmr/m/n/10 (+20) Im []\OT1/cmr/bx/n/10 (+20) PicoC-ANF Pass[] \OT1/cmr/m
+/n/10 (+20) in Co-de [][]3.82[][] wer-den bei den Kno-ten \OT1/cmtt/m/n/9 Retur
+n(BinOp(Num('21'), Mul('*'),
+ []
+
+[171]
+(./_minted-Main/0BE5D4D6E0CD0E2876F08ABFBFB960F67A37B929E778A1FFDA741533DD22D71
+6.pygtex)
+(./_minted-Main/B1A95FBEA0819DBE3CF89F0A015B16A87A37B929E778A1FFDA741533DD22D71
+6.pygtex) [172] [173]
+(./_minted-Main/FF1CF93A1AE5C73F29545B0B1851D3625C0D58D1519BACF29A5C888521899FE
+B.pygtex) [174]
+(./_minted-Main/B3BFDC35FD6BBE67003C7E1CA00B53977A37B929E778A1FFDA741533DD22D71
+6.pygtex) [175] [176]
+(./_minted-Main/53B0780D1D4674ED00C6544A121BB10E7A37B929E778A1FFDA741533DD22D71
+6.pygtex)
+(./_minted-Main/E2BE195165D464579FC264CC853B199F7A37B929E778A1FFDA741533DD22D71
+6.pygtex) [177] [178]
+(./_minted-Main/F51F7EC689B37A8E391DBA9307BE22FB5C0D58D1519BACF29A5C888521899FE
+B.pygtex)
+(./_minted-Main/03E7DE4F43E25F9C411FBAF87DCDAB0C7A37B929E778A1FFDA741533DD22D71
+6.pygtex) [179]
+(./_minted-Main/40B4FE846E35B7A378FE9AAEF0FE6B597A37B929E778A1FFDA741533DD22D71
+6.pygtex) [180]) [181]
+\openout2 = `./content/Implementierung5_Fehlermeldungen.aux'.
+
+ (./content/Implementierung5_Fehlermeldungen.tex
+(./_minted-Main/0D8BE21F37EA541987B770044FE988A45C0D58D1519BACF29A5C888521899FE
+B.pygtex)
+pdfTeX warning (ext4): destination with the same identifier (name{tabularnote.1
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.71 ...old{Funktion} oder \colorbold{Variable}.} 
+                                                  der bereits \colorbold{dek...
+
+pdfTeX warning (ext4): destination with the same identifier (name{tabularnote.2
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.77 ...} bezogen z.B. \smalltt{return 42} sein.}.
+                                                   \\ [182
+
+
+
+]
+\tcb@out=\write14
+\openout14 = `Main.listing'.
+
+
+(./_minted-Main/08F0F1857B2FB66F660156A72799D08D7A37B929E778A1FFDA741533DD22D71
+6.pygtex) [183]
+\openout14 = `Main.listing'.
+
+
+(./_minted-Main/CB733CDA29BA1AEB37A592D84485C3F47A37B929E778A1FFDA741533DD22D71
+6.pygtex)
+\openout14 = `Main.listing'.
+
+
+(./_minted-Main/EC02B2EA8734DA5590C548F62F3800347A37B929E778A1FFDA741533DD22D71
+6.pygtex)
+\openout14 = `Main.listing'.
+
+
+(./_minted-Main/13B8BB01B232F94ACC91CD45CE2558907A37B929E778A1FFDA741533DD22D71
+6.pygtex) [184]
+\openout14 = `Main.listing'.
+
+
+(./_minted-Main/0E34DADF5C535B14D6B1F04F316E6BED7A37B929E778A1FFDA741533DD22D71
+6.pygtex)) [185]
+\openout2 = `./content/Ergebnisse_und_Ausblick.aux'.
+
+ (./content/Ergebnisse_und_Ausblick.tex
+Kapitel 4.
+[186
+
+
+
+
+]
+Underfull \hbox (badness 2012) in paragraph at lines 40--40
+[][][]\OT1/cmr/m/n/8 (+20) Die []\OT1/cmr/bx/n/8 (+20) Kom-man-do-zei-len-op-ti
+o-nen[] \OT1/cmtt/m/n/9 <cli-options> \OT1/cmr/m/n/8 (+20) ha-ben []\OT1/cmr/bx
+/n/8 (+20) kei-ne[] \OT1/cmr/m/n/8 (+20) fes-te Po-si-ti-on, es geht eben-falls
+ \OT1/cmtt/m/n/9 picoc_compiler
+ []
+
+[187]
+<./figures/simulierter_weg_der_ausfuehrung.png, id=3863, 258.58073pt x 339.4701
+pt>
+File: ./figures/simulierter_weg_der_ausfuehrung.png Graphic file (type png)
+<use ./figures/simulierter_weg_der_ausfuehrung.png>
+Package pdftex.def Info: ./figures/simulierter_weg_der_ausfuehrung.png  used on
+ input line 120.
+(pdftex.def)             Requested size: 236.01561pt x 309.84546pt.
+ [188]
+\openout14 = `Main.listing'.
+
+ (./_minted-Main/default.pygstyle)
+(./_minted-Main/64F69D2FFC5082286E99BCBE7E7A008469F456DE0F78E004E761D0F17EDF706
+0.pygtex) [189 <./figures/simulierter_weg_der_ausfuehrung.png>]
+\openout14 = `Main.listing'.
+
+
+(./_minted-Main/302278D57D677FB000B89911B4D495C269F456DE0F78E004E761D0F17EDF706
+0.pygtex) [190] [191]
+Overfull \hbox (4.74458pt too wide) in paragraph at lines 243--243
+ []|[]\OT1/cmr/bx/n/10 (-20) Standardwert[]| 
+ []
+
+
+Overfull \hbox (8.9451pt too wide) in paragraph at lines 256--257
+[]\OT1/cmr/m/n/10 (-20) Alternativ kann der []\OT1/cmr/bx/n/10 (-20) Show-Mode[
+] \OT1/cmr/m/n/10 (-20) mit dem Be-fehl []
+ []
+
+<./figures/show_mode.png, id=3895, 1433.355pt x 714.41907pt>
+File: ./figures/show_mode.png Graphic file (type png)
+<use ./figures/show_mode.png>
+Package pdftex.def Info: ./figures/show_mode.png  used on input line 269.
+(pdftex.def)             Requested size: 472.03123pt x 235.26846pt.
+[192] [193 <./figures/show_mode.png (PNG copy)>]
+Underfull \hbox (badness 1454) in paragraph at lines 320--321
+\OT1/cmr/m/n/10 (+20) ein-fach nur die-ses Bas-h-skript ausf[]uhrt. Bei der []\
+OT1/cmr/bx/n/10 (+20) Ausf[]uhrung[] \OT1/cmr/m/n/10 (+20) des Bas-h-skripts []
+,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
+\OT1/cmr/m/n/10 (+20) wird als ers-tes f[]ur []\OT1/cmr/bx/n/10 (+20) je-den[] 
+\OT1/cmr/m/n/10 (+20) Test das Bas-h-skript [] aus-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
+\OT1/cmr/m/n/10 (+20) gef[]uhrt, wel-ches die Zei-len \OT1/cmtt/m/n/9 // in:<sp
+ace_seperated_input>\OT1/cmr/m/n/10 (+20) , \OT1/cmtt/m/n/9 // expected:<space_
+seperated_output>
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
+\OT1/cmr/m/n/10 (+20) und \OT1/cmtt/m/n/9 // datasegment:<datasegment_size> \OT
+1/cmr/m/n/10 (+20) ex-tra-hiert[][][][][] und die ent-spre-chen-den Zei-chen-ke
+t-ten
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 320--321
+\OT1/cmtt/m/n/9 <space_seperated_input>\OT1/cmr/m/n/10 (+20) , \OT1/cmtt/m/n/9 
+<space_seperated_output> \OT1/cmr/m/n/10 (+20) und \OT1/cmtt/m/n/9 <datasegment
+_size> \OT1/cmr/m/n/10 (+20) in []\OT1/cmr/bx/n/10 (+20) neu[] \OT1/cmr/m/n/10 
+(+20) er-stell-te Da-tei-en
+ []
+
+[194]
+(./_minted-Main/50FF0147C4B77C497BE9D02347A619E5F835F37FFE770B306DFB4B26D2CE0FF
+D.pygtex) [195]
+\openout14 = `Main.listing'.
+
+
+(./_minted-Main/931EC6F00A8C9F87E0010EC27C119EC369F456DE0F78E004E761D0F17EDF706
+0.pygtex) [196]
+\g__tikzsymbols_savebox_F_0 g 0 G_8_dWinkey_1_yellow_box=\box117
+ [197] [198] [199]
+(./_minted-Main/3B0931C5060AAC9E9F5EEFD7E719DB895C0D58D1519BACF29A5C888521899FE
+B.pygtex)
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 498.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+) [200]
+\openout2 = `./content/Appendix.aux'.
+
+ (./content/Appendix.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 22.
+
+[1
+
+
+
+
+
+]
+Overfull \hbox (11.37901pt too wide) in paragraph at lines 96--96
+ []|[]\OT1/cmr/bx/n/10 (-20) Condition[]| 
+ []
+
+<./figures/reti_architecture.png, id=4041, 389.7762pt x 138.7584pt>
+File: ./figures/reti_architecture.png Graphic file (type png)
+<use ./figures/reti_architecture.png>
+Package pdftex.def Info: ./figures/reti_architecture.png  used on input line 11
+5.
+(pdftex.def)             Requested size: 472.03123pt x 168.05061pt.
+[2]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 128.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 132.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 136.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+ [3 <./figures/reti_architecture.png>]
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 140.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 144.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 148.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 152.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 156.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 160.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+ [4]
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 165.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 171.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 182.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 187.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+ [5] [6]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 249.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 253.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 257.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 261.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 265.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+ [7]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 269.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 273.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 284.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 296.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+ [8]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 310.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+<./figures/cross_compiling.png, id=4265, 346.29375pt x 301.125pt>
+File: ./figures/cross_compiling.png Graphic file (type png)
+<use ./figures/cross_compiling.png>
+Package pdftex.def Info: ./figures/cross_compiling.png  used on input line 322.
+
+(pdftex.def)             Requested size: 236.01561pt x 205.23553pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.I}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.326 
+       [9]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 327.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+ [10 <./figures/cross_compiling.png>]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 336.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 344.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 351.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 355.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+ [11]
+<./figures/bootstrapping.png, id=4326, 481.04718pt x 344.78813pt>
+File: ./figures/bootstrapping.png Graphic file (type png)
+<use ./figures/bootstrapping.png>
+Package pdftex.def Info: ./figures/bootstrapping.png  used on input line 361.
+(pdftex.def)             Requested size: 311.54234pt x 223.29942pt.
+) [12 <./figures/bootstrapping.png>] [13
+
+
+
+] [14] [15] [16] [17] [18] (./Main.aux (./content/Motivation.aux)
+(./content/Einführung.aux) (./content/Implementierung1_Tables_DT_AST.aux)
+(./content/Implementierung2_Pntr_Array.aux)
+(./content/Implementierung3_Struct_Derived.aux)
+(./content/Implementierung4_Fun.aux)
+(./content/Implementierung5_Fehlermeldungen.aux)
+(./content/Ergebnisse_und_Ausblick.aux) (./content/Appendix.aux))
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package rerunfilecheck Info: File `Main.out' has not changed.
+(rerunfilecheck)             Checksum: 69F426C87779589B3A44EF5890CF3829;18006.
+Package logreq Info: Writing requests to 'Main.run.xml'.
+\openout1 = `Main.run.xml'.
+
+ ) 
 Here is how much of TeX's memory you used:
- 55332 strings out of 475071
- 1153072 string characters out of 5780912
- 2142253 words of memory out of 5000000
- 75159 multiletter control sequences out of 15000+600000
- 501237 words of font info for 313 fonts, out of 8000000 for 9000
+ 78740 strings out of 477529
+ 1722015 string characters out of 5827605
+ 2597452 words of memory out of 5000000
+ 94458 multiletter control sequences out of 15000+600000
+ 509733 words of font info for 406 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 88i,17n,92p,1662b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 88i,21n,92p,2618b,3238s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-!  ==> Fatal error occurred, no output PDF file produced!
+pdfTeX warning (dest): name{cite.0@shinan_lark_nodate} has been referenced but 
+does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@bolingbroke_types_2009} has been referenced 
+but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@noauthor_lark_2022} has been referenced but 
+does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@noauthor_syntax_2022} has been referenced bu
+t does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@ueda_makefile_2022} has been referenced but 
+does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.0@nemec_copy_file_to_another_repo_action_2022}
+ has been referenced but does not exist, replaced by a fixed one
+
+{/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} </ro
+ot/texlive/texmf-var/fonts/pk/ljfour/public/bbm/bbm10.600pk></opt/texlive/texdi
+r/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></opt/texlive/texdir/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></opt/texlive/texdir/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmbx8.pfb></opt/texlive/texdir/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmbx9.pfb></opt/texlive/texdir/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmbxti10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmcsc10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmex10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmitt10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmmi5.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6
+.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><
+/opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></opt/t
+exlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive
+/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></opt/texlive/texdi
+r/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></opt/texlive/texdir/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></opt/texlive/texdir/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr7.pfb></opt/texlive/texdir/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr9.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsy10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmsy5.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy6.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pf
+b></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></op
+t/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></opt/texl
+ive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></opt/texlive/t
+exdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></opt/texlive/texdir
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></opt/texlive/texdir/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></opt/texlive/texdir/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmtt10.pfb></opt/texlive/texdir/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmtt8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmtt9.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/publi
+c/amsfonts/symbols/msbm10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/publi
+c/cm-super/sfrm1000.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/cm-s
+uper/sfti0800.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/cm-super/s
+fti1000.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/cm-super/sftt090
+0.pfb>
+Output written on Main.pdf (230 pages, 2476344 bytes).
+PDF statistics:
+ 4938 PDF objects out of 5155 (max. 8388607)
+ 4531 compressed objects within 46 object streams
+ 1225 named destinations out of 1440 (max. 500000)
+ 72653 words of extra memory for PDF output out of 74296 (max. 10000000)
+
