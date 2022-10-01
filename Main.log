@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.1)  1 OCT 2022 14:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.1)  1 OCT 2022 14:55
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1569,23 +1569,2072 @@ LaTeX Info: Redefining \genfrac on input line 149.
 \cur@col=\count551
 \conditionsep=\skip111
 )
+(/opt/texlive/texdir/texmf-dist/tex/latex/tcolorbox/tcbxparse.code.tex
+Library (tcolorbox): 'tcbxparse.code.tex' version '5.1.1'
+) (/opt/texlive/texdir/texmf-dist/tex/latex/bbm-macros/bbm.sty
+Package: bbm 1999/03/15 V 1.2 provides fonts for set symbols - TH
+LaTeX Font Info:    Overwriting math alphabet `\mathbbm' in version `bold'
+(Font)                  U/bbm/m/n --> U/bbm/bx/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathbbmss' in version `bold'
+(Font)                  U/bbmss/m/n --> U/bbmss/bx/n on input line 35.
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/tikzsymbols/tikzsymbols.sty
+Package: tikzsymbols 2021/12/14 v4.12a Some symbols created using tikz and LaTe
+X3.
 
-! Package pgfkeys Error: I do not know the key '/tcb/library/sty/xparse' and I 
-am going to ignore it. Perhaps you misspelled it.
+(/opt/texlive/texdir/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/ti
+kzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-See the pgfkeys package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.235 \tcbuselibrary{sty/xparse}
-                                 
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code
+.tex
+File: pgflibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\arrowsize=\dimen402
+))
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/ti
+kzlibrarydecorations.pathmorphing.code.tex
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/ti
+kzlibrarydecorations.code.tex
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.co
+de.tex
+\pgfdecoratedcompleteddistance=\dimen403
+\pgfdecoratedremainingdistance=\dimen404
+\pgfdecoratedinputsegmentcompleteddistance=\dimen405
+\pgfdecoratedinputsegmentremainingdistance=\dimen406
+\pgf@decorate@distancetomove=\dimen407
+\pgf@decorate@repeatstate=\count552
+\pgfdecorationsegmentamplitude=\dimen408
+\pgfdecorationsegmentlength=\dimen409
+)
+\tikz@lib@dec@box=\box102
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrar
+ydecorations.pathmorphing.code.tex))
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/ti
+kzlibrarytrees.code.tex
+File: tikzlibrarytrees.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+\l__tikzsymbols_Moai_thickness_dim=\dimen410
+\l__tikzsymbols_Kochtopf_nr_arguments_int=\count553
+\l__tikzsymbols_Bratpfanne_nr_arguments_int=\count554
+\l__tikzsymbols_Schneebesen_nr_arguments_int=\count555
+\l__tikzsymbols_Sieb_nr_arguments_int=\count556
+\l__tikzsymbols_Purierstab_nr_arguments_int=\count557
+\l__tikzsymbols_Dreizack_nr_arguments_int=\count558
+\l__tikzsymbols_Backblech_nr_arguments_int=\count559
+\l__tikzsymbols_Ofen_nr_arguments_int=\count560
+\l__tikzsymbols_Pfanne_nr_arguments_int=\count561
+\l__tikzsymbols_Herd_nr_arguments_int=\count562
+\l__tikzsymbols_Saftpresse_nr_arguments_int=\count563
+\l__tikzsymbols_Schussel_nr_arguments_int=\count564
+\l__tikzsymbols_Schaler_nr_arguments_int=\count565
+\l__tikzsymbols_Reibe_nr_arguments_int=\count566
+\l__tikzsymbols_Flasche_nr_arguments_int=\count567
+\l__tikzsymbols_Nudelholz_nr_arguments_int=\count568
+\l__tikzsymbols_Knoblauchpresse_nr_arguments_int=\count569
+\l__tikzsymbols_Sadey_nr_arguments_int=\count570
+\l__tikzsymbols_dSadey_nr_arguments_int=\count571
+\l__tikzsymbols_Changey_nr_arguments_int=\count572
+\l__tikzsymbols_dChangey_nr_arguments_int=\count573
+\l__tikzsymbols_cChangey_nr_arguments_int=\count574
+\l__tikzsymbols_dcChangey_nr_arguments_int=\count575
+\l__tikzsymbols_Annoey_nr_arguments_int=\count576
+\l__tikzsymbols_dAnnoey_nr_arguments_int=\count577
+\l__tikzsymbols_Smiley_nr_arguments_int=\count578
+\l__tikzsymbols_dSmiley_nr_arguments_int=\count579
+\l__tikzsymbols_Laughey_nr_arguments_int=\count580
+\l__tikzsymbols_dLaughey_nr_arguments_int=\count581
+\l__tikzsymbols_Neutrey_nr_arguments_int=\count582
+\l__tikzsymbols_dNeutrey_nr_arguments_int=\count583
+\l__tikzsymbols_Winkey_nr_arguments_int=\count584
+\l__tikzsymbols_oldWinkey_nr_arguments_int=\count585
+\l__tikzsymbols_dWinkey_nr_arguments_int=\count586
+\l__tikzsymbols_olddWinkey_nr_arguments_int=\count587
+\l__tikzsymbols_Sey_nr_arguments_int=\count588
+\l__tikzsymbols_dSey_nr_arguments_int=\count589
+\l__tikzsymbols_Xey_nr_arguments_int=\count590
+\l__tikzsymbols_dXey_nr_arguments_int=\count591
+\l__tikzsymbols_Innocey_nr_arguments_int=\count592
+\l__tikzsymbols_wInnocey_nr_arguments_int=\count593
+\l__tikzsymbols_dInnocey_nr_arguments_int=\count594
+\l__tikzsymbols_Cooley_nr_arguments_int=\count595
+\l__tikzsymbols_dCooley_nr_arguments_int=\count596
+\l__tikzsymbols_Tongey_nr_arguments_int=\count597
+\l__tikzsymbols_dTongey_nr_arguments_int=\count598
+\l__tikzsymbols_Nursey_nr_arguments_int=\count599
+\l__tikzsymbols_dNursey_nr_arguments_int=\count600
+\l__tikzsymbols_Vomey_nr_arguments_int=\count601
+\l__tikzsymbols_dVomey_nr_arguments_int=\count602
+\l__tikzsymbols_Walley_nr_arguments_int=\count603
+\l__tikzsymbols_rWalley_nr_arguments_int=\count604
+\l__tikzsymbols_dWalley_nr_arguments_int=\count605
+\l__tikzsymbols_drWalley_nr_arguments_int=\count606
+\l__tikzsymbols_Cat_nr_arguments_int=\count607
+\l__tikzsymbols_SchrodingersCat_nr_arguments_int=\count608
+\l__tikzsymbols_Ninja_nr_arguments_int=\count609
+\l__tikzsymbols_dNinja_nr_arguments_int=\count610
+\l__tikzsymbols_Sleepey_nr_arguments_int=\count611
+\l__tikzsymbols_dSleepey_nr_arguments_int=\count612
+\l__tikzsymbols_Maskey_nr_arguments_int=\count613
+\l__tikzsymbols_NiceReapey_nr_arguments_int=\count614
+\l__tikzsymbols_Strichmaxerl_nr_arguments_int=\count615
+\l__tikzsymbols_Person_nr_arguments_int=\count616
+\l__tikzsymbols_Heart_nr_arguments_int=\count617
+\l__tikzsymbols_dHeart_nr_arguments_int=\count618
+\l__tikzsymbols_HeartBroken_nr_arguments_int=\count619
+\l__tikzsymbols_Candle_nr_arguments_int=\count620
+\l__tikzsymbols_Fire_nr_arguments_int=\count621
+\l__tikzsymbols_Coffeecup_nr_arguments_int=\count622
+\l__tikzsymbols_Chair_nr_arguments_int=\count623
+\l__tikzsymbols_Bed_nr_arguments_int=\count624
+\l__tikzsymbols_Tribar_nr_arguments_int=\count625
+\l__tikzsymbols_Moai_nr_arguments_int=\count626
+\l__tikzsymbols_Snowman_nr_arguments_int=\count627
+\l__tikzsymbols_BasicTree_nr_arguments_int=\count628
+\l__tikzsymbols_WorstTree_nr_arguments_int=\count629
+\l__tikzsymbols_Springtree_nr_arguments_int=\count630
+\l__tikzsymbols_Summertree_nr_arguments_int=\count631
+\l__tikzsymbols_Autumntree_nr_arguments_int=\count632
+\l__tikzsymbols_Wintertree_nr_arguments_int=\count633
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+Package: algorithm2e 2017/07/18 v5.2 algorithms environments
+\c@AlgoLine=\count634
+\algocf@hangindent=\skip112
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count635
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\skiptotal=\skip113
+\skiplinenumber=\skip114
+\skiprule=\skip115
+\skiphlne=\skip116
+\skiptext=\skip117
+\skiplength=\skip118
+\algomargin=\skip119
+\skipalgocfslide=\skip120
+\algowidth=\dimen411
+\inoutsize=\dimen412
+\inoutindent=\dimen413
+\interspacetitleruled=\dimen414
+\interspacealgoruled=\dimen415
+\interspacetitleboxruled=\dimen416
+\algocf@ruledwidth=\skip121
+\algocf@inoutbox=\box103
+\algocf@inputbox=\box104
+\AlCapSkip=\skip122
+\AlCapHSkip=\skip123
+\algoskipindent=\skip124
+\algocf@nlbox=\box105
+\algocf@hangingbox=\box106
+\algocf@untilbox=\box107
+\algocf@skipuntil=\skip125
+\algocf@capbox=\box108
+\algocf@lcaptionbox=\skip126
+\algoheightruledefault=\skip127
+\algoheightrule=\skip128
+\algotitleheightruledefault=\skip129
+\algotitleheightrule=\skip130
+\c@algocfline=\count636
+\c@algocfproc=\count637
+\c@algocf=\count638
+\algocf@algoframe=\box109
+\algocf@algobox=\box110
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/titleref/titleref.sty
+Package: titleref 2001/04/05 v3.1  Cross-references with titles.
+LaTeX Info: Redefining \TR@nestwarn on input line 135.
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
+\csq@reset=\count639
+\csq@gtype=\count640
+\csq@glevel=\count641
+\csq@qlevel=\count642
+\csq@maxlvl=\count643
+\csq@tshold=\count644
+\csq@ltx@everypar=\toks56
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+)))
+(./content/Grammar.tex)
+runsystem(which pygmentize && touch Main.aex)...executed.
+
+runsystem(rm Main.aex)...executed.
+
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
+
+No file Main.aux.
+\openout1 = `Main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(42.67912pt, 528.93675pt, 42.67912pt)
+* v-part:(T,H,B)=(42.67912pt, 709.61174pt, 42.67912pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=528.93675pt
+* \textheight=709.61174pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-67.09087pt
+* \headheight=12.5pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/opt/texlive/texdir/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count645
+\scratchdimen=\dimen417
+\scratchbox=\box111
+\nofMPsegments=\count646
+\nofMParguments=\count647
+\everyMPshowfont=\toks57
+\MPscratchCnt=\count648
+\MPscratchDim=\dimen418
+\MPnumerator=\count649
+\makeMPintoPDFobject=\count650
+\everyMPtoPDFconversion=\toks58
+) (/opt/texlive/texdir/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package hyperref Info: Link coloring ON on input line 16.
+\@outlinefile=\write7
+\openout7 = `Main.out'.
+
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+\c@lstlisting=\count651
+Package biblatex Info: Trying to load language 'ngerman'...
+Package biblatex Info: ... file 'ngerman.lbx' found.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/lbx/ngerman.lbx
+File: ngerman.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/lbx/german.lbx
+File: german.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/lbx/german.lbx
+File: german.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+))
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout6 = `Main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'Main.bbl' not found.
+
+No file Main.bbl.
+Package biblatex Info: Reference section=0 on input line 16.
+Package biblatex Info: Reference segment=0 on input line 16.
+(/opt/texlive/texdir/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 16.
+
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 16.
+
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+\c@tabularnotesi=\count652
+\enitdp@tabularnotes=\count653
+\c@tabularnotes*i=\count654
+\enitdp@tabularnotes*=\count655
+LaTeX Info: Redefining \microtypecontext on input line 16.
+Package microtype Info: Applying patch `item' on input line 16.
+Package microtype Info: Applying patch `toc' on input line 16.
+Package microtype Info: Applying patch `eqnum' on input line 16.
+Package microtype Info: Applying patch `footnote' on input line 16.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 16.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package newfloat Info: Trying Plan B...
+Package newfloat Info: `float' package detected.
+
+(./content/Titlepage.tex [1
+
+{/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 652.70622pt, 71.13188pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=652.70622pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.6381pt
+* \headheight=12.5pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+No file Main.toc.
+\tf@toc=\write8
+\openout8 = `Main.toc'.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.38   \clearpage
+                  [1
+
+
+]
+No file Main.lof.
+\tf@lof=\write9
+\openout9 = `Main.lof'.
+
+[1
+
+
+]
+No file Main.locodecaption.
+\tf@locodecaption=\write10
+\openout10 = `Main.locodecaption'.
+
+[2
+
+]
+No file Main.lot.
+\tf@lot=\write11
+\openout11 = `Main.lot'.
+
+[3
+
+]
+No file Main.theorem_list.
+\tf@theorem_list=\write12
+\openout12 = `Main.theorem_list'.
+
+[4
+
+]
+No file Main.lofloatgrammar.
+\tf@lofloatgrammar=\write13
+\openout13 = `Main.lofloatgrammar'.
+
+\c@tcb@cnt@Definition=\count656
+[5
+
+]
+\openout2 = `./content/Motivation.aux'.
+
+ (./content/Motivation.tex
+Kapitel 1.
+Package newfloat Info: Setting Plan B file extension to `lof'... on input line 
+13.
+(/opt/texlive/texdir/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+<./figures/lupe.png, id=49, 177.13235pt x 223.8953pt>
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 20.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+
+
+LaTeX Warning: Citation 'noauthor_gcc_nodate' on page 1 undefined on input line
+ 24.
+
+
+LaTeX Warning: Citation 'noauthor_clang_nodate' on page 1 undefined on input li
+ne 24.
+
+
+LaTeX Warning: Reference `def:maschienensprache' on page 1 undefined on input l
+ine 24.
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package pdfrender Info: New color stack `TextRenderingMode' = 2 on input line 2
+6.
+Package pdfrender Info: New color stack `LineWidth' = 3 on input line 26.
+
+LaTeX Warning: Reference `def:objectcode' on page 1 undefined on input line 26.
+
+
+
+LaTeX Warning: Reference `fig:ausfuhren_eines_programs_gcc' on page 1 undefined
+ on input line 26.
+
+<./figures/compiler_black_box_code.png, id=55, 497.2176pt x 71.11368pt>
+File: ./figures/compiler_black_box_code.png Graphic file (type png)
+<use ./figures/compiler_black_box_code.png>
+Package pdftex.def Info: ./figures/compiler_black_box_code.png  used on input l
+ine 30.
+(pdftex.def)             Requested size: 283.22162pt x 40.50916pt.
+
+LaTeX Warning: Reference `fig:ausfuhren_eines_programs' on page 1 undefined on 
+input line 35.
+
+<./figures/compiler_black_box.png, id=56, 435.35448pt x 73.42632pt>
+File: ./figures/compiler_black_box.png Graphic file (type png)
+<use ./figures/compiler_black_box.png>
+Package pdftex.def Info: ./figures/compiler_black_box.png  used on input line 3
+9.
+(pdftex.def)             Requested size: 283.22162pt x 47.76797pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.43 
+      [1
+
+
+
+ <./figures/lupe.png> <./figures/compiler_black_box_code.png>]
+
+LaTeX Warning: Reference `fig:ausfuhren_eines_programs' on page 2 undefined on 
+input line 44.
+
+
+LaTeX Warning: Reference `ch:motivation' on page 2 undefined on input line 50.
+
+
+LaTeX Warning: Reference `sec:reti_architektur' on page 2 undefined on input li
+ne 50.
+
+
+LaTeX Warning: Reference `sec:picoc' on page 2 undefined on input line 50.
+
+
+LaTeX Warning: Reference `sec:eigenheiten_der_sprachen_c_und_picoc' on page 2 u
+ndefined on input line 50.
+
+
+LaTeX Warning: Reference `sec:selbst_gestellte_schwerpunktsetzungen' on page 2 
+undefined on input line 50.
+
+
+LaTeX Warning: Reference `sec:still_der_arbeit' on page 2 undefined on input li
+ne 50.
+
+
+LaTeX Warning: Citation 'scholl_betriebssysteme_2020' on page 2 undefined on in
+put line 55.
+
+
+LaTeX Warning: Citation 'scholl_technische_2022' on page 2 undefined on input l
+ine 55.
+
+
+LaTeX Warning: Citation 'scholl_technische_2022' on page 2 undefined on input l
+ine 55.
+
+
+LaTeX Warning: Citation 'scholl_betriebssysteme_2020' on page 2 undefined on in
+put line 55.
+
+
+LaTeX Warning: Citation 'scholl_betriebssysteme_2020' on page 2 undefined on in
+put line 57.
+
+
+LaTeX Warning: Citation 'scholl_technische_2022' on page 2 undefined on input l
+ine 57.
+
+
+LaTeX Warning: Citation 'scholl_betriebssysteme_2020' on page 2 undefined on in
+put line 57.
+
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 59.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+
+LaTeX Warning: Citation 'scholl_betriebssysteme_2020' on page 2 undefined on in
+put line 60.
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 60--61
+[]\OT1/cmr/m/n/10 (+20) In die-ser []\OT1/cmr/bx/n/10 (+20) Ba-che-lor-ar-beit[
+] \OT1/cmr/m/n/10 (+20) wird []\OT1/cmr/bx/n/10 (+20) im Fol-gen-den[] \OT1/cmr
+/m/n/10 (+20) bei der []\OT1/cmr/bx/n/10 (+20) Ma-schi-nen-spra-che[] $\OML/cmm
+/m/it/10 L[]$ \OT1/cmr/m/n/10 (+20) im-
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 60--61
+\OT1/cmr/m/n/10 (+20) mer von der Va-ri-an-te aus-ge-gan-gen, wel-che durch die
+ []\OT1/cmr/bx/n/10 (+20) RETI-Architektur[] \OT1/cmr/m/n/10 (+20) aus der Vor-
+le-
+ []
+
+
+LaTeX Warning: Reference `tab:register_der_reti_architektur' on page 2 undefine
+d on input line 65.
+
+
+LaTeX Warning: Reference `ch:appendix' on page 2 undefined on input line 65.
+
+
+LaTeX Warning: Reference `gr:konkrette_syntax_l_reti_lexer' on page 2 undefined
+ on input line 65.
+
+
+LaTeX Warning: Reference `gr:konkrette_syntax_l_reti_parser' on page 2 undefine
+d on input line 65.
+
+[2 <./figures/compiler_black_box.png>]
+\g__nicematrix_max_cell_width_dim=\dimen419
+\c@iRow=\count657
+\c@jCol=\count658
+\l__nicematrix_cell_box=\box112
+\l__nicematrix_the_array_box=\box113
+\l__nicematrix_left_delim_dim=\dimen420
+\l__nicematrix_right_delim_dim=\dimen421
+\l__nicematrix_weight_int=\count659
+\g__nicematrix_dp_row_zero_dim=\dimen422
+\g__nicematrix_ht_row_zero_dim=\dimen423
+\g__nicematrix_ht_row_one_dim=\dimen424
+\g__nicematrix_dp_ante_last_row_dim=\dimen425
+\g__nicematrix_ht_last_row_dim=\dimen426
+\g__nicematrix_dp_last_row_dim=\dimen427
+
+Underfull \hbox (badness 1460) in paragraph at lines 90--90
+\OT1/cmr/bx/n/10 (+20) Spei-cher-zel-le[] \OT1/cmr/m/n/10 (+20) am []\OT1/cmr/b
+x/n/10 (+20) En-de[] \OT1/cmr/m/n/10 (+20) des
+ []
+
+
+Underfull \hbox (badness 3503) in paragraph at lines 91--91
+\OT1/cmr/bx/n/10 (+20) fra-mes[] \OT1/cmr/m/n/10 (+20) der ak-tu-ell []\OT1/cmr
+/bx/n/10 (+20) ak-ti-ven
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]\OT1/cmr/m/n/10 (+20) Wird
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+\OT1/cmr/m/n/10 (+20) noch
+ []
+
+
+Overfull \hbox (9.6505pt too wide) in paragraph at lines 95--95
+\OT1/cmr/m/n/10 (-20) erl[]autert. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]
+ []
+
+
+Overfull \hbox (8.97186pt too wide) in paragraph at lines 95--95
+[]\OT1/cmr/bx/n/8 (-20) EPROM[]\OT1/cmr/m/n/8 (-20) ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+\OT1/cmr/m/n/8 (+20) und
+ []
+
+
+Overfull \hbox (1.28497pt too wide) in paragraph at lines 95--95
+[]\OT1/cmr/bx/n/8 (-20) SRAM[]\OT1/cmr/m/n/8 (-20) . 
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 95--95
+[]\OT1/cmr/m/n/8 (+20) Da die
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]\OT1/cmr/bx/n/8 (+20) Me-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+\OT1/cmr/bx/n/8 (+20) mo-ry
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+\OT1/cmr/bx/n/8 (+20) Map[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+\OT1/cmr/m/n/8 (+20) zum
+ []
+
+
+Overfull \hbox (14.13019pt too wide) in paragraph at lines 95--95
+\OT1/cmr/m/n/8 (-20) Verst[]andnis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+\OT1/cmr/m/n/8 (+20) che-lor-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+\OT1/cmr/m/n/8 (+20) ar-beit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]\OT1/cmr/bx/n/8 (+20) nicht
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+\OT1/cmr/bx/n/8 (+20) wich-
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 95--95
+\OT1/cmr/bx/n/8 (+20) tig[] \OT1/cmr/m/n/8 (+20) ist,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+\OT1/cmr/m/n/8 (+20) wird
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+\OT1/cmr/m/n/8 (+20) die-se
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]\OT1/cmr/bx/n/8 (+20) nicht[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+\OT1/cmr/m/n/8 (+20) mehr
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+\OT1/cmr/m/n/8 (+20) als
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+\OT1/cmr/m/n/8 (+20) n[]otig
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+\OT1/cmr/m/n/8 (+20) te-ren
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+\OT1/cmr/m/n/8 (+20) Ver-lauf
+ []
+
+
+Overfull \hbox (10.98372pt too wide) in paragraph at lines 95--95
+[]\OT1/cmr/bx/n/8 (-20) erl[]autert[]\OT1/cmr/m/n/8 (-20) .| 
+ []
+
+\g__nicematrix_ddots_int=\count660
+\g__nicematrix_iddots_int=\count661
+\g__nicematrix_delta_x_one_dim=\dimen428
+\g__nicematrix_delta_y_one_dim=\dimen429
+\g__nicematrix_delta_x_two_dim=\dimen430
+\g__nicematrix_delta_y_two_dim=\dimen431
+\l__nicematrix_initial_i_int=\count662
+\l__nicematrix_initial_j_int=\count663
+\l__nicematrix_final_i_int=\count664
+\l__nicematrix_final_j_int=\count665
+
+LaTeX Warning: Reference `fig:speicherorganisation' on page 3 undefined on inpu
+t line 100.
+
+
+LaTeX Warning: Reference `tab:register_der_reti_architektur' on page 3 undefine
+d on input line 100.
+
+[3]
+<./figures/speicherorganisation.png, id=97, 672.768pt x 213.8535pt>
+File: ./figures/speicherorganisation.png Graphic file (type png)
+<use ./figures/speicherorganisation.png>
+Package pdftex.def Info: ./figures/speicherorganisation.png  used on input line
+ 105.
+(pdftex.def)             Requested size: 472.03123pt x 150.04558pt.
+
+
+LaTeX Warning: Reference `fig:datenpfade_der_reti_architecture' on page 4 undef
+ined on input line 110.
+
+
+LaTeX Warning: Reference `fig:datenpfade_der_reti_architecture' on page 4 undef
+ined on input line 114.
+
+[4 <./figures/speicherorganisation.png>]
+LaTeX Font Info:    Trying to load font information for OMS+cmtt on input line 
+126.
+LaTeX Font Info:    No file OMScmtt.fd. on input line 126.
+
+
+LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbraceleft' on input line 126.
+
+
+LaTeX Warning: Reference `gr:concrete_syntax_lex_teil_1' on page 5 undefined on
+ input line 145.
+
+
+LaTeX Warning: Reference `gr:concrete_syntax_parser' on page 5 undefined on inp
+ut line 145.
+
+
+LaTeX Warning: Reference `ch:implementierung' on page 5 undefined on input line
+ 157.
+
+[5]
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 159.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+
+
+LaTeX Warning: Reference `def:imperative_programmierung' on page 6 undefined on
+ input line 163.
+
+
+LaTeX Warning: Reference `def:strukturierte_programmierung' on page 6 undefined
+ on input line 163.
+
+
+LaTeX Warning: Reference `def:prozedurale_programmierung' on page 6 undefined o
+n input line 163.
+
+
+LaTeX Warning: Reference `ch:implementierung' on page 6 undefined on input line
+ 165.
+
+
+LaTeX Warning: Reference `def:bezeichner' on page 6 undefined on input line 165
+.
+
+
+LaTeX Warning: Reference `def:label' on page 6 undefined on input line 165.
+
+Package hyperref Info: bookmark level for unknown tcolorbox defaults to 0 on in
+put line 172.
+<./figures/note.png, id=141, 210.24pt x 216.81pt>
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 172.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Warning: Citation 'thiemann_einfuhrung_2018' on page 6 undefined on input
+ line 173.
+
+
+LaTeX Warning: Citation 'noauthor_imperative_2022' on page 6 undefined on input
+ line 173.
+
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 176.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Font Warning: Font shape `OMS/cmtt/m/it' undefined
+(Font)              using `OMS/cmtt/m/n' instead
+(Font)              for symbol `textbraceleft' on input line 177.
+
+
+LaTeX Warning: Citation 'thiemann_einfuhrung_2018' on page 6 undefined on input
+ line 177.
+
+
+LaTeX Warning: Citation 'noauthor_strukturierte_2021' on page 6 undefined on in
+put line 177.
+
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 180.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Warning: Citation 'thiemann_einfuhrung_2018' on page 6 undefined on input
+ line 181.
+
+
+LaTeX Warning: Citation 'noauthor_prozedurale_2021' on page 6 undefined on inpu
+t line 181.
+
+[6 <./figures/note.png>]
+
+LaTeX Warning: Citation 'noauthor_clockwisespiral_nodate' on page 7 undefined o
+n input line 186.
+
+
+LaTeX Warning: Reference `code:beispiel_für_spiralregel' on page 7 undefined o
+n input line 188.
+
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <9> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 188.
+
+LaTeX Warning: Reference `code:beispiel_für_spiralregel' on page 7 undefined o
+n input line 188.
+
+
+LaTeX Warning: Reference `code:beispiel_für_spiralregel' on page 7 undefined o
+n input line 188.
+
+
+LaTeX Warning: Reference `code:beispiel_für_spiralregel_ausgabe' on page 7 und
+efined on input line 188.
+
+runsystem(pygmentize -S colorful -f latex -P commandprefix=PYG > _minted-Main/c
+olorful.pygstyle)...executed.
+
+(./_minted-Main/colorful.pygstyle)
+runsystem(which python3 && touch Main.aex)...executed.
+
+runsystem(rm Main.aex)...executed.
+
+runsystem(python3 -c "import sys; import os; import textwrap; from io import op
+en; fname = os.path.expanduser(os.path.expandvars(\"./code_examples/example_spi
+ral_rule.picoc\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile
+(fname) else None; t = f.readlines() if f is not None else None; t_opt = t if t
+ is not None else []; f.close() if f is not None else None; tmpfname = os.path.
+expanduser(os.path.expandvars(\"Main.pyg\")); f = open(tmpfname, \"w\", encodin
+g=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = -1; s = max
+(0, fvstartnum-1); e = min(s, fvstopnum if fvstopnum > 0 else len(t_opt)); [f.w
+rite(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e:]
+) if x and t is not None]; f.close() if t is not None else os.remove(tmpfname);
+")...executed.
+
+runsystem(pygmentize -l c -f latex -P commandprefix=PYG -F tokenmerge -P stripn
+l=False -P "escapeinside=||" -o _minted-Main/0D0E3F474F3B7AE78C1763F603D104405C
+0D58D1519BACF29A5C888521899FEB.pygtex Main.pyg)...executed.
+
+
+(./_minted-Main/0D0E3F474F3B7AE78C1763F603D104405C0D58D1519BACF29A5C888521899FE
+B.pygtex)
+Package hyperref Info: bookmark level for unknown codecaption defaults to 0 on 
+input line 195.
+runsystem(python3 -c "import sys; import os; import textwrap; from io import op
+en; fname = os.path.expanduser(os.path.expandvars(\"./code_examples/example_spi
+ral_rule.out\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(f
+name) else None; t = f.readlines() if f is not None else None; t_opt = t if t i
+s not None else []; f.close() if f is not None else None; tmpfname = os.path.ex
+panduser(os.path.expandvars(\"Main.pyg\")); f = open(tmpfname, \"w\", encoding=
+\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = -1; s = max(0
+, fvstartnum-1); e = min(s, fvstopnum if fvstopnum > 0 else len(t_opt)); [f.wri
+te(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e:]) 
+if x and t is not None]; f.close() if t is not None else os.remove(tmpfname);")
+...executed.
+
+runsystem(pygmentize -l text -f latex -P commandprefix=PYG -F tokenmerge -P str
+ipnl=False -P "escapeinside=||" -o _minted-Main/50A2FABFDD276F573FF97ACE8B11C5F
+47A37B929E778A1FFDA741533DD22D716.pygtex Main.pyg)...executed.
+
+
+(./_minted-Main/50A2FABFDD276F573FF97ACE8B11C5F47A37B929E778A1FFDA741533DD22D71
+6.pygtex)
+
+LaTeX Warning: Reference `code:beispiel_unterschiedliche_ausführung' on page 7
+ undefined on input line 208.
+
+[7]
+
+LaTeX Warning: Reference `code:beispiel_unterschiedliche_ausführung_ausgabe' o
+n page 8 undefined on input line 210.
+
+runsystem(python3 -c "import sys; import os; import textwrap; from io import op
+en; fname = os.path.expanduser(os.path.expandvars(\"./code_examples/example_dif
+ferent_execution.picoc\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.pat
+h.isfile(fname) else None; t = f.readlines() if f is not None else None; t_opt 
+= t if t is not None else []; f.close() if f is not None else None; tmpfname = 
+os.path.expanduser(os.path.expandvars(\"Main.pyg\")); f = open(tmpfname, \"w\",
+ encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = -1;
+ s = max(0, fvstartnum-1); e = min(s, fvstopnum if fvstopnum > 0 else len(t_opt
+)); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t
+_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(tm
+pfname);")...executed.
+
+runsystem(pygmentize -l c -f latex -P commandprefix=PYG -F tokenmerge -P stripn
+l=False -P "escapeinside=||" -o _minted-Main/BF86F7C6739D85F0611E6990A0D8A4915C
+0D58D1519BACF29A5C888521899FEB.pygtex Main.pyg)...executed.
+
+
+(./_minted-Main/BF86F7C6739D85F0611E6990A0D8A4915C0D58D1519BACF29A5C888521899FE
+B.pygtex)
+runsystem(python3 -c "import sys; import os; import textwrap; from io import op
+en; fname = os.path.expanduser(os.path.expandvars(\"./code_examples/example_dif
+ferent_execution.out\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.
+isfile(fname) else None; t = f.readlines() if f is not None else None; t_opt = 
+t if t is not None else []; f.close() if f is not None else None; tmpfname = os
+.path.expanduser(os.path.expandvars(\"Main.pyg\")); f = open(tmpfname, \"w\", e
+ncoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = -1; s
+ = max(0, fvstartnum-1); e = min(s, fvstopnum if fvstopnum > 0 else len(t_opt))
+; [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_o
+pt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(tmpf
+name);")...executed.
+
+runsystem(pygmentize -l text -f latex -P commandprefix=PYG -F tokenmerge -P str
+ipnl=False -P "escapeinside=||" -o _minted-Main/8FC89A45FF5174B7CCCC76728A6093A
+F7A37B929E778A1FFDA741533DD22D716.pygtex Main.pyg)...executed.
+
+
+(./_minted-Main/8FC89A45FF5174B7CCCC76728A6093AF7A37B929E778A1FFDA741533DD22D71
+6.pygtex)
+
+LaTeX Warning: Reference `code:beispiel_unterschiedliche_ausführung' on page 8
+ undefined on input line 226.
+
+
+LaTeX Warning: Reference `code:beispiel_mit_dereferenzierungsoperator' on page 
+8 undefined on input line 226.
+
+
+LaTeX Warning: Reference `code:beispiel_unterschiedliche_ausführung_ausgabe' o
+n page 8 undefined on input line 226.
+
+
+LaTeX Warning: Reference `code:beispiel_mit_dereferenzierungsoperator_ausgabe' 
+on page 8 undefined on input line 226.
+
+runsystem(python3 -c "import sys; import os; import textwrap; from io import op
+en; fname = os.path.expanduser(os.path.expandvars(\"./code_examples/example_dif
+ferent_execution_pntr.picoc\")); f = open(fname, \"r\", encoding=\"UTF8\") if o
+s.path.isfile(fname) else None; t = f.readlines() if f is not None else None; t
+_opt = t if t is not None else []; f.close() if f is not None else None; tmpfna
+me = os.path.expanduser(os.path.expandvars(\"Main.pyg\")); f = open(tmpfname, \
+"w\", encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum 
+= -1; s = max(0, fvstartnum-1); e = min(s, fvstopnum if fvstopnum > 0 else len(
+t_opt)); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:
+e], t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remo
+ve(tmpfname);")...executed.
+
+runsystem(pygmentize -l c -f latex -P commandprefix=PYG -F tokenmerge -P stripn
+l=False -P "escapeinside=||" -o _minted-Main/384543B74CAB64F3437009815C5D21465C
+0D58D1519BACF29A5C888521899FEB.pygtex Main.pyg)...executed.
+
+
+(./_minted-Main/384543B74CAB64F3437009815C5D21465C0D58D1519BACF29A5C888521899FE
+B.pygtex)
+(./_minted-Main/8FC89A45FF5174B7CCCC76728A6093AF7A37B929E778A1FFDA741533DD22D71
+6.pygtex)
+
+LaTeX Warning: Reference `def:call_by_value' on page 8 undefined on input line 
+254.
+
+
+LaTeX Warning: Reference `code:beispiel_dafür,_dass_struct_kopiert_wird' on pa
+ge 8 undefined on input line 254.
+
+
+LaTeX Warning: Reference `code:beispiel_dafür,_dass_struct_kopiert_wird' on pa
+ge 8 undefined on input line 256.
+
+[8]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 258.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+
+LaTeX Warning: Citation 'bast_programmieren_2020' on page 9 undefined on input 
+line 261.
+
+
+LaTeX Warning: Citation 'noauthor_evaluation_2022' on page 9 undefined on input
+ line 261.
+
+runsystem(python3 -c "import sys; import os; import textwrap; from io import op
+en; fname = os.path.expanduser(os.path.expandvars(\"./code_examples/example_cal
+l_by_value_struct.picoc\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.pa
+th.isfile(fname) else None; t = f.readlines() if f is not None else None; t_opt
+ = t if t is not None else []; f.close() if f is not None else None; tmpfname =
+ os.path.expanduser(os.path.expandvars(\"Main.pyg\")); f = open(tmpfname, \"w\"
+, encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = -1
+; s = max(0, fvstartnum-1); e = min(s, fvstopnum if fvstopnum > 0 else len(t_op
+t)); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], 
+t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(t
+mpfname);")...executed.
+
+runsystem(pygmentize -l c -f latex -P commandprefix=PYG -F tokenmerge -P stripn
+l=False -P "escapeinside=||" -o _minted-Main/9BF9F62D32D37E46974E4EBFD3EFF9545C
+0D58D1519BACF29A5C888521899FEB.pygtex Main.pyg)...executed.
+
+
+(./_minted-Main/9BF9F62D32D37E46974E4EBFD3EFF9545C0D58D1519BACF29A5C888521899FE
+B.pygtex)
+runsystem(python3 -c "import sys; import os; import textwrap; from io import op
+en; fname = os.path.expanduser(os.path.expandvars(\"./code_examples/example_cal
+l_by_value_struct.out\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path
+.isfile(fname) else None; t = f.readlines() if f is not None else None; t_opt =
+ t if t is not None else []; f.close() if f is not None else None; tmpfname = o
+s.path.expanduser(os.path.expandvars(\"Main.pyg\")); f = open(tmpfname, \"w\", 
+encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = -1; 
+s = max(0, fvstartnum-1); e = min(s, fvstopnum if fvstopnum > 0 else len(t_opt)
+); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_
+opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(tmp
+fname);")...executed.
+
+runsystem(pygmentize -l c -f latex -P commandprefix=PYG -F tokenmerge -P stripn
+l=False -P "escapeinside=||" -o _minted-Main/3E5CE23DA3E2C1BCD8C504177C4924D05C
+0D58D1519BACF29A5C888521899FEB.pygtex Main.pyg)...executed.
+
+
+(./_minted-Main/3E5CE23DA3E2C1BCD8C504177C4924D05C0D58D1519BACF29A5C888521899FE
+B.pygtex)
+
+LaTeX Warning: Reference `def:call_by_reference' on page 9 undefined on input l
+ine 282.
+
+
+LaTeX Warning: Reference `code:beispiel_für_deklaration_und_definition' on pag
+e 9 undefined on input line 282.
+
+
+LaTeX Warning: Reference `code:beispiel_dafür,_dass_zeiger_auf_feld_übergeben
+_wird' on page 9 undefined on input line 284.
+
+
+LaTeX Warning: Reference `code:ausgabe_von_beispiel_dafür,_dass_zeiger_auf_fel
+d_übergeben_wird' on page 9 undefined on input line 284.
+
+
+LaTeX Warning: Reference `code:beispiel_dafür,_dass_struct_kopiert_wird' on pa
+ge 9 undefined on input line 286.
+
+[9]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 288.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+
+LaTeX Warning: Citation 'bast_programmieren_2020' on page 10 undefined on input
+ line 291.
+
+
+LaTeX Warning: Citation 'noauthor_evaluation_2022' on page 10 undefined on inpu
+t line 291.
+
+runsystem(python3 -c "import sys; import os; import textwrap; from io import op
+en; fname = os.path.expanduser(os.path.expandvars(\"./code_examples/example_cal
+l_by_sharing_array.picoc\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.p
+ath.isfile(fname) else None; t = f.readlines() if f is not None else None; t_op
+t = t if t is not None else []; f.close() if f is not None else None; tmpfname 
+= os.path.expanduser(os.path.expandvars(\"Main.pyg\")); f = open(tmpfname, \"w\
+", encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = -
+1; s = max(0, fvstartnum-1); e = min(s, fvstopnum if fvstopnum > 0 else len(t_o
+pt)); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e],
+ t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(
+tmpfname);")...executed.
+
+runsystem(pygmentize -l c -f latex -P commandprefix=PYG -F tokenmerge -P stripn
+l=False -P "escapeinside=||" -o _minted-Main/B945A73CC47DD188EF240AE36D41F3775C
+0D58D1519BACF29A5C888521899FEB.pygtex Main.pyg)...executed.
+
+
+(./_minted-Main/B945A73CC47DD188EF240AE36D41F3775C0D58D1519BACF29A5C888521899FE
+B.pygtex)
+runsystem(python3 -c "import sys; import os; import textwrap; from io import op
+en; fname = os.path.expanduser(os.path.expandvars(\"./code_examples/example_cal
+l_by_sharing_array.out\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.pat
+h.isfile(fname) else None; t = f.readlines() if f is not None else None; t_opt 
+= t if t is not None else []; f.close() if f is not None else None; tmpfname = 
+os.path.expanduser(os.path.expandvars(\"Main.pyg\")); f = open(tmpfname, \"w\",
+ encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = -1;
+ s = max(0, fvstartnum-1); e = min(s, fvstopnum if fvstopnum > 0 else len(t_opt
+)); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t
+_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(tm
+pfname);")...executed.
+
+runsystem(pygmentize -l c -f latex -P commandprefix=PYG -F tokenmerge -P stripn
+l=False -P "escapeinside=||" -o _minted-Main/4320875E3F8F7CC318F4F4CD927DE5C35C
+0D58D1519BACF29A5C888521899FEB.pygtex Main.pyg)...executed.
+
+
+(./_minted-Main/4320875E3F8F7CC318F4F4CD927DE5C35C0D58D1519BACF29A5C888521899FE
+B.pygtex)
+
+LaTeX Warning: Reference `def:definition' on page 10 undefined on input line 31
+1.
+
+
+LaTeX Warning: Reference `def:funktionsprototyp' on page 10 undefined on input 
+line 311.
+
+
+LaTeX Warning: Reference `def:deklaration' on page 10 undefined on input line 3
+13.
+
+
+LaTeX Warning: Reference `code:beispiel_für_deklaration_und_definition' on pag
+e 10 undefined on input line 313.
+
+
+LaTeX Warning: Reference `code:beispiel_für_deklaration_und_definition_ausgabe
+' on page 10 undefined on input line 313.
+
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 315.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Warning: Citation 'noauthor_what_nodate-4' on page 10 undefined on input 
+line 316.
+
+
+LaTeX Warning: Citation 'noauthor_funktionsprototyp_2020' on page 10 undefined 
+on input line 316.
+
+[10]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 319.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+
+LaTeX Warning: Citation 'noauthor_variablen_nodate' on page 11 undefined on inp
+ut line 320.
+
+
+LaTeX Warning: Citation 'scholl_einfuhrung_2021' on page 11 undefined on input 
+line 320.
+
+
+LaTeX Warning: Citation 'noauthor_deklaration_2022' on page 11 undefined on inp
+ut line 320.
+
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 323.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Warning: Citation 'scholl_einfuhrung_2021' on page 11 undefined on input 
+line 324.
+
+runsystem(python3 -c "import sys; import os; import textwrap; from io import op
+en; fname = os.path.expanduser(os.path.expandvars(\"./code_examples/example_dec
+laration_definition.picoc\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.
+path.isfile(fname) else None; t = f.readlines() if f is not None else None; t_o
+pt = t if t is not None else []; f.close() if f is not None else None; tmpfname
+ = os.path.expanduser(os.path.expandvars(\"Main.pyg\")); f = open(tmpfname, \"w
+\", encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = 
+-1; s = max(0, fvstartnum-1); e = min(s, fvstopnum if fvstopnum > 0 else len(t_
+opt)); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e]
+, t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove
+(tmpfname);")...executed.
+
+runsystem(pygmentize -l c -f latex -P commandprefix=PYG -F tokenmerge -P stripn
+l=False -P "escapeinside=||" -o _minted-Main/C372199A7522D4EC6C41EF115D9772F05C
+0D58D1519BACF29A5C888521899FEB.pygtex Main.pyg)...executed.
+
+
+(./_minted-Main/C372199A7522D4EC6C41EF115D9772F05C0D58D1519BACF29A5C888521899FE
+B.pygtex)
+runsystem(python3 -c "import sys; import os; import textwrap; from io import op
+en; fname = os.path.expanduser(os.path.expandvars(\"./code_examples/example_dec
+laration_definition.out\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.pa
+th.isfile(fname) else None; t = f.readlines() if f is not None else None; t_opt
+ = t if t is not None else []; f.close() if f is not None else None; tmpfname =
+ os.path.expanduser(os.path.expandvars(\"Main.pyg\")); f = open(tmpfname, \"w\"
+, encoding=\"UTF8\") if t is not None else None; fvstartnum = 0; fvstopnum = -1
+; s = max(0, fvstartnum-1); e = min(s, fvstopnum if fvstopnum > 0 else len(t_op
+t)); [f.write(textwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], 
+t_opt[e:]) if x and t is not None]; f.close() if t is not None else os.remove(t
+mpfname);")...executed.
+
+runsystem(pygmentize -l c -f latex -P commandprefix=PYG -F tokenmerge -P stripn
+l=False -P "escapeinside=||" -o _minted-Main/50A2FABFDD276F573FF97ACE8B11C5F45C
+0D58D1519BACF29A5C888521899FEB.pygtex Main.pyg)...executed.
+
+
+(./_minted-Main/50A2FABFDD276F573FF97ACE8B11C5F45C0D58D1519BACF29A5C888521899FE
+B.pygtex) [11]
+
+LaTeX Warning: Reference `def:scope' on page 12 undefined on input line 342.
+
+
+LaTeX Warning: Reference `code:beispiel_scope' on page 12 undefined on input li
+ne 344.
+
+
+LaTeX Warning: Reference `code:beispiel_scope' on page 12 undefined on input li
+ne 344.
+
+
+LaTeX Warning: Reference `code:beispiel_scope_ausgabe' on page 12 undefined on 
+input line 344.
+
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 346.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Warning: Citation 'thiemann_einfuhrung_2018' on page 12 undefined on inpu
+t line 347.
+
+
+LaTeX Warning: Citation 'noauthor_variable_2022' on page 12 undefined on input 
+line 347.
+
+runsystem(python3 -c "import sys; import os; import textwrap; from io import op
+en; fname = os.path.expanduser(os.path.expandvars(\"./code_examples/example_sco
+pe.picoc\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname
+) else None; t = f.readlines() if f is not None else None; t_opt = t if t is no
+t None else []; f.close() if f is not None else None; tmpfname = os.path.expand
+user(os.path.expandvars(\"Main.pyg\")); f = open(tmpfname, \"w\", encoding=\"UT
+F8\") if t is not None else None; fvstartnum = 0; fvstopnum = -1; s = max(0, fv
+startnum-1); e = min(s, fvstopnum if fvstopnum > 0 else len(t_opt)); [f.write(t
+extwrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e:]) if x
+ and t is not None]; f.close() if t is not None else os.remove(tmpfname);")...e
+xecuted.
+
+runsystem(pygmentize -l c -f latex -P commandprefix=PYG -F tokenmerge -P stripn
+l=False -P "escapeinside=||" -o _minted-Main/750615282D9B8EBB1C8B67780DD57AE75C
+0D58D1519BACF29A5C888521899FEB.pygtex Main.pyg)...executed.
+
+
+(./_minted-Main/750615282D9B8EBB1C8B67780DD57AE75C0D58D1519BACF29A5C888521899FE
+B.pygtex)
+runsystem(python3 -c "import sys; import os; import textwrap; from io import op
+en; fname = os.path.expanduser(os.path.expandvars(\"./code_examples/example_sco
+pe.out\")); f = open(fname, \"r\", encoding=\"UTF8\") if os.path.isfile(fname) 
+else None; t = f.readlines() if f is not None else None; t_opt = t if t is not 
+None else []; f.close() if f is not None else None; tmpfname = os.path.expandus
+er(os.path.expandvars(\"Main.pyg\")); f = open(tmpfname, \"w\", encoding=\"UTF8
+\") if t is not None else None; fvstartnum = 0; fvstopnum = -1; s = max(0, fvst
+artnum-1); e = min(s, fvstopnum if fvstopnum > 0 else len(t_opt)); [f.write(tex
+twrap.dedent(\"\".join(x))) for x in (t_opt[0:s], t_opt[s:e], t_opt[e:]) if x a
+nd t is not None]; f.close() if t is not None else os.remove(tmpfname);")...exe
+cuted.
+
+runsystem(pygmentize -l c -f latex -P commandprefix=PYG -F tokenmerge -P stripn
+l=False -P "escapeinside=||" -o _minted-Main/94453CE5F0961757339D0D0433C32C735C
+0D58D1519BACF29A5C888521899FEB.pygtex Main.pyg)...executed.
+
+
+(./_minted-Main/94453CE5F0961757339D0D0433C32C735C0D58D1519BACF29A5C888521899FE
+B.pygtex)
+
+LaTeX Warning: Citation 'scholl_betriebssysteme_2020' on page 12 undefined on i
+nput line 395.
+
+[12]
+
+LaTeX Warning: Reference `fig:picoc_c_compiler_github_repo' on page 13 undefine
+d on input line 406.
+
+<./figures/picoc_c_compiler_github_repo.png, id=264, 751.30687pt x 458.46281pt>
+
+File: ./figures/picoc_c_compiler_github_repo.png Graphic file (type png)
+<use ./figures/picoc_c_compiler_github_repo.png>
+Package pdftex.def Info: ./figures/picoc_c_compiler_github_repo.png  used on in
+put line 410.
+(pdftex.def)             Requested size: 377.62642pt x 230.44107pt.
+
+LaTeX Warning: Citation 'nemec_copy_file_to_another_repo_action_2022' on page 1
+3 undefined on input line 415.
+
+
+LaTeX Warning: Citation 'ueda_makefile_2022' on page 13 undefined on input line
+ 415.
+
+
+LaTeX Warning: Citation 'developers_draw_nodate' on page 13 undefined on input 
+line 417.
+
+[13 <./figures/picoc_c_compiler_github_repo.png (PNG copy)>]
+
+LaTeX Warning: Reference `ch:motivation' on page 14 undefined on input line 422
+.
+
+
+LaTeX Warning: Reference `ch:implementierung' on page 14 undefined on input lin
+e 422.
+
+
+LaTeX Warning: Citation 'lefever_art_2012' on page 14 undefined on input line 4
+30.
+
+[14]
+
+LaTeX Warning: Reference `def:abstrakte_syntax_tree' on page 15 undefined on in
+put line 440.
+
+
+LaTeX Warning: Reference `ch:motivation' on page 15 undefined on input line 450
+.
+
+
+LaTeX Warning: Reference `ch:einführung' on page 15 undefined on input line 45
+0.
+
+
+LaTeX Warning: Reference `ch:implementierung' on page 15 undefined on input lin
+e 450.
+
+
+LaTeX Warning: Reference `ch:ergebnisse_und_ausblick' on page 15 undefined on i
+nput line 450.
+
+
+LaTeX Warning: Reference `ch:appendix' on page 15 undefined on input line 450.
+
+
+LaTeX Warning: Reference `ch:motivation' on page 15 undefined on input line 453
+.
+
+
+LaTeX Warning: Reference `ch:einführung' on page 15 undefined on input line 45
+7.
+
+
+LaTeX Warning: Reference `ch:implementierung' on page 15 undefined on input lin
+e 465.
+
+
+LaTeX Warning: Reference `ch:ergebnisse_und_ausblick' on page 15 undefined on i
+nput line 469.
+
+
+LaTeX Warning: Reference `ch:appendix' on page 15 undefined on input line 471.
+
+[15]
+
+LaTeX Warning: Reference `ch:appendix' on page 16 undefined on input line 473.
+
+
+LaTeX Warning: Reference `def:liveness_analyse' on page 16 undefined on input l
+ine 473.
+
+
+LaTeX Warning: Citation 'scholl_betriebssysteme_2020' on page 16 undefined on i
+nput line 473.
+
+) [16]
+\openout2 = `./content/Einführung.aux'.
+
+ (./content/Einführung.tex
+Kapitel 2.
+
+LaTeX Warning: Reference `ch:implementierung' on page 17 undefined on input lin
+e 16.
+
+
+LaTeX Warning: Reference `sec:compiler_und_interpreter' on page 17 undefined on
+ input line 16.
+
+
+LaTeX Warning: Reference `sec:formale_sprachen' on page 17 undefined on input l
+ine 16.
+
+
+LaTeX Warning: Reference `def:pipe_architektur' on page 17 undefined on input l
+ine 16.
+
+
+LaTeX Warning: Reference `sec:lexikalische_analyse' on page 17 undefined on inp
+ut line 16.
+
+
+LaTeX Warning: Reference `sec:syntaktische_analyse' on page 17 undefined on inp
+ut line 16.
+
+
+LaTeX Warning: Reference `sec:code_generierung' on page 17 undefined on input l
+ine 16.
+
+
+LaTeX Warning: Reference `sec:einfuehrung_fehlermeldungen' on page 17 undefined
+ on input line 16.
+
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 18.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Warning: Citation 'westphal_softwaretechnik_2021' on page 17 undefined on
+ input line 23.
+
+
+LaTeX Warning: Citation 'noauthor_pipes_2021' on page 17 undefined on input lin
+e 23.
+
+<./figures/pipe_architecture.png, id=327, 521.69907pt x 67.0003pt>
+File: ./figures/pipe_architecture.png Graphic file (type png)
+<use ./figures/pipe_architecture.png>
+Package pdftex.def Info: ./figures/pipe_architecture.png  used on input line 27
+.
+(pdftex.def)             Requested size: 292.76346pt x 37.59862pt.
+
+LaTeX Warning: Reference `def:compiler' on page 17 undefined on input line 35.
+
+
+LaTeX Warning: Reference `def:interpreter' on page 17 undefined on input line 3
+5.
+
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 37.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+
+LaTeX Warning: Reference `eq:compiler_beziehungen' on page 17 undefined on inpu
+t line 38.
+
+
+LaTeX Warning: Reference `sec:qualitätssicherung' on page 17 undefined on inpu
+t line 38.
+
+[17
+
+
+
+
+ <./figures/pipe_architecture.png>]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 41.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+
+LaTeX Warning: Reference `def:abstrakte_syntax_tree' on page 18 undefined on in
+put line 44.
+
+
+LaTeX Warning: Citation 'g_siek_essentials_2022' on page 18 undefined on input 
+line 44.
+
+
+LaTeX Warning: Citation 'noauthor_interpreter_2022' on page 18 undefined on inp
+ut line 44.
+
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 48.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Warning: Reference `eq:compiler_beziehungen' on page 18 undefined on inpu
+t line 51.
+
+
+LaTeX Warning: Reference `def:semantik' on page 18 undefined on input line 51.
+
+
+LaTeX Warning: Reference `def:syntax' on page 18 undefined on input line 51.
+
+
+LaTeX Warning: Citation 'g_siek_essentials_2022' on page 18 undefined on input 
+line 51.
+
+
+LaTeX Warning: Citation 'noauthor_compiler_2022' on page 18 undefined on input 
+line 51.
+
+
+LaTeX Warning: Reference `def:maschienensprache' on page 18 undefined on input 
+line 71.
+
+
+LaTeX Warning: Reference `def:transpiler' on page 18 undefined on input line 71
+.
+
+
+LaTeX Warning: Reference `ch:appendix' on page 18 undefined on input line 71.
+
+
+LaTeX Warning: Reference `def:cross_compiler' on page 18 undefined on input lin
+e 71.
+
+
+LaTeX Warning: Reference `def:assemblersprache' on page 18 undefined on input l
+ine 71.
+
+
+LaTeX Warning: Reference `ch:appendix' on page 18 undefined on input line 71.
+
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 73.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Warning: Reference `def:immediate' on page 18 undefined on input line 78.
+
+
+
+LaTeX Warning: Citation 'scholl_betriebssysteme_2020' on page 18 undefined on i
+nput line 81.
+
+
+LaTeX Warning: Citation 'noauthor_maschinensprache_2022' on page 18 undefined o
+n input line 81.
+
+[18]
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 86.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+
+
+LaTeX Warning: Reference `def:immediate' on page 19 undefined on input line 87.
+
+
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 90.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Warning: Citation 'ljohhuh_what_2018' on page 19 undefined on input line 
+91.
+
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 94.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Warning: Citation 'earley_formalism_1970' on page 19 undefined on input l
+ine 95.
+
+
+LaTeX Warning: Citation 'noauthor_cross_2022' on page 19 undefined on input lin
+e 95.
+
+[19]
+
+LaTeX Warning: Citation 'earley_formalism_1970' on page 20 undefined on input l
+ine 105.
+
+
+LaTeX Warning: Reference `def:t_diagram_program' on page 20 undefined on input 
+line 107.
+
+
+LaTeX Warning: Reference `def:t_diagram_übersetzer' on page 20 undefined on in
+put line 107.
+
+
+LaTeX Warning: Reference `def:t_diagram_interpreter' on page 20 undefined on in
+put line 107.
+
+
+LaTeX Warning: Reference `def:t_diagram_maschiene' on page 20 undefined on inpu
+t line 107.
+
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 109.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Warning: Citation 'earley_formalism_1970' on page 20 undefined on input l
+ine 110.
+
+<./figures/programm.png, id=391, 60.97781pt x 99.37125pt>
+File: ./figures/programm.png Graphic file (type png)
+<use ./figures/programm.png>
+Package pdftex.def Info: ./figures/programm.png  used on input line 113.
+(pdftex.def)             Requested size: 52.38033pt x 85.35826pt.
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 117.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+
+LaTeX Warning: Reference `def:t_diagram_program' on page 20 undefined on input 
+line 118.
+
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 121.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Warning: Reference `eq:compiler_beziehungen' on page 20 undefined on inpu
+t line 125.
+
+
+LaTeX Warning: Citation 'earley_formalism_1970' on page 20 undefined on input l
+ine 125.
+
+<./figures/uerbersetzer.png, id=393, 148.30406pt x 99.37125pt>
+File: ./figures/uerbersetzer.png Graphic file (type png)
+<use ./figures/uerbersetzer.png>
+Package pdftex.def Info: ./figures/uerbersetzer.png  used on input line 128.
+(pdftex.def)             Requested size: 127.39415pt x 85.35826pt.
+[20 <./figures/programm.png> <./figures/uerbersetzer.png>]
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 132.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+
+
+LaTeX Warning: Reference `def:semantik' on page 21 undefined on input line 135.
+
+
+
+LaTeX Warning: Reference `eq:compiler_beziehungen' on page 21 undefined on inpu
+t line 135.
+
+
+LaTeX Warning: Reference `def:pass' on page 21 undefined on input line 135.
+
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 142.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Warning: Citation 'earley_formalism_1970' on page 21 undefined on input l
+ine 143.
+
+<./figures/interpreter.png, id=411, 49.68562pt x 99.37125pt>
+File: ./figures/interpreter.png Graphic file (type png)
+<use ./figures/interpreter.png>
+Package pdftex.def Info: ./figures/interpreter.png  used on input line 146.
+(pdftex.def)             Requested size: 42.68027pt x 85.35826pt.
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 150.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Warning: Citation 'earley_formalism_1970' on page 21 undefined on input l
+ine 151.
+
+<./figures/machiene.png, id=414, 49.68562pt x 42.91031pt>
+File: ./figures/machiene.png Graphic file (type png)
+<use ./figures/machiene.png>
+Package pdftex.def Info: ./figures/machiene.png  used on input line 154.
+(pdftex.def)             Requested size: 49.41788pt x 42.67912pt.
+
+LaTeX Warning: Reference `fig:t_diagram_horinzontal_zusammenfassen' on page 21 
+undefined on input line 160.
+
+<./figures/summarize_compiler.png, id=415, 455.45157pt x 347.79938pt>
+File: ./figures/summarize_compiler.png Graphic file (type png)
+<use ./figures/summarize_compiler.png>
+Package pdftex.def Info: ./figures/summarize_compiler.png  used on input line 1
+67.
+(pdftex.def)             Requested size: 311.54234pt x 237.90678pt.
+[21 <./figures/interpreter.png> <./figures/machiene.png>]
+
+LaTeX Warning: Reference `def:formale_sprache' on page 22 undefined on input li
+ne 184.
+
+
+LaTeX Warning: Reference `def:symbol' on page 22 undefined on input line 184.
+
+
+LaTeX Warning: Reference `def:alphabet' on page 22 undefined on input line 184.
+
+
+
+LaTeX Warning: Reference `def:wort' on page 22 undefined on input line 184.
+
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 186.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Warning: Citation 'nebel_theoretische_2020' on page 22 undefined on input
+ line 187.
+
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 190.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Warning: Reference `def:symbol' on page 22 undefined on input line 191.
+
+
+LaTeX Warning: Citation 'nebel_theoretische_2020' on page 22 undefined on input
+ line 191.
+
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 194.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Warning: Citation 'nebel_theoretische_2020' on page 22 undefined on input
+ line 201.
+
+[22 <./figures/summarize_compiler.png>]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 204.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+
+LaTeX Warning: Reference `def:wort' on page 23 undefined on input line 205.
+
+
+LaTeX Warning: Reference `def:alphabet' on page 23 undefined on input line 205.
+
+
+
+LaTeX Warning: Citation 'nebel_theoretische_2020' on page 23 undefined on input
+ line 205.
+
+
+LaTeX Warning: Reference `def:semantik' on page 23 undefined on input line 210.
+
+
+
+LaTeX Warning: Reference `def:grammatik' on page 23 undefined on input line 210
+.
+
+
+LaTeX Warning: Reference `def:syntax' on page 23 undefined on input line 210.
+
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 212.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Warning: Reference `def:konkrette_syntax' on page 23 undefined on input l
+ine 214.
+
+
+LaTeX Warning: Reference `def:abstrakte_syntax' on page 23 undefined on input l
+ine 214.
+
+
+LaTeX Warning: Citation 'thiemann_einfuhrung_2018' on page 23 undefined on inpu
+t line 214.
+
+
+LaTeX Warning: Citation 'noauthor_syntax_2022' on page 23 undefined on input li
+ne 214.
+
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 217.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Warning: Citation 'thiemann_einfuhrung_2018' on page 23 undefined on inpu
+t line 219.
+
+
+LaTeX Warning: Citation 'noauthor_semantik_2022' on page 23 undefined on input 
+line 219.
+
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 222.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Warning: Citation 'nebel_theoretische_2020' on page 23 undefined on input
+ line 240.
+
+[23]
+
+LaTeX Warning: Reference `def:chromsky_hierarchie' on page 24 undefined on inpu
+t line 245.
+
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 247.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Warning: Reference `fig:chromsky_hierarchie_veranschaulicht' on page 24 u
+ndefined on input line 252.
+
+
+LaTeX Warning: Citation 'nebel_theoretische_2020' on page 24 undefined on input
+ line 252.
+
+
+LaTeX Warning: Citation 'noauthor_chomsky-hierarchie_2022' on page 24 undefined
+ on input line 252.
+
+
+LaTeX Warning: Reference `def:reguläre_grammatik' on page 24 undefined on inpu
+t line 280.
+
+
+LaTeX Warning: Reference `def:kontextfreie_grammatik' on page 24 undefined on i
+nput line 280.
+
+[24]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 282.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+
+LaTeX Warning: Citation 'nebel_theoretische_2020' on page 25 undefined on input
+ line 288.
+
+
+LaTeX Warning: Citation 'noauthor_regulare_2021' on page 25 undefined on input 
+line 288.
+
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 291.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Warning: Citation 'nebel_theoretische_2020' on page 25 undefined on input
+ line 297.
+
+
+LaTeX Warning: Citation 'noauthor_kontextfreie_2021' on page 25 undefined on in
+put line 297.
+
+
+LaTeX Warning: Reference `def:wortproblem' on page 25 undefined on input line 3
+00.
+
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 302.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Warning: Citation 'nebel_theoretische_2020' on page 25 undefined on input
+ line 305.
+
+
+LaTeX Warning: Citation 'noauthor_wortproblem_2022' on page 25 undefined on inp
+ut line 305.
+
+LaTeX Font Info:    Trying to load font information for U+bbm on input line 307
+.
+(/opt/texlive/texdir/texmf-dist/tex/latex/bbm-macros/ubbm.fd
+File: ubbm.fd 1999/03/15 V 1.2 Font definition for bbm font - TH
+)
+
+LaTeX Warning: Reference `def:ein_schritt_ableitungrelation' on page 25 undefin
+ed on input line 319.
+
+
+LaTeX Warning: Reference `def:ableitungslation' on page 25 undefined on input l
+ine 319.
+
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 321.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Warning: Citation 'nebel_theoretische_2020' on page 25 undefined on input
+ line 324.
+
+[25]
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 327.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+Underfull \hbox (badness 1917) in paragraph at lines 330--330
+[][]  \OT1/cmr/m/it/10 (+20) Ei-ne []\OT1/cmr/bx/it/10 (+20) bin[]are Re-la-ti-
+on[] $\OMS/cmsy/m/n/10 )[]$\OT1/cmr/m/it/10 (+20) , wel-che der []\OT1/cmr/bx/i
+t/10 (+20) re-fle-xi-ve[]\OT1/cmr/m/it/10 (+20) , []\OT1/cmr/bx/it/10 (+20) tra
+n-si-ti-ve Ab-schluss[] \OT1/cmr/m/it/10 (+20) der []\OT1/cmr/bx/it/10 (+20) 1-
+Schritt-
+ []
+
+
+LaTeX Warning: Citation 'nebel_theoretische_2020' on page 26 undefined on input
+ line 330.
+
+
+LaTeX Warning: Reference `def:links_rechtsableitung' on page 26 undefined on in
+put line 333.
+
+
+LaTeX Warning: Reference `sec:syntaktische_analyse' on page 26 undefined on inp
+ut line 333.
+
+
+LaTeX Warning: Reference `sec:umsetzung_von_präzidenz' on page 26 undefined on
+ input line 333.
+
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 335.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Warning: Citation 'nebel_theoretische_2020' on page 26 undefined on input
+ line 338.
+
+
+LaTeX Warning: Reference `def:mehrdeutige_grammatik' on page 26 undefined on in
+put line 341.
+
+
+LaTeX Warning: Reference `def:formaler_ableitungsbaum' on page 26 undefined on 
+input line 341.
+
+
+LaTeX Warning: Reference `sec:syntaktische_analyse' on page 26 undefined on inp
+ut line 341.
+
+
+LaTeX Warning: Reference `def:derivation_tree' on page 26 undefined on input li
+ne 341.
+
+File: ./figures/note.png Graphic file (type png)
+<use ./figures/note.png>
+Package pdftex.def Info: ./figures/note.png  used on input line 343.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Warning: Reference `def:grammatik' on page 26 undefined on input line 348
+.
+
+
+LaTeX Warning: Citation 'nebel_theoretische_2020' on page 26 undefined on input
+ line 348.
+
+
+LaTeX Warning: Citation 'noauthor_syntaxbaum_2022' on page 26 undefined on inpu
+t line 348.
+
+[26]
+
+LaTeX Warning: Reference `eq:ableitungsbaum' on page 27 undefined on input line
+ 351.
+
+
+LaTeX Warning: Reference `eq:ableitung_des_ableitungsbaums' on page 27 undefine
+d on input line 351.
+
+
+LaTeX Warning: Reference `def:dialekt_der_ebnf_aus_lark' on page 27 undefined o
+n input line 351.
+
+
+LaTeX Warning: Reference `gr:grammatik_des_ableitungsbaums' on page 27 undefine
+d on input line 351.
+
+! Undefined control sequence.
+\@BTswitch ->{\CT@arc@ 
+                       \hrule \@height \@thisrulewidth }\futurenonspacelet \...
+l.355   \examplegrammarfirst
+                             
 Here is how much of TeX's memory you used:
- 46430 strings out of 475071
- 962776 string characters out of 5780912
- 1672781 words of memory out of 5000000
- 67188 multiletter control sequences out of 15000+600000
- 469259 words of font info for 28 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 88i,0n,92p,637b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 55332 strings out of 475071
+ 1153072 string characters out of 5780912
+ 2142253 words of memory out of 5000000
+ 75159 multiletter control sequences out of 15000+600000
+ 501237 words of font info for 313 fonts, out of 8000000 for 9000
+ 1143 hyphenation exceptions out of 8191
+ 88i,17n,92p,1662b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 !  ==> Fatal error occurred, no output PDF file produced!
