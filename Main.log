@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.1)  1 OCT 2022 13:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.1)  1 OCT 2022 14:01
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1407,9 +1407,12 @@ Package newfloat Info: New float `codecaption' with options `' on input line 18
 Package newfloat Info: float type `codecaption'=8 on input line 184.
 \c@locodecaptiondepth=\count531
 
-(/opt/texlive/texdir/texmf-dist/tex/latex/formal-grammar/formal-grammar.sty
-Package: formal-grammar 2022/02/09 v1.2 A package to typeset formal grammars
+(./sty/formal-grammar.sty
 
+LaTeX Warning: You have requested package `sty/formal-grammar',
+               but the package provides `formal-grammar'.
+
+Package: formal-grammar 2022/02/09 v1.2 A package to typeset formal grammars
 (/opt/texlive/texdir/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
 \everycr=\toks50
@@ -2213,10 +2216,10 @@ l.129   \firstcase
                   {COMMENT}{\dq //\dq\enspace /[{\wedge}\backslash n]{*}/\gr...
  
 Here is how much of TeX's memory you used:
- 53838 strings out of 475071
- 1120169 string characters out of 5780912
- 2132003 words of memory out of 5000000
- 74153 multiletter control sequences out of 15000+600000
+ 53839 strings out of 475071
+ 1120053 string characters out of 5780912
+ 2132007 words of memory out of 5000000
+ 74154 multiletter control sequences out of 15000+600000
  490059 words of font info for 192 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  88i,12n,92p,1195b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
